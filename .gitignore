@@ -18,3 +18,9 @@ preview.html
 dist/
 build/
 *.egg-info/
+
+# Obsolete local npm scaffold preserved on disk but excluded from this Python repository.
+node_modules/
+package.json
+package-lock.json
+.opencode/
