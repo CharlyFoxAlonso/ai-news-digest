@@ -1,0 +1,1 @@
+"""Durable digest state."""
