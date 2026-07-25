@@ -49,6 +49,7 @@ class GmailSMTPDelivery:
         timeout: float = 20,
         factory: SMTPFactory = _default_factory,
         use_starttls: bool = True,
+        authenticate: bool = True,
     ) -> None:
         self.host = host
         self.port = port
@@ -57,6 +58,7 @@ class GmailSMTPDelivery:
         self.timeout = timeout
         self.factory = factory
         self.use_starttls = use_starttls
+        self.authenticate = authenticate
         self.accepted = False
 
     @retry(
@@ -75,7 +77,8 @@ class GmailSMTPDelivery:
             if self.use_starttls:
                 smtp.starttls(context=ssl.create_default_context())
                 smtp.ehlo()
-            smtp.login(self.username, self.app_password)
+            if self.authenticate:
+                smtp.login(self.username, self.app_password)
             refused = smtp.send_message(message)
             if refused:
                 raise SMTPRejectedError(f"SMTP refused recipients: {sorted(refused)}")

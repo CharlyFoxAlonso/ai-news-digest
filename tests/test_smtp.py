@@ -1,7 +1,9 @@
 import smtplib
+import socket
 from email.message import EmailMessage
 
 import pytest
+from aiosmtpd.controller import Controller
 
 from ai_news.delivery.smtp import GmailSMTPDelivery, SMTPRejectedError
 
@@ -87,3 +89,32 @@ def test_rejected_recipient_is_not_retried() -> None:
     with pytest.raises(SMTPRejectedError):
         delivery.send(message())
     assert calls.count("send") == 1
+
+
+def test_acceptance_against_local_smtp_server() -> None:
+    messages = []
+
+    class Handler:
+        async def handle_DATA(self, _server, _session, envelope):
+            messages.append(envelope.content)
+            return "250 accepted"
+
+    with socket.socket() as probe:
+        probe.bind(("127.0.0.1", 0))
+        port = probe.getsockname()[1]
+    controller = Controller(Handler(), hostname="127.0.0.1", port=port)
+    controller.start()
+    try:
+        delivery = GmailSMTPDelivery(
+            host="127.0.0.1",
+            port=port,
+            username="",
+            app_password="",
+            use_starttls=False,
+            authenticate=False,
+        )
+        delivery.send(message())
+    finally:
+        controller.stop()
+    assert delivery.accepted
+    assert len(messages) == 1
