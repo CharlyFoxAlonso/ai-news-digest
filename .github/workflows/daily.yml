@@ -1,0 +1,124 @@
+name: Daily AI News Digest
+
+on:
+  schedule:
+    - cron: "45 11 * * *"
+    - cron: "15 12 * * *"
+  workflow_dispatch:
+    inputs:
+      run_kind:
+        description: "Tipo de ejecución"
+        required: false
+        default: "principal"
+        type: choice
+        options:
+          - principal
+          - recovery
+      dry_run:
+        description: "Construir el digest sin enviar correo"
+        required: false
+        default: false
+        type: boolean
+
+permissions:
+  contents: write
+  issues: write
+
+concurrency:
+  group: ai-news-digest
+  cancel-in-progress: false
+
+jobs:
+  digest:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    env:
+      LLM_PROVIDER: ${{ vars.LLM_PROVIDER || 'gemini' }}
+      LLM_MODEL: ${{ vars.LLM_MODEL || 'gemini-3.5-flash' }}
+      LLM_API_KEY: ${{ secrets.LLM_API_KEY }}
+      RECIPIENT_EMAIL: ${{ vars.RECIPIENT_EMAIL || 'delfatica777@gmail.com' }}
+      SMTP_HOST: ${{ vars.SMTP_HOST || 'smtp.gmail.com' }}
+      SMTP_PORT: ${{ vars.SMTP_PORT || '587' }}
+      SMTP_USERNAME: ${{ secrets.SMTP_USERNAME }}
+      SMTP_APP_PASSWORD: ${{ secrets.SMTP_APP_PASSWORD }}
+      TIMEZONE: ${{ vars.TIMEZONE || 'America/Argentina/Buenos_Aires' }}
+      REPOSITORY: ${{ github.repository }}
+      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      STATE_DIR: ${{ github.workspace }}/state-branch
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: astral-sh/setup-uv@v6
+        with:
+          python-version: "3.12"
+          enable-cache: true
+      - run: uv sync --frozen
+
+      - name: Resolve run mode
+        id: mode
+        shell: bash
+        run: |
+          if [[ "${{ github.event_name }}" == "workflow_dispatch" ]]; then
+            echo "kind=${{ inputs.run_kind }}" >> "$GITHUB_OUTPUT"
+            echo "dry=${{ inputs.dry_run }}" >> "$GITHUB_OUTPUT"
+          elif [[ "${{ github.event.schedule }}" == "15 12 * * *" ]]; then
+            echo "kind=recovery" >> "$GITHUB_OUTPUT"
+            echo "dry=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "kind=principal" >> "$GITHUB_OUTPUT"
+            echo "dry=false" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Prepare durable state checkout
+        shell: bash
+        run: |
+          if git ls-remote --exit-code origin refs/heads/digest-state >/dev/null 2>&1; then
+            git fetch origin digest-state
+            git worktree add state-branch FETCH_HEAD
+          else
+            git worktree add --detach state-branch
+            git -C state-branch switch --orphan digest-state
+            git -C state-branch rm -rf . || true
+            printf '{}\n' > state-branch/state.json
+            printf '[]\n' > state-branch/history.json
+          fi
+
+      - name: Run digest
+        shell: bash
+        run: |
+          args=(--run-kind "${{ steps.mode.outputs.kind }}")
+          if [[ "${{ steps.mode.outputs.dry }}" == "true" ]]; then
+            args+=(--dry-run)
+          fi
+          uv run ai-news-digest "${args[@]}"
+
+      - name: Persist state branch
+        if: ${{ always() && steps.mode.outputs.dry != 'true' }}
+        shell: bash
+        run: |
+          git -C state-branch config user.name "github-actions[bot]"
+          git -C state-branch config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git -C state-branch add state.json history.json
+          if git -C state-branch diff --cached --quiet; then
+            exit 0
+          fi
+          git -C state-branch commit -m "chore(state): update digest state"
+          if git ls-remote --exit-code origin refs/heads/digest-state >/dev/null 2>&1; then
+            git -C state-branch pull --rebase origin digest-state
+          fi
+          git -C state-branch push origin HEAD:digest-state || {
+            git -C state-branch pull --rebase origin digest-state
+            git -C state-branch push origin HEAD:digest-state
+          }
+
+      - name: Upload diagnostics
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: digest-diagnostics-${{ github.run_id }}
+          path: |
+            artifacts/
+            state-branch/state.json
+          if-no-files-found: ignore
+          retention-days: 7
