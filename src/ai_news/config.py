@@ -11,6 +11,7 @@ class Settings(BaseSettings):
         env_file_encoding="utf-8",
         extra="ignore",
         case_sensitive=True,
+        populate_by_name=True,
     )
 
     llm_provider: str = Field(default="gemini", alias="LLM_PROVIDER")
