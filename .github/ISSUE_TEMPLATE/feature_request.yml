@@ -1,0 +1,30 @@
+name: Feature request
+description: Propone una mejora acotada y verificable
+title: "[feature] "
+labels: ["enhancement"]
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problema
+      description: ¿Qué necesidad real no cubre el proyecto?
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Propuesta
+      description: Describe comportamiento, límites y pruebas.
+    validations:
+      required: true
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Alternativas consideradas
+  - type: checkboxes
+    id: scope
+    attributes:
+      label: Alcance
+      options:
+        - label: La propuesta mantiene la suite normal sin llamadas reales de red.
+          required: true

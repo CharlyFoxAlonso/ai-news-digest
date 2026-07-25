@@ -1,0 +1,41 @@
+name: Bug report
+description: Reporta un comportamiento reproducible del digest
+title: "[bug] "
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: No incluyas secretos, direcciones privadas ni cuerpos completos de correo.
+  - type: textarea
+    id: problem
+    attributes:
+      label: Comportamiento observado
+      description: Incluye mensaje redactado, estado y etapa.
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: Comportamiento esperado
+    validations:
+      required: true
+  - type: textarea
+    id: reproduce
+    attributes:
+      label: Reproducción mínima
+      description: Comandos, fixture o test sin credenciales.
+    validations:
+      required: true
+  - type: input
+    id: version
+    attributes:
+      label: Commit o versión
+    validations:
+      required: true
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Verificación
+      options:
+        - label: Confirmo que eliminé secretos y datos personales.
+          required: true
