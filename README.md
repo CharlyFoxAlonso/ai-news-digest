@@ -174,7 +174,7 @@ respuestas de feeds tienen límites. Consulta [SECURITY.md](SECURITY.md).
 
 ## Decisiones de diseño
 
-- REST/SDK oficial de Gemini, sin capa de múltiples proveedores hipotéticos.
+- SDK oficial de Gemini con Interactions API, sin capa de múltiples proveedores hipotéticos.
 - Reglas deterministas antes del LLM para coste, trazabilidad y fallback.
 - `Message-ID` determinista como ayuda operativa, no como garantía de deduplicación.
 - Rama dedicada para estado durable sin incorporar una base de datos.

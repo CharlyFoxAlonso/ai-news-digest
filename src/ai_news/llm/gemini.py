@@ -4,7 +4,6 @@ from typing import Any
 
 import structlog
 from google import genai
-from google.genai import types
 from pydantic import BaseModel, Field, ValidationError, field_validator
 
 from ai_news.models import Article, DigestEntry
@@ -119,21 +118,23 @@ class GeminiDigestService:
         if self._client is None:
             raise RuntimeError("Gemini client is unavailable")
         try:
-            result = self._client.models.generate_content(
+            result = self._client.interactions.create(
                 model=self.model,
-                contents=prompt,
-                config=types.GenerateContentConfig(
-                    response_mime_type="application/json",
-                    response_schema=schema,
-                ),
+                input=prompt,
+                response_format={
+                    "type": "text",
+                    "mime_type": "application/json",
+                    "schema": schema.model_json_schema(),
+                },
             )
         except Exception as exc:
             # The SDK exposes several transport-specific exceptions; the boundary
             # converts all of them to one treated, observable fallback signal.
             raise RuntimeError(f"Gemini request failed: {type(exc).__name__}") from exc
-        if not result.text:
+        output_text = getattr(result, "output_text", None)
+        if not isinstance(output_text, str) or not output_text:
             raise RuntimeError("Gemini returned an empty response")
-        return result.text
+        return output_text
 
 
 def _ranking_prompt(payload: list[dict[str, Any]], limit: int) -> str:

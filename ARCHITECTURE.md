@@ -30,7 +30,7 @@ flowchart TD
 - `feed_parser.py`: convierte RSS/Atom no confiable a entradas validadas.
 - `normalization.py`, `filtering.py`, `dedup.py`: reglas deterministas.
 - `ranking.py`: puntuación legible y límite de 15 candidatos.
-- `llm/gemini.py`: única integración LLM, prompts, schemas y fallback.
+- `llm/gemini.py`: Interactions API, prompts, schemas y fallback.
 - `summary.py`: validación y resumen local seguro.
 - `email_builder.py`, `delivery/smtp.py`: MIME, escape, STARTTLS y aceptación.
 - `persistence/`: JSON atómico, retención y operaciones Git sin force-push.
