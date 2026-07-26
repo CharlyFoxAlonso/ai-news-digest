@@ -1,4 +1,6 @@
+import json
 from datetime import UTC, datetime
+from email.message import EmailMessage
 
 import pytest
 
@@ -16,11 +18,13 @@ class FakeDelivery:
         self.accepted = False
         self.calls = 0
         self.fail = fail
+        self.messages: list[EmailMessage] = []
 
-    def send(self, _message) -> None:
+    def send(self, message: EmailMessage) -> None:
         self.calls += 1
         if self.fail:
             raise RuntimeError("SMTP rejected")
+        self.messages.append(message)
         self.accepted = True
 
 
@@ -50,14 +54,14 @@ def feed_result() -> FeedResult:
     return FeedResult(source=source, items=[item])
 
 
-def orchestrator(tmp_path, delivery, results=None, reporter=None):
+def orchestrator(tmp_path, delivery, results=None, reporter=None, digest_llm=None):
     async def acquire():
         return [feed_result()] if results is None else results
 
     return DigestOrchestrator(
         state_store=StateStore(tmp_path),
         acquire=acquire,
-        llm=llm(),
+        llm=digest_llm or llm(),
         delivery=delivery,
         sender="sender@example.com",
         recipient="reader@example.com",
@@ -144,3 +148,60 @@ async def test_dry_run_never_invokes_smtp(tmp_path) -> None:
     assert not outcome.email_sent
     assert delivery.calls == 0
     assert not (tmp_path / "state.json").exists()
+
+
+def feed_result_with_count(count: int) -> FeedResult:
+    source = FeedSource("OpenAI", "https://example.com/feed", 100)
+    items = [
+        ParsedFeedItem(
+            source=source,
+            title=f"Project quantum-sparrow-{index}",
+            url=f"https://example.com/article-{index}",
+            description="A machine learning inference release.",
+            category="AI",
+            published_at_utc=datetime(2026, 7, 25, 11, tzinfo=UTC),
+        )
+        for index in range(count)
+    ]
+    return FeedResult(source=source, items=items)
+
+
+def selecting_llm(selected_count: int) -> GeminiDigestService:
+    def respond(prompt: str, schema) -> str:
+        if schema.__name__ == "SummaryResponse":
+            return json.dumps(
+                {"summary_es": "Mejora la inferencia.", "why_it_matters": "Reduce costos."}
+            )
+        candidates = json.loads(prompt.split("CANDIDATOS=", 1)[1])
+        items = [
+            {
+                "article_id": item["article_id"],
+                "score": 90 - index,
+                "confidence": 0.9,
+                "category": "AI",
+                "reason": "Relevant",
+            }
+            for index, item in enumerate(candidates[:selected_count])
+        ]
+        return json.dumps({"items": items})
+
+    return GeminiDigestService("x", "model", responder=respond)
+
+
+@pytest.mark.asyncio
+@pytest.mark.parametrize("available,selected", [(7, 5), (5, 5), (3, 3), (1, 1)])
+async def test_email_contains_selected_article_count(
+    tmp_path, available: int, selected: int
+) -> None:
+    delivery = FakeDelivery()
+    outcome = await orchestrator(
+        tmp_path,
+        delivery,
+        results=[feed_result_with_count(available)],
+        digest_llm=selecting_llm(selected),
+    ).run(RunKind.PRINCIPAL, now_utc=datetime(2026, 7, 25, 12, tzinfo=UTC))
+
+    assert len(outcome.entries) == selected
+    assert len(outcome.state.selected_articles) == selected
+    html = delivery.messages[0].get_body(preferencelist=("html",)).get_content()
+    assert html.count("<article ") == selected

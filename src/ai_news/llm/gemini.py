@@ -23,14 +23,6 @@ class RankingItem(BaseModel):
 class RankingResponse(BaseModel):
     items: list[RankingItem]
 
-    @field_validator("items")
-    @classmethod
-    def unique_ids(cls, value: list[RankingItem]) -> list[RankingItem]:
-        ids = [item.article_id for item in value]
-        if len(ids) != len(set(ids)):
-            raise ValueError("duplicate article IDs")
-        return value
-
 
 class SummaryResponse(BaseModel):
     summary_es: str
@@ -75,19 +67,30 @@ class GeminiDigestService:
             response = RankingResponse.model_validate_json(
                 self._generate(_ranking_prompt(payload, limit), RankingResponse)
             )
-            if len(response.items) > limit:
-                raise ValueError("Gemini selected too many articles")
-            unknown = {item.article_id for item in response.items} - by_id.keys()
-            if unknown:
-                raise ValueError(f"unknown article IDs: {sorted(unknown)}")
+            returned_ids = [item.article_id for item in response.items]
+            logger.info(
+                "gemini_ranking_response",
+                returned_article_ids=returned_ids,
+                returned_count=len(returned_ids),
+            )
             selected: list[Article] = []
+            seen_ids: set[str] = set()
             for item in response.items:
-                article = by_id[item.article_id]
+                if item.article_id in seen_ids:
+                    continue
+                seen_ids.add(item.article_id)
+                article = by_id.get(item.article_id)
+                if article is None:
+                    continue
                 article.llm_score = item.score
                 article.llm_confidence = item.confidence
                 article.category = item.category
                 article.ranking_reason = item.reason
                 selected.append(article)
+                if len(selected) == limit:
+                    break
+            if response.items and not selected:
+                raise ValueError("Gemini returned no known article IDs")
             return selected
         except (ValidationError, ValueError, RuntimeError) as exc:
             logger.warning("gemini_ranking_fallback", error=f"{type(exc).__name__}: {exc}")
@@ -140,7 +143,9 @@ class GeminiDigestService:
 def _ranking_prompt(payload: list[dict[str, Any]], limit: int) -> str:
     return (
         "Ordena noticias sobre IA y hardware usando solamente los datos entregados. "
-        f"Selecciona como máximo {limit}. Devuelve JSON según el schema. "
+        f"Selecciona todos los candidatos relevantes, hasta {limit}. Si existen al menos "
+        f"{limit} relevantes, devuelve exactamente {limit}; si existen menos, devuelve todos. "
+        "No completes el cupo con candidatos irrelevantes. Devuelve JSON según el schema. "
         "No inventes artículos ni URLs, no cambies IDs, no agregues hechos externos, "
         "no uses conocimiento no suministrado y no repitas IDs.\n"
         f"CANDIDATOS={json.dumps(payload, ensure_ascii=False)}"

@@ -34,20 +34,64 @@ def test_valid_ranking_json() -> None:
     assert item.llm_score == 91
 
 
-def test_invalid_json_and_unknown_ids_use_heuristic_fallback() -> None:
+def test_invalid_json_uses_heuristic_fallback() -> None:
     item = article()
     assert GeminiDigestService("x", "model", responder=responder("{")).rank([item]) == [item]
-    unknown = json.dumps(
-        {"items": [{"article_id": "invented", "score": 90, "confidence": 1, "category": "AI", "reason": "x"}]}
-    )
-    assert GeminiDigestService("x", "model", responder=responder(unknown)).rank([item]) == [item]
 
 
-def test_duplicate_ids_use_fallback() -> None:
-    ranked_item = {"article_id": "known", "score": 90, "confidence": 1, "category": "AI", "reason": "x"}
-    payload = json.dumps({"items": [ranked_item, ranked_item]})
+def test_duplicate_ids_are_removed_and_unknown_ids_are_ignored() -> None:
+    known = article()
+    second = article("second")
+    ranked_item = {
+        "article_id": "known",
+        "score": 90,
+        "confidence": 1,
+        "category": "AI",
+        "reason": "x",
+    }
+    unknown = ranked_item | {"article_id": "invented"}
+    payload = json.dumps({"items": [ranked_item, ranked_item, unknown]})
+    assert GeminiDigestService("x", "model", responder=responder(payload)).rank(
+        [known, second]
+    ) == [known]
+
+
+def test_only_unknown_ids_use_heuristic_fallback() -> None:
     item = article()
+    unknown = {
+        "article_id": "invented",
+        "score": 90,
+        "confidence": 1,
+        "category": "AI",
+        "reason": "x",
+    }
+    payload = json.dumps({"items": [unknown]})
     assert GeminiDigestService("x", "model", responder=responder(payload)).rank([item]) == [item]
+
+
+def test_ranking_never_returns_more_than_limit() -> None:
+    candidates = [article(str(index)) for index in range(7)]
+    items = [
+        {
+            "article_id": item.article_id,
+            "score": 90 - index,
+            "confidence": 1,
+            "category": "AI",
+            "reason": "x",
+        }
+        for index, item in enumerate(candidates)
+    ]
+    payload = json.dumps({"items": items})
+    assert GeminiDigestService("x", "model", responder=responder(payload)).rank(
+        candidates, limit=5
+    ) == candidates[:5]
+
+
+def test_empty_selection_remains_empty() -> None:
+    payload = json.dumps({"items": []})
+    assert GeminiDigestService("x", "model", responder=responder(payload)).rank(
+        [article()]
+    ) == []
 
 
 def test_valid_and_invalid_summary() -> None:

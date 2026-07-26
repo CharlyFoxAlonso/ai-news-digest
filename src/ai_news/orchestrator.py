@@ -23,7 +23,7 @@ from ai_news.models import (
 from ai_news.normalization import article_from_feed
 from ai_news.persistence.history import StateStore
 from ai_news.ranking import rank_heuristically
-from ai_news.time_utils import digest_date
+from ai_news.time_utils import digest_date, is_within_article_window
 
 logger = structlog.get_logger()
 
@@ -103,15 +103,48 @@ class DigestOrchestrator:
                 for item in result.items
                 if (article := article_from_feed(item)) is not None
             ]
+            acquired_count = sum(len(result.items) for result in results)
+            temporal = [
+                article
+                for article in articles
+                if is_within_article_window(article.published_at_utc, now)
+            ]
             current = filter_articles(articles, now)
+            logger.info(
+                "digest_articles_filtered",
+                acquired_count=acquired_count,
+                normalized_count=len(articles),
+                temporal_count=len(temporal),
+                temporal_discarded_count=len(articles) - len(temporal),
+                filtered_count=len(current),
+                thematic_discarded_count=len(temporal) - len(current),
+            )
             unique = deduplicate(current)
+            logger.info(
+                "digest_articles_deduplicated",
+                input_count=len(current),
+                deduplicated_count=len(unique),
+                duplicates_removed_count=len(current) - len(unique),
+            )
             sent_urls = {
                 url for history in self.state_store.load_history() for url in history.canonical_urls
             }
             unseen = [item for item in unique if str(item.url_canonical) not in sent_urls]
             ranked = rank_heuristically(unseen, now)
+            logger.info(
+                "llm_candidates_sent",
+                candidate_count=len(ranked),
+                candidate_article_ids=[article.article_id for article in ranked],
+                history_excluded_count=len(unique) - len(unseen),
+            )
             selected = self.llm.rank(ranked, limit=5)
             entries = [self.llm.summarize(article) for article in selected]
+            logger.info(
+                "digest_selection_completed",
+                selected_article_ids=[article.article_id for article in selected],
+                final_count=len(selected),
+                dry_run=dry_run,
+            )
             message = build_digest_email(
                 entries,
                 digest_date=local_date,
@@ -126,6 +159,11 @@ class DigestOrchestrator:
             state.status = RunStatus.SENDING
             self.state_store.save_state(state)
             self.delivery.send(message)
+            logger.info(
+                "digest_email_sent",
+                run_id=run_id,
+                final_article_count=len(selected),
+            )
             accepted_at = datetime.now(UTC)
             state.status = RunStatus.SENT
             state.finished_at_utc = accepted_at

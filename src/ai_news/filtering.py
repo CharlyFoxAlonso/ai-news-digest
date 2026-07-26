@@ -6,8 +6,10 @@ from ai_news.time_utils import is_within_article_window
 POSITIVE_TERMS = {
     "accelerator",
     "agent",
+    "anthropic",
     "artificial intelligence",
     "chip",
+    "claude",
     "cuda",
     "foundation model",
     "gpu",
@@ -16,6 +18,7 @@ POSITIVE_TERMS = {
     "llm",
     "machine learning",
     "npu",
+    "openai",
     "pytorch",
     "semiconductor",
     "training",
