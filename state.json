@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "digest_date_local": "2026-07-25",
+  "status": "sent",
+  "run_kind": "principal",
+  "run_id": "95173b7f-ee2a-4115-acda-4c7a416c6a77",
+  "started_at_utc": "2026-07-26T00:47:10.256853Z",
+  "finished_at_utc": "2026-07-26T00:47:14.566703Z",
+  "smtp_message_id": "<35866390ebcdfba7af12915881c3b8bc@ai-news-digest.github-actions>",
+  "selected_articles": [
+    "3878bcedbf21888081531270"
+  ],
+  "last_error": null
+}
