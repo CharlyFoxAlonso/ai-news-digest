@@ -11,5 +11,18 @@
       "Opus 5 may have solved browser-based prompt injection, the biggest security flaw haunting AI agents"
     ],
     "smtp_accepted_at_utc": "2026-07-26T00:47:14.566703Z"
+  },
+  {
+    "digest_date_local": "2026-07-26",
+    "canonical_urls": [
+      "https://the-decoder.com/cursors-agent-swarm-suggests-cheaper-models-can-handle-most-coding-when-frontier-models-plan-the-work"
+    ],
+    "article_hashes": [
+      "e8f76c25939bc174d5cbeef390e0dd25d62e7fb8ae1f01fe0ae9c0b531f348b3"
+    ],
+    "titles": [
+      "Cursor's agent swarm suggests cheaper models can handle most coding when frontier models plan the work"
+    ],
+    "smtp_accepted_at_utc": "2026-07-26T15:44:21.472842Z"
   }
 ]
