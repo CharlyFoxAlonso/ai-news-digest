@@ -1,29 +1,29 @@
+import tomllib
 from datetime import datetime
+from pathlib import Path
 
 from ai_news.models import Article
 from ai_news.time_utils import is_within_article_window
 
-POSITIVE_TERMS = {
-    "accelerator",
-    "agent",
-    "anthropic",
-    "artificial intelligence",
-    "chip",
-    "claude",
-    "cuda",
-    "foundation model",
-    "gpu",
-    "inference",
-    "large language model",
-    "llm",
-    "machine learning",
-    "npu",
-    "openai",
-    "pytorch",
-    "semiconductor",
-    "training",
-    "transformer",
-}
+
+def _load_positive_terms() -> frozenset[str]:
+    config_path = Path(__file__).with_name("topics.toml")
+    config = tomllib.loads(config_path.read_text(encoding="utf-8"))
+    terms: list[str] = []
+    for group_name in ("concepts", "entities"):
+        group = config.get(group_name)
+        if not isinstance(group, dict):
+            raise ValueError(f"topics configuration missing group: {group_name}")
+        group_terms = group.get("terms")
+        if not isinstance(group_terms, list) or not all(
+            isinstance(term, str) for term in group_terms
+        ):
+            raise ValueError(f"topics configuration has invalid terms: {group_name}")
+        terms.extend(group_terms)
+    return frozenset(term.casefold() for term in terms)
+
+
+POSITIVE_TERMS = _load_positive_terms()
 NEGATIVE_TERMS = {"coupon", "giveaway", "horoscope", "smartphone case"}
 TECHNICAL_SOURCES = {"OpenAI", "Google AI", "Hugging Face", "NVIDIA Developer", "Apple Machine Learning"}
 
