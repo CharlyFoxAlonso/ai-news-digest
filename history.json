@@ -24,5 +24,30 @@
       "Cursor's agent swarm suggests cheaper models can handle most coding when frontier models plan the work"
     ],
     "smtp_accepted_at_utc": "2026-07-26T15:44:21.472842Z"
+  },
+  {
+    "digest_date_local": "2026-07-27",
+    "canonical_urls": [
+      "https://developer.nvidia.com/blog/nvidia-ising-enables-fully-automated-quantum-computer-calibration-with-enhanced-in-context-learning",
+      "https://developer.nvidia.com/blog/six-agent-harness-capabilities-for-higher-model-performance",
+      "https://developer.nvidia.com/blog/nvidia-nemotron-3-ultra-leads-open-models-on-accuracy-and-efficiency-in-agentic-rtl-coding",
+      "https://blogs.nvidia.com/blog/open-secure-ai-alliance",
+      "https://machinelearning.apple.com/research/gh-esd"
+    ],
+    "article_hashes": [
+      "aab0d990d25ff915dbfa99689c9942e448e312057559d783f8dd442b277fcfe8",
+      "86e6f5324e4c2aabf802cc126fcfc55360131a3f7507e185a66343800e61ddbc",
+      "004dc1051b7c362dbb5b4c792e057edf17021ea3f3e2b573ef91fab458576f93",
+      "6edf3f426cfcb8e2f445ba85009d24d471a1e108a2a6c9280cc9e622ef02684a",
+      "f117351039193ff8650d97c0dffd4d48b36b0e33fcf2f9f53282a6bd9576634d"
+    ],
+    "titles": [
+      "NVIDIA Ising Enables Fully Automated Quantum Computer Calibration with Enhanced In-Context Learning",
+      "Six Agent Harness Capabilities for Higher Model Performance",
+      "NVIDIA Nemotron 3 Ultra Leads Open Models on Accuracy and Efficiency in Agentic RTL Coding",
+      "Industry Leaders Unite in Open Secure AI Alliance for AI Safety and Security",
+      "GH-ESD: Grounded Hypothesis-Driven Error Slice Discovery for Instance-Level Vision Tasks"
+    ],
+    "smtp_accepted_at_utc": "2026-07-27T17:58:45.010068Z"
   }
 ]
