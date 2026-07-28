@@ -49,5 +49,30 @@
       "GH-ESD: Grounded Hypothesis-Driven Error Slice Discovery for Instance-Level Vision Tasks"
     ],
     "smtp_accepted_at_utc": "2026-07-27T17:58:45.010068Z"
+  },
+  {
+    "digest_date_local": "2026-07-28",
+    "canonical_urls": [
+      "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks",
+      "https://openai.com/index/scientific-computing-agentic-ai",
+      "https://huggingface.co/blog/allenai/olmoearth-infrastructure",
+      "https://huggingface.co/blog/LiquidAI/lfm2-5-encoders",
+      "https://blog.google/products-and-platforms/products/search/ai-mode-real-world-tips"
+    ],
+    "article_hashes": [
+      "9c57623ef609667de3c28690663edbc3d6ea9d6e32d9bc0cafa73a9b64ae67ae",
+      "824b5ba22f1e74f57103cf97c6ccba2fd0427fcaf3709c76d98de2dd553286e5",
+      "9c980868c23ca002eb7f08b08c24455bac730da795770a83d77edadb51dcb49e",
+      "a5bc54280bf29efc8ba4026101ad5cf8b064542a06824bd9a96bcd6a316715e4",
+      "388fcf76f805893583afbc4f1162f65a8fbb8ae6cc42f28a885840da4f39b22a"
+    ],
+    "titles": [
+      "Gemini API Managed Agents: 3.6 Flash, hooks, and more",
+      "Scientific computing in the age of agentic AI",
+      "The OlmoEarth Platform: Geospatial inference at planetary scale",
+      "LFM2.5-Encoders for Fast Long-Context Inference on CPU",
+      "5 ways AI Mode in Search helps you enjoy the real world"
+    ],
+    "smtp_accepted_at_utc": "2026-07-28T17:08:27.867399Z"
   }
 ]
