@@ -124,5 +124,30 @@
       "Microsoft AI bets on cheap specialist models instead of chasing the frontier"
     ],
     "smtp_accepted_at_utc": "2026-07-30T17:08:17.662704Z"
+  },
+  {
+    "digest_date_local": "2026-07-31",
+    "canonical_urls": [
+      "https://developer.nvidia.com/blog/nvidia-video-codec-sdk-13-1-zero-copy-transcode-av1-b-frames-and-frame-accurate-seek",
+      "https://openai.com/index/advancing-responsible-ai-across-europe",
+      "https://developer.nvidia.com/blog/run-high-performance-core-math-at-scale-with-nvidia-nvmath-python",
+      "https://developer.nvidia.com/blog/four-ways-to-deploy-more-secure-ai-agents",
+      "https://openai.com/index/building-abundant-intelligence"
+    ],
+    "article_hashes": [
+      "8d37f791c59bdb2d7c834e8cd58b43242d8638dad9b1f15a100ed03549efa081",
+      "f8ec64126bdac17b3b31c4b605b37e973d9d687edd758330e6ea3e1eb48255f8",
+      "b38736f246dd62608a43ecfa62629f14adc00806c3da37d0982f29ef61f23938",
+      "addbe868362a87b6adf403e72403ba6eb0bd050055ccf419dd10e0043c1089f5",
+      "966cd163f8692d8ca443109be9eebb5cc04899a4c12488381837a35fb8b36194"
+    ],
+    "titles": [
+      "NVIDIA Video Codec SDK 13.1: Zero-Copy Transcode, AV1 B-Frames, and Frame-Accurate Seek",
+      "Advancing responsible AI across Europe",
+      "Run High-Performance Core Math at Scale with NVIDIA nvmath-python",
+      "Four Ways to Deploy More Secure AI Agents",
+      "Building abundant intelligence"
+    ],
+    "smtp_accepted_at_utc": "2026-07-31T17:12:03.814208Z"
   }
 ]
