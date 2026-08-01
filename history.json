@@ -149,5 +149,30 @@
       "Building abundant intelligence"
     ],
     "smtp_accepted_at_utc": "2026-07-31T17:12:03.814208Z"
+  },
+  {
+    "digest_date_local": "2026-08-01",
+    "canonical_urls": [
+      "https://developer.nvidia.com/blog/co-designing-ai-model-attention-for-fast-interactive-long-context-inference",
+      "https://openai.com/index/ten-advances-in-mathematics",
+      "https://the-decoder.com/bytedances-seedance-2-5-generates-30-second-video-clips-with-built-in-audio",
+      "https://the-decoder.com/ai-coding-agents-can-modernize-research-software-but-cant-judge-if-the-science-is-right",
+      "https://the-decoder.com/openai-announces-its-next-major-model-astra-by-dropping-ten-previously-unsolved-math-solutions"
+    ],
+    "article_hashes": [
+      "1adab26bb161510b64c3665aad85ccb0ce27913df0143ccae969cf3886dce036",
+      "e299630b866e2d7ebb7f543050983e5dd910dbcd47a219178da9f4e988c6a6ce",
+      "50c354a978aec445ba2e0e6a2a8864b8288145cd19d3360fb83447b1f62a57d1",
+      "f05897e0f3e5a852258598ec7104df224a8baa6663459bf6e65f95e04951eb3b",
+      "8bd9d87aabea5cec414684346b9db78902d079cb40f9d3873250ab242e03b3b6"
+    ],
+    "titles": [
+      "Co-Designing AI Model Attention for Fast, Interactive Long-Context Inference",
+      "Ten advances in mathematics and theoretical computer science",
+      "ByteDance's Seedance 2.5 generates 30-second video clips with built-in audio",
+      "AI coding agents can modernize research software but can't judge if the science is right",
+      "OpenAI announces its \"next major model\" Astra by dropping ten previously unsolved math solutions"
+    ],
+    "smtp_accepted_at_utc": "2026-08-01T15:41:07.222519Z"
   }
 ]
