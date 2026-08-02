@@ -174,5 +174,24 @@
       "OpenAI announces its \"next major model\" Astra by dropping ten previously unsolved math solutions"
     ],
     "smtp_accepted_at_utc": "2026-08-01T15:41:07.222519Z"
+  },
+  {
+    "digest_date_local": "2026-08-02",
+    "canonical_urls": [
+      "https://the-decoder.com/claude-opus-5-pushes-prompt-to-game-ai-from-rough-color-blocks-to-full-3d-prototypes-with-physics-and-music",
+      "https://the-decoder.com/after-hugging-face-incident-metr-urges-independent-root-cause-investigations-into-ai-agent-misbehavior",
+      "https://the-decoder.com/ai-keeps-cracking-unsolved-math-problems-and-mathematicians-have-mixed-feelings"
+    ],
+    "article_hashes": [
+      "fca70dce713aada2bed53223c46cdbfc8ad1c9e0ffc8a55f7a00413db2de5ee1",
+      "42c2059516802de56d90f1b5ddba796ab045f1ee8cb41d4449b08880f04eb667",
+      "267328baf73160f1be77f8d732e6fe4906cec5edf1fd94a46e7eb41faedfde46"
+    ],
+    "titles": [
+      "Claude Opus 5 pushes prompt-to-game AI from rough color blocks to full 3D prototypes with physics and music",
+      "After Hugging Face incident, METR urges independent root-cause investigations into AI agent misbehavior",
+      "AI keeps cracking unsolved math problems, and mathematicians have mixed feelings"
+    ],
+    "smtp_accepted_at_utc": "2026-08-02T12:42:43.227195Z"
   }
 ]
