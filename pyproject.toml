@@ -6,7 +6,7 @@ readme = "README.md"
 requires-python = ">=3.12,<3.14"
 license = "MIT"
 dependencies = [
-  "feedparser>=6.0.12,<7",
+  "feedparser>=6.0.13,<7",
   "google-genai>=1.56,<2",
   "httpx>=0.28,<1",
   "email-validator>=2.3,<3",
