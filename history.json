@@ -193,5 +193,24 @@
       "AI keeps cracking unsolved math problems, and mathematicians have mixed feelings"
     ],
     "smtp_accepted_at_utc": "2026-08-02T12:42:43.227195Z"
+  },
+  {
+    "digest_date_local": "2026-08-03",
+    "canonical_urls": [
+      "https://the-decoder.com/two-teams-solved-the-same-quantum-crypto-problem-using-gpt-5-6-just-three-hours-apart",
+      "https://the-decoder.com/alibabas-open-weight-qwen3-8-max-takes-on-long-horizon-ai-tasks-with-2-4-trillion-parameters",
+      "https://the-decoder.com/unicorn-pelican-middle-earth-openai-co-founder-karpathy-is-looking-for-the-next-ai-vibe-test"
+    ],
+    "article_hashes": [
+      "634d6d2415da14bf5af98adf3cc6420b377da48c69f09f416d5b961545dc8da5",
+      "beac68b8615d8e618140167f407401618cab4f4e5dd7febcc5a08b680aad1b12",
+      "46c437f112fa4ba8988956adad6e3a4c84c5d11c8a17d23cf9cb81f3b5733573"
+    ],
+    "titles": [
+      "Two teams solved the same quantum crypto problem using GPT-5.6 just three hours apart",
+      "Alibaba’s open-weight Qwen3.8-Max takes on long-horizon AI tasks with 2.4 trillion parameters",
+      "Unicorn, pelican, Middle-earth: OpenAI co-founder Karpathy is looking for the next AI vibe test"
+    ],
+    "smtp_accepted_at_utc": "2026-08-03T14:03:07.239051Z"
   }
 ]
