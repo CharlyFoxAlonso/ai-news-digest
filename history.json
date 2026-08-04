@@ -212,5 +212,30 @@
       "Unicorn, pelican, Middle-earth: OpenAI co-founder Karpathy is looking for the next AI vibe test"
     ],
     "smtp_accepted_at_utc": "2026-08-03T14:03:07.239051Z"
+  },
+  {
+    "digest_date_local": "2026-08-04",
+    "canonical_urls": [
+      "https://blogs.nvidia.com/blog/open-secure-ai-alliance-contributions",
+      "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026",
+      "https://developer.nvidia.com/blog/nvidia-vera-storage-benchmarks-faster-encryption-compression-integrity-checking-and-recovery-for-ai-native-storage",
+      "https://developer.nvidia.com/blog/how-to-run-isolated-tenant-kubernetes-clusters-on-shared-gpu-infrastructure",
+      "https://openai.com/index/apple-is-getting-this-wrong"
+    ],
+    "article_hashes": [
+      "f2fd2516f26ac23135c7bbdac65dd21c65bf2382266948cc8666bb8f2d90b016",
+      "639d81441a0d947392fec3ea925322625063884e4fab0a9a5833310a2d78f30b",
+      "2ea98f967f637084ccae4365bc9cc29b1da659b5272406e0ba8bb9db54ad68d1",
+      "8aacaeb1b7b1bd06c412b6db0da7c96f93e981f23b1ce3ec3772790d5ef74d19",
+      "4a9b73e77846b899c80a1aedb22971ace82ebcc3d3b85836ae454a41eb1c3e86"
+    ],
+    "titles": [
+      "AI Leaders Propose SAFE Guidelines for Cybersecurity Transparency",
+      "The latest AI news we announced in July 2026",
+      "NVIDIA Vera Storage Benchmarks: Faster Encryption, Compression, Integrity Checking, and Recovery for AI-Native Storage",
+      "How to Run Isolated Tenant Kubernetes Clusters on Shared GPU Infrastructure",
+      "Apple is getting this wrong"
+    ],
+    "smtp_accepted_at_utc": "2026-08-04T13:25:24.459678Z"
   }
 ]
