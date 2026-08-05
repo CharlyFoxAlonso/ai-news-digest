@@ -237,5 +237,30 @@
       "Apple is getting this wrong"
     ],
     "smtp_accepted_at_utc": "2026-08-04T13:25:24.459678Z"
+  },
+  {
+    "digest_date_local": "2026-08-05",
+    "canonical_urls": [
+      "https://developer.nvidia.com/blog/beyond-vlas-how-world-action-models-reshape-robot-manipulation",
+      "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models",
+      "https://blogs.nvidia.com/blog/nsf-state-regional-ai-hub-program",
+      "https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b",
+      "https://developer.nvidia.com/blog/generate-trajectories-reasoning-traces-and-auto-labels-with-nvidia-alpamayo-2-super"
+    ],
+    "article_hashes": [
+      "9f9279ae774d1c89228d9958d2d1d551d1000c0b52c2f79cde741e2c186b3829",
+      "c99ec862b4e71599bc42c6f96a94ea0c61758ad0ed0c0445d6331b28e4539a2c",
+      "4bf3719663bf4c01f8b37cea2b9ea20b95932a0be332050caac38c5263c7284b",
+      "aa21db80f8b7b7664c23f0b5de6fc014a64920e8fdb45e2877008c81969f17ab",
+      "fb24ef286bff940398c17fcaa40e5ce5acfee21158fe3e11424cb37aa610ddd4"
+    ],
+    "titles": [
+      "Beyond VLAs: How World Action Models Reshape Robot Manipulation",
+      "Third-party cyber evaluations involving OpenAI models",
+      "NVIDIA Joins NSF State and Regional AI Hubs Program to Expand AI Research and Education Across the US",
+      "Deploy local agents everywhere with LFM2.5-2.6B",
+      "Generate Trajectories, Reasoning Traces, and Auto-Labels with NVIDIA Alpamayo 2 Super"
+    ],
+    "smtp_accepted_at_utc": "2026-08-05T13:23:24.617956Z"
   }
 ]
