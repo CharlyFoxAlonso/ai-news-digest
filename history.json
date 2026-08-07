@@ -287,5 +287,30 @@
       "OpenAI developer warns the \"tireless eagle eyes of a million models\" are coming for your exposed API keys and crypto wallets"
     ],
     "smtp_accepted_at_utc": "2026-08-06T13:21:47.754388Z"
+  },
+  {
+    "digest_date_local": "2026-08-07",
+    "canonical_urls": [
+      "https://openai.com/index/hsp-gruppe",
+      "https://the-decoder.com/openai-improves-gpt-5-6-sol-in-chatgpt-and-restricts-free-users-to-its-weakest-model",
+      "https://newsroom.intel.com/corporate/creating-pathways-to-semiconductor-careers-intel-launches-sepp",
+      "https://the-decoder.com/amazon-cursor-microsoft-openai-and-vercel-unite-on-a-shared-standard-for-ai-agent-plugins",
+      "https://ir.amd.com/news-events/press-releases/detail/1296/amd-acquires-taalas-to-advance-compute-solutions-for-rapidly-growing-ai-inference-market"
+    ],
+    "article_hashes": [
+      "7347f06e7c916544f6e962de36961dbcdf8c00a50f21f56435f6b7de8971923e",
+      "1738a97f16967791c6ee405c5b4d00621fff618b6723f0ab464c33e36f8496f2",
+      "1a1dc7ec2a4eeb737e847568a596ab0d7d712e77207a2e6c7c7464234fa240f6",
+      "9496611a450721cb1b1c43fd5d6eae9bcebf73e9281fd924a6e116e6b1eaab44",
+      "a5d4fbb4fa69b2d70db3e3255298a9ea3d86af5787d5bba82570085e3cc138c4"
+    ],
+    "titles": [
+      "How HSP GRUPPE builds AI capabilities for tax advisory",
+      "OpenAI improves GPT-5.6 Sol in ChatGPT and restricts free users to its weakest model",
+      "Creating Pathways to Semiconductor Careers: Intel Launches SEPP",
+      "Amazon, Cursor, Microsoft, OpenAI, and Vercel unite on a shared standard for AI agent plugins",
+      "AMD Acquires Taalas to Advance Compute Solutions for Rapidly Growing AI Inference Market"
+    ],
+    "smtp_accepted_at_utc": "2026-08-07T12:29:31.782779Z"
   }
 ]
