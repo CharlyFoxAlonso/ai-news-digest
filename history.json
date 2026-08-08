@@ -312,5 +312,30 @@
       "AMD Acquires Taalas to Advance Compute Solutions for Rapidly Growing AI Inference Market"
     ],
     "smtp_accepted_at_utc": "2026-08-07T12:29:31.782779Z"
+  },
+  {
+    "digest_date_local": "2026-08-08",
+    "canonical_urls": [
+      "https://blogs.nvidia.com/blog/firebird-ai-factory-armenia-blackwell-rubin-dsx",
+      "https://the-decoder.com/xais-imagine-image-2-0-lands-just-behind-openais-gpt-image-2-in-arena-benchmarks",
+      "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
+      "https://the-decoder.com/ai-agents-use-roughly-600-times-more-energy-than-a-simple-chat-prompt",
+      "https://huggingface.co/blog/allenai/tutormoments"
+    ],
+    "article_hashes": [
+      "9c136c29e6ba4008b52cc14ef25ee4fce82c50c04e906960fa70a180e2da328c",
+      "6d866d86aab69868a406e4e35e8f10d59671989e7822830d3275c118d2ca3b36",
+      "e66cc71d0943fe40ad6453dad08e9df8e67072ce6e9fa35d606a5faf12a1f86c",
+      "7d26526ef63e6fa7f3fab728840ff4b133ec941de03559ebff65f4bfce4dff9a",
+      "624979042481ff504b8cdd9f4fefd24e5c9226e8b96822c1d4945a834a37fbab"
+    ],
+    "titles": [
+      "Firebird Launches CIS Region’s Largest AI Factory in Armenia",
+      "xAI's Imagine Image 2.0 lands just behind OpenAI's GPT-Image-2 in Arena benchmarks",
+      "Responding to the next frontier of critical cyber capabilities",
+      "AI agents use roughly 600 times more energy than a simple chat prompt",
+      "TutorMoments: Do AI tutors know when to help and when to hold back?"
+    ],
+    "smtp_accepted_at_utc": "2026-08-08T12:04:16.901838Z"
   }
 ]
