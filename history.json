@@ -337,5 +337,30 @@
       "TutorMoments: Do AI tutors know when to help and when to hold back?"
     ],
     "smtp_accepted_at_utc": "2026-08-08T12:04:16.901838Z"
+  },
+  {
+    "digest_date_local": "2026-08-09",
+    "canonical_urls": [
+      "https://the-decoder.com/google-dismantles-deepmind-and-bets-on-a-fresh-start-as-hassabis-heads-for-the-exit",
+      "https://the-decoder.com/googles-diffusiongemma-proves-you-dont-need-to-train-from-scratch-to-build-a-text-diffusion-model",
+      "https://the-decoder.com/ai-is-flooding-britains-employment-courts-with-lawsuits",
+      "https://the-decoder.com/ais-energy-appetite-drives-nvidia-and-amazon-to-pour-billions-into-massive-power-infrastructure",
+      "https://the-decoder.com/anthropic-sets-claude-code-to-auto-mode-by-default-to-protect-developers-from-bad-approvals"
+    ],
+    "article_hashes": [
+      "a3bce1c228fd47eedaf7a9714051965f26caf54d5c6dc4fa36168d1aea7ef783",
+      "658c25902ad7d5ebb95a0826c55346cdab65459b6b7c311d0e59e9ae872a3e6c",
+      "0d2c5446008e19b10c08774a219446f910ca622fc29e9c39f6024ad7451d21c0",
+      "cd90b053413a5526f2be7449df1c259c0801339a8d4ed76e724b6724e6ca02a8",
+      "88fd3c7b0c8cb591ddc551000f25d814781e94538bfe3e8e7608a3f8a16c8062"
+    ],
+    "titles": [
+      "Google dismantles Deepmind and bets on a fresh start as Hassabis heads for the exit",
+      "Google's DiffusionGemma proves you don't need to train from scratch to build a text diffusion model",
+      "AI is flooding Britain's employment courts with lawsuits",
+      "AI's energy appetite drives Nvidia and Amazon to pour billions into massive power infrastructure",
+      "Anthropic sets Claude Code to Auto Mode by default to protect developers from bad approvals"
+    ],
+    "smtp_accepted_at_utc": "2026-08-09T12:05:11.246620Z"
   }
 ]
