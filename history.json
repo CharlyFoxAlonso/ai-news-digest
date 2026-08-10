@@ -362,5 +362,27 @@
       "Anthropic sets Claude Code to Auto Mode by default to protect developers from bad approvals"
     ],
     "smtp_accepted_at_utc": "2026-08-09T12:05:11.246620Z"
+  },
+  {
+    "digest_date_local": "2026-08-10",
+    "canonical_urls": [
+      "https://huggingface.co/blog/muse-glimmer",
+      "https://huggingface.co/blog/MultiverseComputingCAI/efficient-knowledge-distillation",
+      "https://the-decoder.com/hidden-text-in-a-pdf-is-enough-to-steal-sensitive-data-through-atlassians-ai-agent-rovo",
+      "https://the-decoder.com/openai-acquires-nextslide-to-bring-ai-generated-presentations-into-chatgpt"
+    ],
+    "article_hashes": [
+      "dfb586131bf3d3cb04b45c447ddda1020a0bfabb4f918d58630b10079556383d",
+      "815edfe6383208a72cfe7f7d043ea0afc2543b1ffb0ccb04372202c8f4eb8186",
+      "412684ae459f80cb434fe52286c94ca41e689fd1467421e9ee06d553918b3e7b",
+      "d9ff527c398398d752c603cb83a5844b5ab9fdaffd969d0362bdeb7abece55af"
+    ],
+    "titles": [
+      "Meta is back with Muse Glimmer: local, agentic, multimodal, and open source",
+      "Making Knowledge Distillation Cheap Enough to Run at Scale",
+      "Hidden text in a PDF is enough to steal sensitive data through Atlassian's AI agent Rovo",
+      "OpenAI acquires NextSlide to bring AI-generated presentations into ChatGPT"
+    ],
+    "smtp_accepted_at_utc": "2026-08-10T12:33:47.657679Z"
   }
 ]
