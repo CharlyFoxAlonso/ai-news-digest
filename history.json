@@ -384,5 +384,30 @@
       "OpenAI acquires NextSlide to bring AI-generated presentations into ChatGPT"
     ],
     "smtp_accepted_at_utc": "2026-08-10T12:33:47.657679Z"
+  },
+  {
+    "digest_date_local": "2026-08-11",
+    "canonical_urls": [
+      "https://developer.nvidia.com/blog/run-local-agentic-ai-workflows-with-metas-muse-glimmer-on-nvidia",
+      "https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents",
+      "https://openai.com/index/building-an-ai-native-finance-function",
+      "https://openai.com/index/responsible-ai-infrastructure-texas",
+      "https://blog.google/products/ads-commerce/google-ads-analytics-ai-updates"
+    ],
+    "article_hashes": [
+      "c42703bc35a6b60354cd65ce1541b39202f1f6689764e6b4697682bdf415e515",
+      "5890b1cfd4cc38aa3885e02e9fc3010d881da63d5d8b82ee82ae0ed7c4531d58",
+      "5367cc95a8fd98172eb15540985f3472c41b6f393d6d65c9bf889b4f9238cbc1",
+      "3d196224ab27a2df369cbcf0994d8b85125e1e44f774a26b897579f4f210801c",
+      "013cf06e857ce80e8c35cee5cc798d8411a0b5b9696bdfe840b80c5705f56dc0"
+    ],
+    "titles": [
+      "Run Local Agentic AI Workflows with Meta’s Muse Glimmer on NVIDIA",
+      "Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS",
+      "What building an AI-native finance function taught me",
+      "OpenAI’s letter to Governor Abbott on responsible AI infrastructure in Texas",
+      "Evolve your marketing with new AI tools"
+    ],
+    "smtp_accepted_at_utc": "2026-08-11T12:29:27.972476Z"
   }
 ]
