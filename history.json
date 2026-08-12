@@ -409,5 +409,30 @@
       "Evolve your marketing with new AI tools"
     ],
     "smtp_accepted_at_utc": "2026-08-11T12:29:27.972476Z"
+  },
+  {
+    "digest_date_local": "2026-08-12",
+    "canonical_urls": [
+      "https://developer.nvidia.com/blog/nvidia-nemotron-3-5-lightning-delivers-fast-accurate-specialized-task-execution-for-long-running-agents",
+      "https://developer.nvidia.com/blog/nvidia-jetpack-7-2-1-adds-agentic-video-skills-and-t3000-emulation",
+      "https://developer.nvidia.com/blog/route-ai-agent-workloads-across-models-with-nvidia-nemo-switchyard",
+      "https://blogs.nvidia.com/blog/nemotron-lightning-switchyard-rtx-dgx",
+      "https://blogs.nvidia.com/blog/nvidia-ai-factory-compute"
+    ],
+    "article_hashes": [
+      "4e1f5a94e87e3f0d425591759b0aee8776bbfbd1f855ec936ad9c129385f8392",
+      "85020467db5d6b2aae23b216960c692d44bfce4a5c1e76ec97c0f563b97bf950",
+      "64d8a39417625d36a59676fb6af2792d6cce4a3885800c971475159be1e2881b",
+      "9428cc2bc3c996d8505a0fdff4b7b0532b635f8bddc4272ecf0fa57da3a9db52",
+      "6ae5efd1aaa57ef3abf3b24a667c26b87c37d32bd8807d484bd24820bbf0e32e"
+    ],
+    "titles": [
+      "NVIDIA Nemotron 3.5 Lightning Delivers Fast, Accurate Specialized Task Execution for Long-Running Agents",
+      "NVIDIA JetPack 7.2.1 Adds Agentic Video Skills and T3000 Emulation",
+      "Route AI Agent Workloads Across Models with NVIDIA NeMo Switchyard",
+      "NVIDIA Nemotron 3.5 Lightning and NeMo Switchyard Deliver Faster, Smarter, More Efficient Agentic AI",
+      "NVIDIA AI Factory Compute Is Becoming an Investable Asset Class"
+    ],
+    "smtp_accepted_at_utc": "2026-08-12T12:33:51.108033Z"
   }
 ]
