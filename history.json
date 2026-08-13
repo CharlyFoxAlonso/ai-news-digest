@@ -434,5 +434,30 @@
       "NVIDIA AI Factory Compute Is Becoming an Investable Asset Class"
     ],
     "smtp_accepted_at_utc": "2026-08-12T12:33:51.108033Z"
+  },
+  {
+    "digest_date_local": "2026-08-13",
+    "canonical_urls": [
+      "https://developer.nvidia.com/blog/serve-qwen3-8-2-4t-a95b-a-2-4t-parameter-model-with-configurable-reasoning-on-nvidia-gb300-nvl72",
+      "https://the-decoder.com/spacexais-grok-4-6-matches-openais-best-model-and-undercuts-it-on-price",
+      "https://developer.nvidia.com/blog/how-to-choose-full-stack-observability-for-nvidia-ai-factories",
+      "https://blogs.nvidia.com/blog/nvidia-life-glassdoor-best-ceo-2026",
+      "https://huggingface.co/blog/allenai/olmoearth-embeddings"
+    ],
+    "article_hashes": [
+      "5042ddb06fd844309130b6e9e07973fba266722afc75503fbe6ab023f3569572",
+      "8fc44c7cf524bdda7e9472e7071c02db3baf5e5932f986e58c8f47c148d38dd6",
+      "a3bde1d37a86d91661b205ced75cb988e704a020379f7c03cc3359e3f107bbb1",
+      "9424dd440dad4214d0eacec5631284f72083d775f30ad662fc292ef6c248a3ed",
+      "249a5e1ede4df4c078023a6f0eb49ede54fb5bdd187586ea50eee351b3c1007c"
+    ],
+    "titles": [
+      "Serve Qwen3.8-2.4T-A95B, a 2.4T-Parameter Model, with Configurable Reasoning on NVIDIA GB300 NVL72",
+      "SpaceXAI's Grok 4.6 matches OpenAI's best model and undercuts it on price",
+      "How to Choose Full-Stack Observability for NVIDIA AI Factories",
+      "NVIDIA CEO Tops Glassdoor’s 2026 List of Best CEOs",
+      "Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis"
+    ],
+    "smtp_accepted_at_utc": "2026-08-13T12:34:30.497403Z"
   }
 ]
