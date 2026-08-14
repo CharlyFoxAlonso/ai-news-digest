@@ -459,5 +459,30 @@
       "Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis"
     ],
     "smtp_accepted_at_utc": "2026-08-13T12:34:30.497403Z"
+  },
+  {
+    "digest_date_local": "2026-08-14",
+    "canonical_urls": [
+      "https://the-decoder.com/gemini-3-7-flash-lands-with-coding-gains-and-undercuts-its-three-week-old-predecessors-price-by-50",
+      "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
+      "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets",
+      "https://the-decoder.com/zhipu-ai-releases-glm-5-3-claims-its-the-strongest-open-weights-coding-model",
+      "https://blogs.nvidia.com/blog/geforce-now-thursday-linux-native-app"
+    ],
+    "article_hashes": [
+      "83512a58ebe71f9345a86cf167112e8951d3d0a35813876c586a65fb9df9c584",
+      "353217afc4f706b5339de407629065a4820f98bc0f70c28c174d08c10ec6ab52",
+      "e546c9507c4bdece8e78a9938c5519585e0b65f749ccceed110f32b1026fe6bd",
+      "6aef77ac8a2d7e2aaf18be19ddd91b636a5bbff7b54022de2a7d253a30b01de1",
+      "d32c0bf04e2be3095c4643d40ed55b0940f3fccabc840095d15b52755c8a75f7"
+    ],
+    "titles": [
+      "Gemini 3.7 Flash lands with coding gains and undercuts its three-week-old predecessor's price by 50%",
+      "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
+      "Bring your spreadsheet data to life with Sheets canvas",
+      "Zhipu AI releases GLM-5.3, claims it's the strongest open-weights coding model",
+      "Class Is in Session: GeForce NOW Levels Up Linux, Chromebooks and More"
+    ],
+    "smtp_accepted_at_utc": "2026-08-14T12:29:28.847573Z"
   }
 ]
