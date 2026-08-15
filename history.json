@@ -484,5 +484,30 @@
       "Class Is in Session: GeForce NOW Levels Up Linux, Chromebooks and More"
     ],
     "smtp_accepted_at_utc": "2026-08-14T12:29:28.847573Z"
+  },
+  {
+    "digest_date_local": "2026-08-15",
+    "canonical_urls": [
+      "https://blogs.nvidia.com/blog/ugm-indosat-nvidia-ai-technology-center",
+      "https://the-decoder.com/study-contradicts-anthropic-and-openai-claims-that-autonomous-ai-research-is-within-reach",
+      "https://the-decoder.com/new-benchmark-confirms-ai-models-still-perform-poorly-at-visual-perception",
+      "https://the-decoder.com/gpt-5-6-sol-goes-14x-faster-as-openai-launches-ultrafast-mode-powered-by-cerebras",
+      "https://the-decoder.com/world-labs-turns-one-real-world-robot-task-into-thousands-of-simulated-variations-for-training"
+    ],
+    "article_hashes": [
+      "2fa073787938da8cf3c9b8141b7b0b4e8e032f976205e26c9e5ba6028af51344",
+      "01c1453e34a46e0a4e05833a7324e1116009a577931f08977657b6ccf7bf8f98",
+      "c4d82b7ab375f8edfbee2ed8f08b8e49e2ceaf94d8d700ca229bca9e084add37",
+      "cf6ac06f9131341e7f9c5fe1b15c6066c711453fe865ad7e06ae50c4d9d46cbb",
+      "ed68e1d59ed58feba29e68a533ff31a904fb4218ca6cd464597bd579f0538cc9"
+    ],
+    "titles": [
+      "Universitas Gadjah Mada, Indosat and NVIDIA Open Indonesia’s First University AI Center to Develop Local AI Talent",
+      "Study contradicts Anthropic and OpenAI claims that autonomous AI research is within reach",
+      "New benchmark confirms AI models still perform poorly at visual perception",
+      "GPT-5.6 Sol goes 14x faster as OpenAI launches Ultrafast mode powered by Cerebras",
+      "World Labs turns one real-world robot task into thousands of simulated variations for training"
+    ],
+    "smtp_accepted_at_utc": "2026-08-15T11:58:03.002765Z"
   }
 ]
