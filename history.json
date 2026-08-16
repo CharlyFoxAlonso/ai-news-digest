@@ -509,5 +509,27 @@
       "World Labs turns one real-world robot task into thousands of simulated variations for training"
     ],
     "smtp_accepted_at_utc": "2026-08-15T11:58:03.002765Z"
+  },
+  {
+    "digest_date_local": "2026-08-16",
+    "canonical_urls": [
+      "https://the-decoder.com/openai-dissolved-the-team-built-to-catch-catastrophic-ai-risks-reassigning-its-work-to-other-groups",
+      "https://the-decoder.com/anthropics-bio-weapons-filter-was-down-for-nearly-a-year-exposing-133-million-requests",
+      "https://the-decoder.com/optima-tackles-ai-benchmarkings-biggest-flaw-by-letting-users-test-models-against-their-own-data",
+      "https://the-decoder.com/investor-pressure-forces-nvidia-to-shrink-its-openai-bet-just-as-anthropics-numbers-defy-bubble-warnings"
+    ],
+    "article_hashes": [
+      "e71efcec070c6c7f436e095967a043604e820e5d2a2b6e0c914925978644e7ae",
+      "79423b6edbeb6ec741c2f3699b384e2d1777a984fd05a3e4edf43313797387c2",
+      "31a53d426720e4b80564f6cc6c7ecdb0fb11cb493464acc126d7689793c63f33",
+      "8d6eb1a31c963bbad234d1d2ad672b3c2c4ce51e5e4b488598d44b406c0c440f"
+    ],
+    "titles": [
+      "OpenAI dissolved the team built to catch catastrophic AI risks, reassigning its work to other groups",
+      "Anthropic's bio-weapons filter was down for nearly a year, exposing 133 million requests",
+      "Optima tackles AI benchmarking's biggest flaw by letting users test models against their own data",
+      "Investor pressure forces Nvidia to shrink its OpenAI bet just as Anthropic's numbers defy bubble warnings"
+    ],
+    "smtp_accepted_at_utc": "2026-08-16T11:58:58.047019Z"
   }
 ]
