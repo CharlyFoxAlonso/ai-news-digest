@@ -531,5 +531,27 @@
       "Investor pressure forces Nvidia to shrink its OpenAI bet just as Anthropic's numbers defy bubble warnings"
     ],
     "smtp_accepted_at_utc": "2026-08-16T11:58:58.047019Z"
+  },
+  {
+    "digest_date_local": "2026-08-17",
+    "canonical_urls": [
+      "https://blog.google/products-and-platforms/products/gemini/google-gemini-pixel-football-club-partnerships",
+      "https://openai.com/index/new-policy-ideas-for-the-intelligence-age",
+      "https://the-decoder.com/anthropic-watermarks-claudes-output-but-critics-question-the-tradeoffs",
+      "https://the-decoder.com/top-mathematicians-say-llms-are-strong-calculators-but-poor-creative-thinkers"
+    ],
+    "article_hashes": [
+      "3aca82d56d54fd7c01e7de7e7e84434a4975606e52a81db4d50ec34ea8b5ff18",
+      "3ff02964da6b7f4fea83906b54535d5964d43b96117d6a1ed402353b95aa89d8",
+      "70857c8a3460e68f47655838e618852a48b6cc8a5aa1eb713010b127d5cc50ad",
+      "a983ac6a3f04c07ad26dab9756aca79553c4795be37502b5d111673fc1db5e75"
+    ],
+    "titles": [
+      "Get closer to the game with Gemini and Pixel",
+      "New policy ideas for the Intelligence Age",
+      "Anthropic watermarks Claude's output, but critics question the tradeoffs",
+      "Top mathematicians say LLMs are strong calculators but poor creative thinkers"
+    ],
+    "smtp_accepted_at_utc": "2026-08-17T12:01:11.884844Z"
   }
 ]
