@@ -553,5 +553,30 @@
       "Top mathematicians say LLMs are strong calculators but poor creative thinkers"
     ],
     "smtp_accepted_at_utc": "2026-08-17T12:01:11.884844Z"
+  },
+  {
+    "digest_date_local": "2026-08-18",
+    "canonical_urls": [
+      "https://openai.com/index/introducing-chatgpt-for-teens",
+      "https://developer.nvidia.com/blog/developing-nemotron-3-5-lightning-nvfp4-with-qad-using-nvidia-model-optimizer",
+      "https://openai.com/index/partnering-with-codeai",
+      "https://blogs.nvidia.com/blog/securing-the-infrastructure-of-intelligence",
+      "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2"
+    ],
+    "article_hashes": [
+      "24eae3915ee00380f062d5f19085ea22d70636fd257e45d8c1a1128fe4cc2500",
+      "04cc55d0afcfe3e06f29c5df3151b5e9d377226a7c67b8dc8ec41c0c03e7227d",
+      "6d4ec902c728a02128d0e9d0f2d97315b31b6e3516e9601be6e9577b06f5790c",
+      "b83997df209ee9990ae6c6983c161b701f6db13394f82aa3011eb4a31bbc1cae",
+      "bf50ec5ce617ac83f0c8191a946860d3cb0cd0d2aa8f71d8bb07d1b2c9c687ea"
+    ],
+    "titles": [
+      "Introducing ChatGPT for Teens: Built for learning, backed by protections",
+      "Developing Nemotron 3.5 Lightning NVFP4 with QAD Using NVIDIA Model Optimizer",
+      "Partnering with CodeAI to prepare the first AI generation",
+      "Securing the Infrastructure of Intelligence",
+      "Same Cluster, 33 Points More Utilization: What Changed Was the Order"
+    ],
+    "smtp_accepted_at_utc": "2026-08-18T12:02:12.429364Z"
   }
 ]
