@@ -578,5 +578,30 @@
       "Same Cluster, 33 Points More Utilization: What Changed Was the Order"
     ],
     "smtp_accepted_at_utc": "2026-08-18T12:02:12.429364Z"
+  },
+  {
+    "digest_date_local": "2026-08-19",
+    "canonical_urls": [
+      "https://developer.nvidia.com/blog/how-ai-coding-agents-can-unlock-materials-simulation-with-nvidia-alchemi-toolkit",
+      "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
+      "https://openai.com/index/chatgpt-ads-expands-across-europe",
+      "https://developer.nvidia.com/blog/run-massive-scale-umap-in-minutes-using-multiple-gpus-without-losing-accuracy",
+      "https://huggingface.co/blog/ibm-research/altk-evolve-hmm"
+    ],
+    "article_hashes": [
+      "9fa4d4a1f668229928cf2afe7a1b4e38be0691afd89904baac68b883b87230b2",
+      "f0aa91974e0ad6ca58685787e6b44fa037cfd800e1d56928380594665b146fc1",
+      "8393c843a171d72369b2dfabe36ce65b3e11844d7844cfc40853fcf71ec3d4b3",
+      "73f35bd8d7a04cb271c44c2c65eb0258c8154a9dc69529b1d6be3e02ffd4a544",
+      "5ba78b757300e8cc3ff5b4c8f26a93a1cc067af59a63302997722a2b18eff29a"
+    ],
+    "titles": [
+      "How AI Coding Agents Can Unlock Materials Simulation with NVIDIA ALCHEMI Toolkit",
+      "Strengthening democratic oversight in national security",
+      "ChatGPT Ads expands across Europe",
+      "Run Massive-Scale UMAP in Minutes Using Multiple GPUs—Without Losing Accuracy",
+      "How Much Memory Does Your Agent Actually Need?"
+    ],
+    "smtp_accepted_at_utc": "2026-08-19T12:02:08.822374Z"
   }
 ]
