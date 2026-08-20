@@ -603,5 +603,30 @@
       "How Much Memory Does Your Agent Actually Need?"
     ],
     "smtp_accepted_at_utc": "2026-08-19T12:02:08.822374Z"
+  },
+  {
+    "digest_date_local": "2026-08-20",
+    "canonical_urls": [
+      "https://developer.nvidia.com/blog/building-federated-multimodal-ai-workflows-with-nvidia-flare",
+      "https://developer.nvidia.com/blog/developing-nvidia-holoscan-applications-with-cli-skills-and-ai-coding-agents",
+      "https://developer.nvidia.com/blog/evaluating-ai-agent-skill-performance-with-nvidia-skillevaluator",
+      "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
+      "https://developer.nvidia.com/blog/post-train-nvidia-cosmos-3-edge-for-on-device-robot-control"
+    ],
+    "article_hashes": [
+      "fe4db26d6cadac6b2476fd7a3bc08da6ea76a72d9d708cca2089b435f3ff3564",
+      "af48a937ffe7e63e70063b62d54586a36643ae482d9e22352057f466b181fb64",
+      "92423334bbd0b0563e33c4a5971a961be11d6e71a84b2226def539321d529e99",
+      "df8f12302a5b421ac18657dd3c98b85f0bbbcdb55f27a7a2a1e94cd20d3dde6b",
+      "5e8be0d1d1832f93172185e0dd2bd54f471c7ef8e853b49902c5c247b81c54da"
+    ],
+    "titles": [
+      "Building Federated Multimodal AI Workflows with NVIDIA FLARE",
+      "Developing NVIDIA Holoscan Applications with CLI, Skills, and AI Coding Agents",
+      "Evaluating AI Agent Skill Performance with NVIDIA SkillEvaluator",
+      "Offering Zero Data Retention for frontier models",
+      "Post-Train NVIDIA Cosmos 3 Edge for On-Device Robot Control"
+    ],
+    "smtp_accepted_at_utc": "2026-08-20T12:04:02.310485Z"
   }
 ]
