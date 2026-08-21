@@ -628,5 +628,30 @@
       "Post-Train NVIDIA Cosmos 3 Edge for On-Device Robot Control"
     ],
     "smtp_accepted_at_utc": "2026-08-20T12:04:02.310485Z"
+  },
+  {
+    "digest_date_local": "2026-08-21",
+    "canonical_urls": [
+      "https://developer.nvidia.com/blog/how-generative-recommenders-are-redefining-recsys-at-scale",
+      "https://the-decoder.com/gpt-5-6-sol-drives-openais-revenue-surge-as-it-regains-ground-on-anthropic",
+      "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
+      "https://blogs.nvidia.com/blog/geforce-now-thursday-firefox",
+      "https://newsroom.intel.com/artificial-intelligence/6-in-10-leaders-bet-big-on-robots-only-4-in-10-are-ready"
+    ],
+    "article_hashes": [
+      "95051ae085b629008cb8ad27f32e4b2edfcc2da532ea1bce9729a9a9706983bb",
+      "d469d62577e7ccc966811c0841170ee6940c482fc71cd62736ee583c7a4bb540",
+      "eab5285cfdebeb65a8ef35d4bffcfc39f4434e5c4addfd2ea652e42de6b3fb15",
+      "86193e18c8a1b500e4fb228e0acb520e3eeb8ccc40cc850df9eea8ee34227ea1",
+      "a4d93c1b5d06c3818380145e2a7ad774cf92291040b8ccd8452d334215f8fa9d"
+    ],
+    "titles": [
+      "How Generative Recommenders Are Redefining RecSys at Scale",
+      "GPT-5.6 Sol drives OpenAI's revenue surge as it regains ground on Anthropic",
+      "Up to 3.2x Faster Inference with LFM2.5-DSpark",
+      "Bring the Fire: Play Games on GeForce NOW With New Firefox Browser Support",
+      "Six in 10 Leaders Bet Big on Robots. Only Four in 10 Are Ready."
+    ],
+    "smtp_accepted_at_utc": "2026-08-21T12:03:44.902518Z"
   }
 ]
