@@ -653,5 +653,30 @@
       "Six in 10 Leaders Bet Big on Robots. Only Four in 10 Are Ready."
     ],
     "smtp_accepted_at_utc": "2026-08-21T12:03:44.902518Z"
+  },
+  {
+    "digest_date_local": "2026-08-22",
+    "canonical_urls": [
+      "https://developer.nvidia.com/blog/nvidia-avo-reaches-100-on-arc-agi-3-demonstrating-a-frontier-level-general-purpose-architecture-for-long-horizon-autonomous-agents",
+      "https://developer.nvidia.com/blog/where-security-fits-in-an-ai-agent-stack",
+      "https://developer.nvidia.com/blog/gpu-accelerated-clustering-for-financial-instruments-at-scale",
+      "https://developer.nvidia.com/blog/maximizing-ai-factory-performance-per-watt-with-nvidia-dsx-maxlps",
+      "https://the-decoder.com/deepseek-releases-experimental-flash-vision-model-that-rivals-opus-4-8-on-agent-benchmarks"
+    ],
+    "article_hashes": [
+      "cc6c6cc7a6fd67ce2f93bf94625809449a6a75fec9e46806916ea28305cdbaaf",
+      "d47bf2b3aab10956a51461bb318b2f1a7b2bf17e8d8173d6011bc9b5ebfcd91e",
+      "2cd10252971bf80886c5ac468aaee42a38c8f26dcc9edccffa11185498703a1c",
+      "aa99f8cfcbdc63c2f643808eb5144559a443d15308f119a2d52eb5858fdf4a99",
+      "ae0ae76467f3fd24c24e2e543587b9cb1567b8e9f15a6282123ce02d4e6a8346"
+    ],
+    "titles": [
+      "NVIDIA AVO Reaches 100% on ARC-AGI-3, Demonstrating a Frontier-Level General-Purpose Architecture for Long-Horizon Autonomous Agents",
+      "Where Security Fits in an AI Agent Stack",
+      "GPU-Accelerated Clustering for Financial Instruments at Scale",
+      "Maximizing AI Factory Performance per Watt with NVIDIA DSX MaxLPS",
+      "Deepseek releases experimental Flash vision model that rivals Opus 4.8 on agent benchmarks"
+    ],
+    "smtp_accepted_at_utc": "2026-08-22T11:59:26.696525Z"
   }
 ]
