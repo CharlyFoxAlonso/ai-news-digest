@@ -678,5 +678,27 @@
       "Deepseek releases experimental Flash vision model that rivals Opus 4.8 on agent benchmarks"
     ],
     "smtp_accepted_at_utc": "2026-08-22T11:59:26.696525Z"
+  },
+  {
+    "digest_date_local": "2026-08-23",
+    "canonical_urls": [
+      "https://the-decoder.com/ai-is-becoming-ais-biggest-customer-as-agentic-token-usage-jumps-14x-on-openrouter",
+      "https://the-decoder.com/memory-shortage-reportedly-drives-nvidia-ai-server-prices-up-about-15-percent",
+      "https://the-decoder.com/how-chinas-gray-market-sells-claude-tokens-at-a-fraction-of-the-price",
+      "https://the-decoder.com/study-explains-why-ai-agents-benefit-from-skills-and-when-they-fail"
+    ],
+    "article_hashes": [
+      "a61fcdeff7be347b8ce5fc9360911dbb2604003eec0f7b177049583ca17d748d",
+      "0aeada2d740c44a7648fbdcf6fde7cd2705f1204788f072a84255105d0b194ed",
+      "12ec7614b9306947bee1e076ff232d745eb776c8e325672588d80e1f09b71fd7",
+      "9603cf74f0485539936cd944982261c4bb8752d04c5aafb072d423f89c55f4a0"
+    ],
+    "titles": [
+      "AI is becoming AI's biggest customer as agentic token usage jumps 14x on OpenRouter",
+      "Memory shortage reportedly drives Nvidia AI server prices up about 15 percent",
+      "How China's gray market sells Claude tokens at a fraction of the price",
+      "Study explains why AI agents benefit from \"skills\" and when they fail"
+    ],
+    "smtp_accepted_at_utc": "2026-08-23T11:59:23.559326Z"
   }
 ]
