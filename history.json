@@ -1,18 +1,5 @@
 [
   {
-    "digest_date_local": "2026-07-25",
-    "canonical_urls": [
-      "https://the-decoder.com/opus-5-may-have-solved-browser-based-prompt-injection-the-biggest-security-flaw-haunting-ai-agents"
-    ],
-    "article_hashes": [
-      "4aea90c3f804191c3f85b7db6aced2ad33431ca27bdeb4e1009b2b3b85709b1b"
-    ],
-    "titles": [
-      "Opus 5 may have solved browser-based prompt injection, the biggest security flaw haunting AI agents"
-    ],
-    "smtp_accepted_at_utc": "2026-07-26T00:47:14.566703Z"
-  },
-  {
     "digest_date_local": "2026-07-26",
     "canonical_urls": [
       "https://the-decoder.com/cursors-agent-swarm-suggests-cheaper-models-can-handle-most-coding-when-frontier-models-plan-the-work"
@@ -700,5 +687,27 @@
       "Study explains why AI agents benefit from \"skills\" and when they fail"
     ],
     "smtp_accepted_at_utc": "2026-08-23T11:59:23.559326Z"
+  },
+  {
+    "digest_date_local": "2026-08-24",
+    "canonical_urls": [
+      "https://the-decoder.com/ai-chatbots-regularly-link-pregnant-users-to-anti-abortion-websites-without-disclosure",
+      "https://the-decoder.com/cerebras-unveils-cs-4-with-double-the-performance-on-the-same-chip",
+      "https://the-decoder.com/nvidia-in-talks-to-invest-in-perplexity-at-30-billion-plus-valuation",
+      "https://the-decoder.com/an-ai-boss-fired-its-first-employee-but-only-after-humans-reminded-it-of-its-own-rules"
+    ],
+    "article_hashes": [
+      "fa4f6c7878cbb76939aabd05912b2520db2235c66db1a05d9916a4c37323d80a",
+      "5171e858b65060307789333029086af5d90460a61bcdb8e122779cd3574a914d",
+      "c8d5035e3aa2f8fbc7971ca870724f38f1d727a252e01bbca7bf2610fd697ef8",
+      "a6340025dba66d5c4a43c77741e3432869dde3e858b9f6f911d62e7da958fe11"
+    ],
+    "titles": [
+      "AI chatbots regularly link pregnant users to anti-abortion websites without disclosure",
+      "Cerebras unveils CS-4 with double the performance on the same chip",
+      "Nvidia in talks to invest in Perplexity at $30 billion-plus valuation",
+      "An AI boss fired its first employee but only after humans reminded it of its own rules"
+    ],
+    "smtp_accepted_at_utc": "2026-08-24T12:03:31.895529Z"
   }
 ]
