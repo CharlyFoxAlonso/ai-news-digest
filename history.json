@@ -1,18 +1,5 @@
 [
   {
-    "digest_date_local": "2026-07-26",
-    "canonical_urls": [
-      "https://the-decoder.com/cursors-agent-swarm-suggests-cheaper-models-can-handle-most-coding-when-frontier-models-plan-the-work"
-    ],
-    "article_hashes": [
-      "e8f76c25939bc174d5cbeef390e0dd25d62e7fb8ae1f01fe0ae9c0b531f348b3"
-    ],
-    "titles": [
-      "Cursor's agent swarm suggests cheaper models can handle most coding when frontier models plan the work"
-    ],
-    "smtp_accepted_at_utc": "2026-07-26T15:44:21.472842Z"
-  },
-  {
     "digest_date_local": "2026-07-27",
     "canonical_urls": [
       "https://developer.nvidia.com/blog/nvidia-ising-enables-fully-automated-quantum-computer-calibration-with-enhanced-in-context-learning",
@@ -709,5 +696,30 @@
       "An AI boss fired its first employee but only after humans reminded it of its own rules"
     ],
     "smtp_accepted_at_utc": "2026-08-24T12:03:31.895529Z"
+  },
+  {
+    "digest_date_local": "2026-08-25",
+    "canonical_urls": [
+      "https://developer.nvidia.com/blog/how-nvidia-groq-3-lpx-unlocks-ultrafast-interactivity-at-long-context-on-nvidia-vera-rubin",
+      "https://developer.nvidia.com/blog/nvidia-vera-rubin-and-blackwell-set-a-new-standard-for-agentic-ai-performance-per-watt",
+      "https://developer.nvidia.com/blog/giga-scale-ai-ethernet-evolution-spectrum-x-ethernet-rewrites-rules",
+      "https://developer.nvidia.com/blog/nvidia-bluefield-4-powers-new-scale-in-network-infrastructure-for-agentic-ai-factories",
+      "https://blogs.nvidia.com/blog/vera-rubin-lpx-spectrum-x-nvlink-fusion"
+    ],
+    "article_hashes": [
+      "74b2cd5a5cd013b774df06b1541b2dd35dc2b1607d6efa92d9da7c6f5fb3273d",
+      "f42510f490b4e8271c10e963abb8cc868696c302b1fcdf900d422bf480dc227e",
+      "b1e96acd7daea4c597fe9c208198d7395351785f320edbfea7d6a5fb501110ec",
+      "5d07dc7b6b3ddbca50e6572d259631ea760a23c483bfd344b85f5a3402072c27",
+      "19af374b78b369cd57e1f50411451ccb06354f9e6cd98048fff15f273f4f72a6"
+    ],
+    "titles": [
+      "How NVIDIA Groq 3 LPX Unlocks Ultrafast Interactivity at Long Context on NVIDIA Vera Rubin",
+      "NVIDIA Vera Rubin and Blackwell Set a New Standard for Agentic AI Performance per Watt",
+      "Giga-Scale AI and the Ethernet Evolution: How Spectrum-X Ethernet Rewrites the Rules",
+      "NVIDIA BlueField-4 Powers New Scale-In Network Infrastructure for Agentic AI Factories",
+      "With Groq 3 LPX in Full Production, NVIDIA Extends Vera Rubin Inference for Agents"
+    ],
+    "smtp_accepted_at_utc": "2026-08-25T12:15:12.014112Z"
   }
 ]
