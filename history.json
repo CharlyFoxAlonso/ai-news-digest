@@ -1,30 +1,5 @@
 [
   {
-    "digest_date_local": "2026-07-29",
-    "canonical_urls": [
-      "https://newsroom.intel.com/intel-foundry/intels-us-advanced-packaging-enables-next-generation-ai-semiconductors",
-      "https://developer.nvidia.com/blog/developing-healthcare-robotics-with-gpu-native-medical-physics-simulation",
-      "https://the-decoder.com/openai-open-sources-codex-security-cli-to-help-developers-find-and-fix-vulnerabilities-from-the-command-line",
-      "https://the-decoder.com/openai-admits-its-autonomous-ai-models-also-compromised-credentials-on-other-platforms-during-security-eval",
-      "https://the-decoder.com/gpt-transcribe-improves-on-its-predecessor-but-cant-catch-elevenlabs-google-or-mistral-on-error-rates"
-    ],
-    "article_hashes": [
-      "a3f34e7a649540d2bbf39c1b8ff22a0303c01a1647ad774372a3c4040ccb082a",
-      "09df956f4e5a6bb9df843daffcead11426be276e07eaadcd21337f4c8f04246b",
-      "681728288321e661f5c8b712c8bc4f1bb0d43ff2b50d43f9041a6d512aa63f15",
-      "bb8636dc34fd783d5db00d0a87d92eebf2c96294cd831239ce34868017292eb0",
-      "cfb868c9ad8e568a98b51cf9141a4a26af6c5fdd43de41aebc0bbe5c905e7f7f"
-    ],
-    "titles": [
-      "Intel’s U.S. Advanced Packaging Enables Next-Generation AI Semiconductors",
-      "Developing Healthcare Robotics with GPU-Native Medical Physics Simulation",
-      "OpenAI open-sources Codex Security CLI to help developers find and fix vulnerabilities from the command line",
-      "OpenAI admits its autonomous AI models also compromised credentials on other platforms during security eval",
-      "GPT Transcribe improves on its predecessor but can't catch ElevenLabs, Google, or Mistral on error rates"
-    ],
-    "smtp_accepted_at_utc": "2026-07-29T16:42:33.804493Z"
-  },
-  {
     "digest_date_local": "2026-07-30",
     "canonical_urls": [
       "https://developer.nvidia.com/blog/nvidia-exemplar-cloud-lessons-for-unlocking-full-performance-on-ai-infrastructure",
@@ -721,5 +696,30 @@
       "Expanding OpenAI’s presence in Brazil"
     ],
     "smtp_accepted_at_utc": "2026-08-27T21:19:12.748918Z"
+  },
+  {
+    "digest_date_local": "2026-08-28",
+    "canonical_urls": [
+      "https://developer.nvidia.com/blog/deploy-an-open-model-from-checkpoint-to-inference-in-two-commands-with-nvidia-tensorrt-model-connect",
+      "https://machinelearning.apple.com/research/agent-seer-synthesizing-scenarios",
+      "https://machinelearning.apple.com/research/llms-not-consistently-bayesian",
+      "https://openai.com/index/supporting-next-generation-ai-startups-thailand",
+      "https://the-decoder.com/google-deepminds-ai-co-scientist-now-plans-experiments-runs-lab-equipment-and-writes-scientific-papers"
+    ],
+    "article_hashes": [
+      "a0eed0f62d0dd2408ea5e2026f1e3e575ab986c4df93979471afb2d4822c9945",
+      "49af65417091cab593ed830ed9ccd3147d47cf27510466ddf67d9946e4d6a324",
+      "f80bee2d00329ffbcaf3322749eb470806add57f93dafcdd8e6ffb692ec42b44",
+      "cb1db0d5c74b6e9eeb890e2ee46bb06c7f0b7f7e54363ac96a62606a772bbfa5",
+      "4eb3722199b593f4588b26899532066c1662ee37706259edea987bed44187485"
+    ],
+    "titles": [
+      "Deploy an Open Model from Checkpoint to Inference in Two Commands with NVIDIA TensorRT Model Connect",
+      "Agent Seer: Synthesizing Scenarios from Specification Understanding",
+      "LLMs Are Not (Consistently) Bayesian: Quantifying Internal (In)consistencies of LLMs’ Probabilistic Beliefs",
+      "Supporting Thailand’s next generation of AI startups",
+      "Google Deepmind's AI Co-Scientist now plans experiments, runs lab equipment, and writes scientific papers"
+    ],
+    "smtp_accepted_at_utc": "2026-08-28T21:31:52.131490Z"
   }
 ]
