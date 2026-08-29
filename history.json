@@ -1,30 +1,5 @@
 [
   {
-    "digest_date_local": "2026-07-30",
-    "canonical_urls": [
-      "https://developer.nvidia.com/blog/nvidia-exemplar-cloud-lessons-for-unlocking-full-performance-on-ai-infrastructure",
-      "https://huggingface.co/blog/Dharma-AI/gpu-management",
-      "https://blogs.nvidia.com/blog/geforce-now-thursday-back-to-school-2026",
-      "https://the-decoder.com/openai-claims-gpt-5-6-sol-beats-opus-5-on-arc-agi-3-with-its-latest-api-and-two-additional-settings",
-      "https://the-decoder.com/microsoft-ai-bets-on-cheap-specialist-models-instead-of-chasing-the-frontier"
-    ],
-    "article_hashes": [
-      "2851a9b9a12bce1823d75a8e8649c1af8772f66552fd572da106757525e828b6",
-      "859cdcef3df01ae8d929e50b9f9da9f8126fe435aacd0a43ca0bd2b8ba0b3f21",
-      "c0703b2e119ba65c161416ba542cf81bb9a5e7403386b1463a40068dbc29ff6e",
-      "85d592652c5c0923f4baa9efa3f0bdf0371cfeda2efe6e389f06c0564e8d7b5e",
-      "75274179a402941e07622d1d1f30f49fd579612fce28cd38e912a2edb0790698"
-    ],
-    "titles": [
-      "NVIDIA Exemplar Cloud: Lessons for Unlocking Full Performance on AI Infrastructure",
-      "GPU Management: Why Idle GPUs Are the New Grounded Aircraft",
-      "Best in Class: Stream PC Games and Study on the Same Laptop With GeForce NOW",
-      "OpenAI claims GPT-5.6 Sol beats Opus 5 on ARC-AGI-3 with its latest API and two additional settings",
-      "Microsoft AI bets on cheap specialist models instead of chasing the frontier"
-    ],
-    "smtp_accepted_at_utc": "2026-07-30T17:08:17.662704Z"
-  },
-  {
     "digest_date_local": "2026-07-31",
     "canonical_urls": [
       "https://developer.nvidia.com/blog/nvidia-video-codec-sdk-13-1-zero-copy-transcode-av1-b-frames-and-frame-accurate-seek",
@@ -721,5 +696,24 @@
       "Google Deepmind's AI Co-Scientist now plans experiments, runs lab equipment, and writes scientific papers"
     ],
     "smtp_accepted_at_utc": "2026-08-28T21:31:52.131490Z"
+  },
+  {
+    "digest_date_local": "2026-08-29",
+    "canonical_urls": [
+      "https://the-decoder.com/anthropic-wants-to-do-for-physical-hardware-what-its-model-context-protocol-did-for-software",
+      "https://the-decoder.com/google-gives-ai-agents-their-own-wiki-so-they-can-learn-from-mistakes-and-successes",
+      "https://the-decoder.com/openai-cuts-off-cursor-after-spacex-acquisition-citing-musks-history-of-breaking-contracts"
+    ],
+    "article_hashes": [
+      "09b7bcdbb4f9d611c7ae9def8a1acccb2657ca9ee8d41f497e8dfee61b41013b",
+      "544f8c752c07c09e94a124b7ae41a4d6b8694bacdf036a8a57c4ad2627932d3b",
+      "6b673ce52da58f5c92a3b17cda9395c077463eaaf89a638ac3adbf10ccf05348"
+    ],
+    "titles": [
+      "Anthropic wants to do for physical hardware what its Model Context Protocol did for software",
+      "Google's WikiSkill gives AI agents a persistent memory of past mistakes to sharpen future performance",
+      "OpenAI cuts off Cursor after SpaceX acquisition, citing Musk's history of breaking contracts"
+    ],
+    "smtp_accepted_at_utc": "2026-08-29T15:45:37.495379Z"
   }
 ]
