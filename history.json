@@ -1,30 +1,5 @@
 [
   {
-    "digest_date_local": "2026-08-01",
-    "canonical_urls": [
-      "https://developer.nvidia.com/blog/co-designing-ai-model-attention-for-fast-interactive-long-context-inference",
-      "https://openai.com/index/ten-advances-in-mathematics",
-      "https://the-decoder.com/bytedances-seedance-2-5-generates-30-second-video-clips-with-built-in-audio",
-      "https://the-decoder.com/ai-coding-agents-can-modernize-research-software-but-cant-judge-if-the-science-is-right",
-      "https://the-decoder.com/openai-announces-its-next-major-model-astra-by-dropping-ten-previously-unsolved-math-solutions"
-    ],
-    "article_hashes": [
-      "1adab26bb161510b64c3665aad85ccb0ce27913df0143ccae969cf3886dce036",
-      "e299630b866e2d7ebb7f543050983e5dd910dbcd47a219178da9f4e988c6a6ce",
-      "50c354a978aec445ba2e0e6a2a8864b8288145cd19d3360fb83447b1f62a57d1",
-      "f05897e0f3e5a852258598ec7104df224a8baa6663459bf6e65f95e04951eb3b",
-      "8bd9d87aabea5cec414684346b9db78902d079cb40f9d3873250ab242e03b3b6"
-    ],
-    "titles": [
-      "Co-Designing AI Model Attention for Fast, Interactive Long-Context Inference",
-      "Ten advances in mathematics and theoretical computer science",
-      "ByteDance's Seedance 2.5 generates 30-second video clips with built-in audio",
-      "AI coding agents can modernize research software but can't judge if the science is right",
-      "OpenAI announces its \"next major model\" Astra by dropping ten previously unsolved math solutions"
-    ],
-    "smtp_accepted_at_utc": "2026-08-01T15:41:07.222519Z"
-  },
-  {
     "digest_date_local": "2026-08-02",
     "canonical_urls": [
       "https://the-decoder.com/claude-opus-5-pushes-prompt-to-game-ai-from-rough-color-blocks-to-full-3d-prototypes-with-physics-and-music",
@@ -709,5 +684,30 @@
       "Sony and Warner sue Anthropic over \"one of the largest and most blatant ongoing thefts of intellectual property in history\""
     ],
     "smtp_accepted_at_utc": "2026-08-30T15:28:40.673009Z"
+  },
+  {
+    "digest_date_local": "2026-08-31",
+    "canonical_urls": [
+      "https://developer.nvidia.com/blog/run-nvidia-bionemo-nim-microservices-for-protein-structure-prediction-in-claude-science",
+      "https://developer.nvidia.com/blog/scale-av-perception-across-vehicle-platforms-with-nvidia-omniverse-nurec",
+      "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
+      "https://the-decoder.com/chatgpt-now-faces-stricter-eu-oversight-as-a-very-large-search-engine",
+      "https://the-decoder.com/openai-and-rival-ai-labs-are-buying-tens-of-thousands-of-mac-minis-to-train-computer-use-agents"
+    ],
+    "article_hashes": [
+      "14f0239837ee285381a160c3bac8bf21ac4b3f6fb904afaca1ab8590fb81f0ec",
+      "a44b79ec588c95b7e3403e473cf8218cd80286c93bfb524a86882ff6c39572b4",
+      "8a7cdd78fd48385994a8dbca98a1e32138d055e0841fbba3f4c389fe7e61c2a0",
+      "09a02918d2865df5de09082b9330aba4bf0c3813ce0bca22afda5caa8e681f4d",
+      "a7af99feae97de7fc3029ec17fe8ee13a4ba0e0be3044efabab822a1e6d92dc5"
+    ],
+    "titles": [
+      "Run NVIDIA BioNeMo NIM Microservices for Protein Structure Prediction in Claude Science",
+      "Scale AV Perception Across Vehicle Platforms with NVIDIA Omniverse NuRec",
+      "A milestone in expanding access to AI",
+      "ChatGPT now faces stricter EU oversight as a very large search engine",
+      "OpenAI and rival AI labs are buying tens of thousands of Mac minis to train computer-use agents"
+    ],
+    "smtp_accepted_at_utc": "2026-08-31T18:09:58.710132Z"
   }
 ]
