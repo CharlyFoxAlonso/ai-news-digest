@@ -1,24 +1,5 @@
 [
   {
-    "digest_date_local": "2026-08-02",
-    "canonical_urls": [
-      "https://the-decoder.com/claude-opus-5-pushes-prompt-to-game-ai-from-rough-color-blocks-to-full-3d-prototypes-with-physics-and-music",
-      "https://the-decoder.com/after-hugging-face-incident-metr-urges-independent-root-cause-investigations-into-ai-agent-misbehavior",
-      "https://the-decoder.com/ai-keeps-cracking-unsolved-math-problems-and-mathematicians-have-mixed-feelings"
-    ],
-    "article_hashes": [
-      "fca70dce713aada2bed53223c46cdbfc8ad1c9e0ffc8a55f7a00413db2de5ee1",
-      "42c2059516802de56d90f1b5ddba796ab045f1ee8cb41d4449b08880f04eb667",
-      "267328baf73160f1be77f8d732e6fe4906cec5edf1fd94a46e7eb41faedfde46"
-    ],
-    "titles": [
-      "Claude Opus 5 pushes prompt-to-game AI from rough color blocks to full 3D prototypes with physics and music",
-      "After Hugging Face incident, METR urges independent root-cause investigations into AI agent misbehavior",
-      "AI keeps cracking unsolved math problems, and mathematicians have mixed feelings"
-    ],
-    "smtp_accepted_at_utc": "2026-08-02T12:42:43.227195Z"
-  },
-  {
     "digest_date_local": "2026-08-03",
     "canonical_urls": [
       "https://the-decoder.com/two-teams-solved-the-same-quantum-crypto-problem-using-gpt-5-6-just-three-hours-apart",
@@ -709,5 +690,24 @@
       "OpenAI and rival AI labs are buying tens of thousands of Mac minis to train computer-use agents"
     ],
     "smtp_accepted_at_utc": "2026-08-31T18:09:58.710132Z"
+  },
+  {
+    "digest_date_local": "2026-09-01",
+    "canonical_urls": [
+      "https://developer.nvidia.com/blog/how-to-size-gpus-for-ai-inference-and-tco-without-overspending",
+      "https://huggingface.co/blog/webgpu-kernels",
+      "https://the-decoder.com/runways-solaris-is-an-ai-system-that-generates-software-interfaces-in-real-time"
+    ],
+    "article_hashes": [
+      "2a4fc549ba157ed0f3337d919a8b8623052ea36f2fd824432941481afbbcc5ca",
+      "91dad0068ec24e5bcea7adc0e407700bb8999e1b3de1e0bfc9b0e6a4ed61b3fe",
+      "a98b3535911e2151830edcddbe6b7478f640e8c01269da3708327f5e1595d618"
+    ],
+    "titles": [
+      "How to Size GPUs for AI Inference and TCO Without Overspending",
+      "Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
+      "Runway's Solaris is an AI system that generates software interfaces in real time"
+    ],
+    "smtp_accepted_at_utc": "2026-09-01T15:33:43.750359Z"
   }
 ]
