@@ -1,24 +1,5 @@
 [
   {
-    "digest_date_local": "2026-08-03",
-    "canonical_urls": [
-      "https://the-decoder.com/two-teams-solved-the-same-quantum-crypto-problem-using-gpt-5-6-just-three-hours-apart",
-      "https://the-decoder.com/alibabas-open-weight-qwen3-8-max-takes-on-long-horizon-ai-tasks-with-2-4-trillion-parameters",
-      "https://the-decoder.com/unicorn-pelican-middle-earth-openai-co-founder-karpathy-is-looking-for-the-next-ai-vibe-test"
-    ],
-    "article_hashes": [
-      "634d6d2415da14bf5af98adf3cc6420b377da48c69f09f416d5b961545dc8da5",
-      "beac68b8615d8e618140167f407401618cab4f4e5dd7febcc5a08b680aad1b12",
-      "46c437f112fa4ba8988956adad6e3a4c84c5d11c8a17d23cf9cb81f3b5733573"
-    ],
-    "titles": [
-      "Two teams solved the same quantum crypto problem using GPT-5.6 just three hours apart",
-      "Alibaba’s open-weight Qwen3.8-Max takes on long-horizon AI tasks with 2.4 trillion parameters",
-      "Unicorn, pelican, Middle-earth: OpenAI co-founder Karpathy is looking for the next AI vibe test"
-    ],
-    "smtp_accepted_at_utc": "2026-08-03T14:03:07.239051Z"
-  },
-  {
     "digest_date_local": "2026-08-04",
     "canonical_urls": [
       "https://blogs.nvidia.com/blog/open-secure-ai-alliance-contributions",
@@ -709,5 +690,30 @@
       "Runway's Solaris is an AI system that generates software interfaces in real time"
     ],
     "smtp_accepted_at_utc": "2026-09-01T15:33:43.750359Z"
+  },
+  {
+    "digest_date_local": "2026-09-02",
+    "canonical_urls": [
+      "https://blog.google/innovation-and-ai/technology/google-ai-updates-august-2026",
+      "https://huggingface.co/blog/ibm-research/real-time-intelligence",
+      "https://openai.com/index/ai-native-company-workflows",
+      "https://developer.nvidia.com/blog/building-an-adaptive-agentic-cybersecurity-system-with-nvidia-nemotron",
+      "https://blogs.nvidia.com/blog/nvidia-crowdstrike-fal-con-2026"
+    ],
+    "article_hashes": [
+      "e6646933ca959a5fc8d118c8b793de49bb6b72b8147d5eceda7d378fce794266",
+      "8c10bd00da2e478d246d8a5ed5ef6c67574eeadd8eaf7af8addbaf53aeec5060",
+      "b0cbef382238cdd5b88df7d9e2e972c6de79dc01f5270d52514cbb50f83a1be1",
+      "95d1f43d3070d60a0f7de9b093baa8937f0389203b18702f18f3b6f4ffcd381d",
+      "e698148a3f7fc4332a7a096ccb301c9dc5192fc3ae5ff0f228d7e4db98d82412"
+    ],
+    "titles": [
+      "The latest AI news we announced in August 2026",
+      "Real-Time Intelligence with IBM Time Series Models on Confluent",
+      "How AI-native companies turn workflows into operating capability",
+      "Building an Adaptive Agentic Cybersecurity System with NVIDIA Nemotron",
+      "NVIDIA and CrowdStrike Strengthen Agentic Cybersecurity Frontier"
+    ],
+    "smtp_accepted_at_utc": "2026-09-02T15:19:42.585846Z"
   }
 ]
