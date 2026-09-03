@@ -1,30 +1,5 @@
 [
   {
-    "digest_date_local": "2026-08-04",
-    "canonical_urls": [
-      "https://blogs.nvidia.com/blog/open-secure-ai-alliance-contributions",
-      "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026",
-      "https://developer.nvidia.com/blog/nvidia-vera-storage-benchmarks-faster-encryption-compression-integrity-checking-and-recovery-for-ai-native-storage",
-      "https://developer.nvidia.com/blog/how-to-run-isolated-tenant-kubernetes-clusters-on-shared-gpu-infrastructure",
-      "https://openai.com/index/apple-is-getting-this-wrong"
-    ],
-    "article_hashes": [
-      "f2fd2516f26ac23135c7bbdac65dd21c65bf2382266948cc8666bb8f2d90b016",
-      "639d81441a0d947392fec3ea925322625063884e4fab0a9a5833310a2d78f30b",
-      "2ea98f967f637084ccae4365bc9cc29b1da659b5272406e0ba8bb9db54ad68d1",
-      "8aacaeb1b7b1bd06c412b6db0da7c96f93e981f23b1ce3ec3772790d5ef74d19",
-      "4a9b73e77846b899c80a1aedb22971ace82ebcc3d3b85836ae454a41eb1c3e86"
-    ],
-    "titles": [
-      "AI Leaders Propose SAFE Guidelines for Cybersecurity Transparency",
-      "The latest AI news we announced in July 2026",
-      "NVIDIA Vera Storage Benchmarks: Faster Encryption, Compression, Integrity Checking, and Recovery for AI-Native Storage",
-      "How to Run Isolated Tenant Kubernetes Clusters on Shared GPU Infrastructure",
-      "Apple is getting this wrong"
-    ],
-    "smtp_accepted_at_utc": "2026-08-04T13:25:24.459678Z"
-  },
-  {
     "digest_date_local": "2026-08-05",
     "canonical_urls": [
       "https://developer.nvidia.com/blog/beyond-vlas-how-world-action-models-reshape-robot-manipulation",
@@ -715,5 +690,30 @@
       "NVIDIA and CrowdStrike Strengthen Agentic Cybersecurity Frontier"
     ],
     "smtp_accepted_at_utc": "2026-09-02T15:19:42.585846Z"
+  },
+  {
+    "digest_date_local": "2026-09-03",
+    "canonical_urls": [
+      "https://developer.nvidia.com/blog/co-designing-ai-models-using-speculative-decoding-for-faster-llm-inference",
+      "https://huggingface.co/blog/Hcompany/neomme",
+      "https://blogs.nvidia.com/blog/geforce-now-thursday-september-2026-games-list",
+      "https://developer.nvidia.com/blog/the-modern-cuda-toolbox-in-practice-a-step-by-step-optimization-walkthrough",
+      "https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face"
+    ],
+    "article_hashes": [
+      "b2a88b1bbb68edc1fb50b74a072fb35c3ec9d6b704dc33a9d2e7000cb1eb08f6",
+      "fffbcba03b0b217e48932bf108f9544d9d15dfe90cc71dd430d68dae9df9e2d9",
+      "364c97f2144222392d2e7c8918541fe8e6a9162d6d0cecd2c770fab28c1141ee",
+      "18edfec44847ab6e953efc9b852345135597e01bfb8206469747ee18656fdf0c",
+      "92640b734a56d56cabe470028583c440bc9f85a8199b7a48e5c5d4ab7db977ea"
+    ],
+    "titles": [
+      "Co-Designing AI Models Using Speculative Decoding for Faster LLM Inference",
+      "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
+      "‘NBA 2K27’ With NVIDIA DLSS 5 Leads 28 New Games Coming to GeForce NOW",
+      "The Modern CUDA Toolbox in Practice: A Step-by-Step Optimization Walkthrough",
+      "NVIDIA to Acquire Hugging Face"
+    ],
+    "smtp_accepted_at_utc": "2026-09-03T15:13:20.147144Z"
   }
 ]
