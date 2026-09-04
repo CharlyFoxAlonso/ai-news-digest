@@ -1,30 +1,5 @@
 [
   {
-    "digest_date_local": "2026-08-05",
-    "canonical_urls": [
-      "https://developer.nvidia.com/blog/beyond-vlas-how-world-action-models-reshape-robot-manipulation",
-      "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models",
-      "https://blogs.nvidia.com/blog/nsf-state-regional-ai-hub-program",
-      "https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b",
-      "https://developer.nvidia.com/blog/generate-trajectories-reasoning-traces-and-auto-labels-with-nvidia-alpamayo-2-super"
-    ],
-    "article_hashes": [
-      "9f9279ae774d1c89228d9958d2d1d551d1000c0b52c2f79cde741e2c186b3829",
-      "c99ec862b4e71599bc42c6f96a94ea0c61758ad0ed0c0445d6331b28e4539a2c",
-      "4bf3719663bf4c01f8b37cea2b9ea20b95932a0be332050caac38c5263c7284b",
-      "aa21db80f8b7b7664c23f0b5de6fc014a64920e8fdb45e2877008c81969f17ab",
-      "fb24ef286bff940398c17fcaa40e5ce5acfee21158fe3e11424cb37aa610ddd4"
-    ],
-    "titles": [
-      "Beyond VLAs: How World Action Models Reshape Robot Manipulation",
-      "Third-party cyber evaluations involving OpenAI models",
-      "NVIDIA Joins NSF State and Regional AI Hubs Program to Expand AI Research and Education Across the US",
-      "Deploy local agents everywhere with LFM2.5-2.6B",
-      "Generate Trajectories, Reasoning Traces, and Auto-Labels with NVIDIA Alpamayo 2 Super"
-    ],
-    "smtp_accepted_at_utc": "2026-08-05T13:23:24.617956Z"
-  },
-  {
     "digest_date_local": "2026-08-06",
     "canonical_urls": [
       "https://blogs.nvidia.com/blog/geforce-now-thursday-august-2026-games-list",
@@ -715,5 +690,30 @@
       "NVIDIA to Acquire Hugging Face"
     ],
     "smtp_accepted_at_utc": "2026-09-03T15:13:20.147144Z"
+  },
+  {
+    "digest_date_local": "2026-09-04",
+    "canonical_urls": [
+      "https://developer.nvidia.com/blog/nvidia-pair-virtual-inference-router-expands-available-compute-on-your-local-network",
+      "https://blogs.nvidia.com/blog/local-ai-ifa-next-gen-agents-nv-pair-rtx-spark",
+      "https://developer.nvidia.com/blog/how-to-carry-user-identity-across-federated-kubernetes-and-ai-platforms",
+      "https://the-decoder.com/benchmarks-disagree-on-gpt-6-astra-but-its-human-beating-efficiency-on-arc-agi-3-pulls-chollets-agi-forecast-forward",
+      "https://the-decoder.com/deepseek-plans-the-largest-known-huawei-chip-cluster-with-160000-processors-in-inner-mongolia"
+    ],
+    "article_hashes": [
+      "a038bd3173badd7b0fba2e6e67e7f0a71a32284a4e9f921b24fdfa0a83c501f9",
+      "c5fea2be4f2543bc4a7e77b1b7700d97df44c4a64580f0ad016b81788370c964",
+      "d276fe4e311d0162ee8046a09d6b4ed0e37af1aaea914e55c9303e95699ce887",
+      "eb1d904bf8627c8d4e24ea676eea43ec2547c6ffb892507b2be405c7e77617d8",
+      "1905f972162406d7437548e7495833db9f32ee479b7aa6134a07c2754bae31c7"
+    ],
+    "titles": [
+      "NVIDIA PAIR Virtual Inference Router Expands Available Compute on Your Local Network",
+      "Sparks Fly: NVIDIA Accelerates Local AI at IFA 2026",
+      "How to Carry User Identity Across Federated Kubernetes and AI Platforms",
+      "Benchmarks disagree on GPT-6 Astra, but its human-beating efficiency on ARC-AGI-3 pulls Chollet’s AGI forecast forward",
+      "Deepseek plans the largest known Huawei chip cluster with 160,000 processors in Inner Mongolia"
+    ],
+    "smtp_accepted_at_utc": "2026-09-04T15:07:42.448448Z"
   }
 ]
