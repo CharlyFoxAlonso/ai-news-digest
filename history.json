@@ -1,30 +1,5 @@
 [
   {
-    "digest_date_local": "2026-08-06",
-    "canonical_urls": [
-      "https://blogs.nvidia.com/blog/geforce-now-thursday-august-2026-games-list",
-      "https://blogs.nvidia.com/blog/open-world-models-physical-ai",
-      "https://the-decoder.com/openai-reportedly-slows-research-after-its-own-models-secretly-coordinated-hacks-for-weeks-undetected",
-      "https://the-decoder.com/the-company-that-made-open-weights-mainstream-now-competes-on-discounts",
-      "https://the-decoder.com/openai-developer-warns-the-tireless-eagle-eyes-of-a-million-models-are-coming-for-your-exposed-api-keys-and-crypto-wallets"
-    ],
-    "article_hashes": [
-      "9b7f3dec51df76dbebd5f1f3fb66f7e022b936d23982ccb83a38ad1947fdaf5c",
-      "07e74b9f17b29d00e33225ad01c5bfc8776d93b61a647f64f8c96eb1771eaf33",
-      "7a316fdd8239b7ceb312c56169cf95acfdc81b6ca2ec3464b9ae5cb515eb479a",
-      "a132e4a7569f1d1e5dc82eee13d2d3c083a5a3f14b33991d0c8b1bb45fe2dbaf",
-      "d2c915829b48a3b636be4bf8fd0c276dda5c1ea62f4f2508deb3fafe152ef0e8"
-    ],
-    "titles": [
-      "GeForce NOW Shakes Up August With 26 New Games",
-      "Into the Omniverse: How Open World Models Push the Frontier of Physical AI",
-      "OpenAI reportedly slows research after its own models secretly coordinated hacks for weeks undetected",
-      "The company that made open weights mainstream now competes on discounts",
-      "OpenAI developer warns the \"tireless eagle eyes of a million models\" are coming for your exposed API keys and crypto wallets"
-    ],
-    "smtp_accepted_at_utc": "2026-08-06T13:21:47.754388Z"
-  },
-  {
     "digest_date_local": "2026-08-07",
     "canonical_urls": [
       "https://openai.com/index/hsp-gruppe",
@@ -715,5 +690,30 @@
       "Deepseek plans the largest known Huawei chip cluster with 160,000 processors in Inner Mongolia"
     ],
     "smtp_accepted_at_utc": "2026-09-04T15:07:42.448448Z"
+  },
+  {
+    "digest_date_local": "2026-09-05",
+    "canonical_urls": [
+      "https://developer.nvidia.com/blog/building-a-memory-driven-agent-with-nvidia-nemoclaw",
+      "https://developer.nvidia.com/blog/frontier-reasoning-reaches-the-edge-how-to-deploy-and-optimize-models-on-nvidia-jetson",
+      "https://the-decoder.com/openai-rolls-out-gpt-6-astra-to-top-tier-chatgpt-plans-at-half-the-rate-of-gpt-5-6-sol",
+      "https://the-decoder.com/deepmind-put-100-ai-agents-in-a-room-and-they-sorted-into-cheaters-converts-and-whistleblowers",
+      "https://the-decoder.com/openais-gpt-6-astra-hallucinates-less-but-remains-vulnerable-to-hidden-prompt-injections"
+    ],
+    "article_hashes": [
+      "01f7e1660c3b6e8a758fa1c70bfca310b7845f55ec01a1dc6a77e0cd1b5dffd1",
+      "e89e8064c40636c2ddebf7217910bc9faa529187270ca1bcaa938cdf46b409e7",
+      "ba2d3ba570aaedf328c5294eeae8d56be921517f7e2fbb6d7d13203978992e69",
+      "de54ba32c1bdd9fe74db9558c31557d2048e4be9ce456593a2c2f2d1400d2e90",
+      "8f703de409c2736c74eb6dcefa53f9cdea492064ec514979c4476e73bf565fff"
+    ],
+    "titles": [
+      "Building a Memory-Driven Agent with NVIDIA NemoClaw",
+      "Frontier Reasoning Reaches the Edge: How to Deploy and Optimize Models on NVIDIA Jetson",
+      "OpenAI rolls out GPT-6 Astra to top-tier ChatGPT plans at half the rate of GPT-5.6 Sol",
+      "Deepmind put 100 AI agents in a room and they sorted into cheaters, converts, and whistleblowers",
+      "OpenAI's GPT-6 Astra hallucinates less but remains vulnerable to hidden prompt injections"
+    ],
+    "smtp_accepted_at_utc": "2026-09-05T14:00:48.430900Z"
   }
 ]
