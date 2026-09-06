@@ -1,30 +1,5 @@
 [
   {
-    "digest_date_local": "2026-08-07",
-    "canonical_urls": [
-      "https://openai.com/index/hsp-gruppe",
-      "https://the-decoder.com/openai-improves-gpt-5-6-sol-in-chatgpt-and-restricts-free-users-to-its-weakest-model",
-      "https://newsroom.intel.com/corporate/creating-pathways-to-semiconductor-careers-intel-launches-sepp",
-      "https://the-decoder.com/amazon-cursor-microsoft-openai-and-vercel-unite-on-a-shared-standard-for-ai-agent-plugins",
-      "https://ir.amd.com/news-events/press-releases/detail/1296/amd-acquires-taalas-to-advance-compute-solutions-for-rapidly-growing-ai-inference-market"
-    ],
-    "article_hashes": [
-      "7347f06e7c916544f6e962de36961dbcdf8c00a50f21f56435f6b7de8971923e",
-      "1738a97f16967791c6ee405c5b4d00621fff618b6723f0ab464c33e36f8496f2",
-      "1a1dc7ec2a4eeb737e847568a596ab0d7d712e77207a2e6c7c7464234fa240f6",
-      "9496611a450721cb1b1c43fd5d6eae9bcebf73e9281fd924a6e116e6b1eaab44",
-      "a5d4fbb4fa69b2d70db3e3255298a9ea3d86af5787d5bba82570085e3cc138c4"
-    ],
-    "titles": [
-      "How HSP GRUPPE builds AI capabilities for tax advisory",
-      "OpenAI improves GPT-5.6 Sol in ChatGPT and restricts free users to its weakest model",
-      "Creating Pathways to Semiconductor Careers: Intel Launches SEPP",
-      "Amazon, Cursor, Microsoft, OpenAI, and Vercel unite on a shared standard for AI agent plugins",
-      "AMD Acquires Taalas to Advance Compute Solutions for Rapidly Growing AI Inference Market"
-    ],
-    "smtp_accepted_at_utc": "2026-08-07T12:29:31.782779Z"
-  },
-  {
     "digest_date_local": "2026-08-08",
     "canonical_urls": [
       "https://blogs.nvidia.com/blog/firebird-ai-factory-armenia-blackwell-rubin-dsx",
@@ -715,5 +690,30 @@
       "OpenAI's GPT-6 Astra hallucinates less but remains vulnerable to hidden prompt injections"
     ],
     "smtp_accepted_at_utc": "2026-09-05T14:00:48.430900Z"
+  },
+  {
+    "digest_date_local": "2026-09-06",
+    "canonical_urls": [
+      "https://the-decoder.com/google-brings-ai-music-generation-directly-into-the-gemini-app-with-its-new-lyria-3-5-model",
+      "https://the-decoder.com/metas-new-real-time-audio-model-is-the-foundation-for-ai-assistants-that-never-stop-listening",
+      "https://the-decoder.com/chatbots-built-an-echo-chamber-of-one-and-now-psychiatry-has-to-decide-if-ai-psychosis-exists",
+      "https://the-decoder.com/artificial-analysis-overhauls-its-intelligence-index-after-gpt-6-astra-scoring-drew-skepticism",
+      "https://the-decoder.com/openai-developer-claims-astra-boosted-productivity-so-much-it-pulled-some-plans-forward-by-six-months"
+    ],
+    "article_hashes": [
+      "3fc5e0b182c7bf86fa53cbadf1ccd01b9695302de8016c5e6e5ac2637c5853a0",
+      "a2741d464a274ec7de0fa3ed334d911f111432993d71ea495fca2a03ea76419b",
+      "da38890e4565149a7c5a3cd2e2acab54f14043396a7a4ec7fbcf1d7c65d32213",
+      "a0f50c4cbf39123a4f2d1344126c0cc9d892fc1fdae41cf0990bbdaae84546b0",
+      "7490619321d1994fe33c0f0afa082acd6633a158e77add565374b47f450faad5"
+    ],
+    "titles": [
+      "Google brings AI music generation directly into the Gemini app with its new Lyria 3.5 model",
+      "Meta's new real-time audio model is the foundation for AI assistants that never stop listening",
+      "Chatbots built an \"echo chamber of one\" and now psychiatry has to decide if \"AI psychosis\" exists",
+      "Artificial Analysis overhauls its Intelligence Index after GPT-6 Astra scoring drew skepticism",
+      "OpenAI developer claims Astra boosted productivity so much it pulled some plans forward by six months"
+    ],
+    "smtp_accepted_at_utc": "2026-09-06T14:25:38.615696Z"
   }
 ]
