@@ -1,30 +1,5 @@
 [
   {
-    "digest_date_local": "2026-08-09",
-    "canonical_urls": [
-      "https://the-decoder.com/google-dismantles-deepmind-and-bets-on-a-fresh-start-as-hassabis-heads-for-the-exit",
-      "https://the-decoder.com/googles-diffusiongemma-proves-you-dont-need-to-train-from-scratch-to-build-a-text-diffusion-model",
-      "https://the-decoder.com/ai-is-flooding-britains-employment-courts-with-lawsuits",
-      "https://the-decoder.com/ais-energy-appetite-drives-nvidia-and-amazon-to-pour-billions-into-massive-power-infrastructure",
-      "https://the-decoder.com/anthropic-sets-claude-code-to-auto-mode-by-default-to-protect-developers-from-bad-approvals"
-    ],
-    "article_hashes": [
-      "a3bce1c228fd47eedaf7a9714051965f26caf54d5c6dc4fa36168d1aea7ef783",
-      "658c25902ad7d5ebb95a0826c55346cdab65459b6b7c311d0e59e9ae872a3e6c",
-      "0d2c5446008e19b10c08774a219446f910ca622fc29e9c39f6024ad7451d21c0",
-      "cd90b053413a5526f2be7449df1c259c0801339a8d4ed76e724b6724e6ca02a8",
-      "88fd3c7b0c8cb591ddc551000f25d814781e94538bfe3e8e7608a3f8a16c8062"
-    ],
-    "titles": [
-      "Google dismantles Deepmind and bets on a fresh start as Hassabis heads for the exit",
-      "Google's DiffusionGemma proves you don't need to train from scratch to build a text diffusion model",
-      "AI is flooding Britain's employment courts with lawsuits",
-      "AI's energy appetite drives Nvidia and Amazon to pour billions into massive power infrastructure",
-      "Anthropic sets Claude Code to Auto Mode by default to protect developers from bad approvals"
-    ],
-    "smtp_accepted_at_utc": "2026-08-09T12:05:11.246620Z"
-  },
-  {
     "digest_date_local": "2026-08-10",
     "canonical_urls": [
       "https://huggingface.co/blog/muse-glimmer",
@@ -709,5 +684,30 @@
       "How AI wiped out an entire industry in Nairobi"
     ],
     "smtp_accepted_at_utc": "2026-09-07T16:40:06.271191Z"
+  },
+  {
+    "digest_date_local": "2026-09-08",
+    "canonical_urls": [
+      "https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels",
+      "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom",
+      "https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms",
+      "https://openai.com/index/the-work-now-within-reach",
+      "https://the-decoder.com/chatgpt-claws-back-web-traffic-share-to-55-5-percent-as-geminis-brief-comeback-fades"
+    ],
+    "article_hashes": [
+      "a97d132c2500d2b3d41707147688d058ecf245fe1eaf40ca31ad52c3174c5523",
+      "5cbcf08e288841ac31de1b5b3153da3ea3539df7d3ee35168c9c6d5f6a1c686c",
+      "4a36ea7ba6bb268a569ba1bda62fe3a651ce22624e6c80e44fc2f66bda887c59",
+      "a00fc889a2dd293b42049381f3a99cbbead2f5c6d3c52e4e209b3057ea2e2a3b",
+      "f331065f8503faf8a0d7424115182f41dab6800cbaa4c735d99ae1c55537002e"
+    ],
+    "titles": [
+      "Introducing CUDA Rust: Two Tracks for Writing GPU Kernels",
+      "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
+      "OpenAI expands initiatives to support journalism from classrooms to newsrooms",
+      "The Work Now Within Reach",
+      "ChatGPT claws back web traffic share to 55.5 percent as Gemini's brief comeback fades"
+    ],
+    "smtp_accepted_at_utc": "2026-09-08T15:21:23.717963Z"
   }
 ]
