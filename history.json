@@ -1,27 +1,5 @@
 [
   {
-    "digest_date_local": "2026-08-10",
-    "canonical_urls": [
-      "https://huggingface.co/blog/muse-glimmer",
-      "https://huggingface.co/blog/MultiverseComputingCAI/efficient-knowledge-distillation",
-      "https://the-decoder.com/hidden-text-in-a-pdf-is-enough-to-steal-sensitive-data-through-atlassians-ai-agent-rovo",
-      "https://the-decoder.com/openai-acquires-nextslide-to-bring-ai-generated-presentations-into-chatgpt"
-    ],
-    "article_hashes": [
-      "dfb586131bf3d3cb04b45c447ddda1020a0bfabb4f918d58630b10079556383d",
-      "815edfe6383208a72cfe7f7d043ea0afc2543b1ffb0ccb04372202c8f4eb8186",
-      "412684ae459f80cb434fe52286c94ca41e689fd1467421e9ee06d553918b3e7b",
-      "d9ff527c398398d752c603cb83a5844b5ab9fdaffd969d0362bdeb7abece55af"
-    ],
-    "titles": [
-      "Meta is back with Muse Glimmer: local, agentic, multimodal, and open source",
-      "Making Knowledge Distillation Cheap Enough to Run at Scale",
-      "Hidden text in a PDF is enough to steal sensitive data through Atlassian's AI agent Rovo",
-      "OpenAI acquires NextSlide to bring AI-generated presentations into ChatGPT"
-    ],
-    "smtp_accepted_at_utc": "2026-08-10T12:33:47.657679Z"
-  },
-  {
     "digest_date_local": "2026-08-11",
     "canonical_urls": [
       "https://developer.nvidia.com/blog/run-local-agentic-ai-workflows-with-metas-muse-glimmer-on-nvidia",
@@ -709,5 +687,30 @@
       "ChatGPT claws back web traffic share to 55.5 percent as Gemini's brief comeback fades"
     ],
     "smtp_accepted_at_utc": "2026-09-08T15:21:23.717963Z"
+  },
+  {
+    "digest_date_local": "2026-09-09",
+    "canonical_urls": [
+      "https://openai.com/index/codex-quantum-computing-experiments",
+      "https://the-decoder.com/chatgpt-images-2-5-faster-more-precise-but-not-the-same-for-everyone",
+      "https://the-decoder.com/anthropic-scientist-puts-the-odds-of-ai-destroying-humanity-above-ten-percent-this-decade",
+      "https://the-decoder.com/suno-launches-v6-music-models-built-with-warner-bmg-and-believe",
+      "https://the-decoder.com/aws-is-using-qualcomm-for-ai-inference-while-qualcomm-uses-aws-bedrock-to-design-the-chips"
+    ],
+    "article_hashes": [
+      "503e9c2326e78f3e54698b505fc7f3dd73547fa559154576a0082b0cd2cdb79c",
+      "75113b5399b428a944f2bbcf33f5211be076bd079fff09fbd1c8ca6df0c2482f",
+      "bb960d0120454dfcf45c17863fd813e21013dc011daf44448dca4a600da99c7e",
+      "daa42de7875ac25fd6e8e6d3fb839da4ad6d3f43eff52a924f73028ced81914b",
+      "ae942eed2aac12561cee9e3b9309479aa73b13c22f5e2b0cbb58453889352c2c"
+    ],
+    "titles": [
+      "How GPT-5.6 Sol helps run quantum computing experiments",
+      "ChatGPT Images 2.5: Faster, more precise, but not the same for everyone",
+      "Anthropic scientist puts the odds of AI destroying humanity above ten percent this decade",
+      "Suno launches v6 music models built with Warner, BMG, and Believe",
+      "AWS is using Qualcomm for AI inference while Qualcomm uses AWS Bedrock to design the chips"
+    ],
+    "smtp_accepted_at_utc": "2026-09-09T15:18:35.220614Z"
   }
 ]
