@@ -1,30 +1,5 @@
 [
   {
-    "digest_date_local": "2026-08-12",
-    "canonical_urls": [
-      "https://developer.nvidia.com/blog/nvidia-nemotron-3-5-lightning-delivers-fast-accurate-specialized-task-execution-for-long-running-agents",
-      "https://developer.nvidia.com/blog/nvidia-jetpack-7-2-1-adds-agentic-video-skills-and-t3000-emulation",
-      "https://developer.nvidia.com/blog/route-ai-agent-workloads-across-models-with-nvidia-nemo-switchyard",
-      "https://blogs.nvidia.com/blog/nemotron-lightning-switchyard-rtx-dgx",
-      "https://blogs.nvidia.com/blog/nvidia-ai-factory-compute"
-    ],
-    "article_hashes": [
-      "4e1f5a94e87e3f0d425591759b0aee8776bbfbd1f855ec936ad9c129385f8392",
-      "85020467db5d6b2aae23b216960c692d44bfce4a5c1e76ec97c0f563b97bf950",
-      "64d8a39417625d36a59676fb6af2792d6cce4a3885800c971475159be1e2881b",
-      "9428cc2bc3c996d8505a0fdff4b7b0532b635f8bddc4272ecf0fa57da3a9db52",
-      "6ae5efd1aaa57ef3abf3b24a667c26b87c37d32bd8807d484bd24820bbf0e32e"
-    ],
-    "titles": [
-      "NVIDIA Nemotron 3.5 Lightning Delivers Fast, Accurate Specialized Task Execution for Long-Running Agents",
-      "NVIDIA JetPack 7.2.1 Adds Agentic Video Skills and T3000 Emulation",
-      "Route AI Agent Workloads Across Models with NVIDIA NeMo Switchyard",
-      "NVIDIA Nemotron 3.5 Lightning and NeMo Switchyard Deliver Faster, Smarter, More Efficient Agentic AI",
-      "NVIDIA AI Factory Compute Is Becoming an Investable Asset Class"
-    ],
-    "smtp_accepted_at_utc": "2026-08-12T12:33:51.108033Z"
-  },
-  {
     "digest_date_local": "2026-08-13",
     "canonical_urls": [
       "https://developer.nvidia.com/blog/serve-qwen3-8-2-4t-a95b-a-2-4t-parameter-model-with-configurable-reasoning-on-nvidia-gb300-nvl72",
@@ -712,5 +687,30 @@
       "CUDA Toolkit 13.4 Adds Windows on Arm Support and Greater Control over Shared GPUs"
     ],
     "smtp_accepted_at_utc": "2026-09-10T15:11:58.023941Z"
+  },
+  {
+    "digest_date_local": "2026-09-11",
+    "canonical_urls": [
+      "https://machinelearning.apple.com/research/video-caption-quality",
+      "https://machinelearning.apple.com/research/discosign-gloss-translation",
+      "https://machinelearning.apple.com/research/simpledesign-protein-codesign",
+      "https://developer.nvidia.com/blog/how-full-stack-nim-optimizations-deliver-2-5x-more-users-on-nemotron-3-ultra",
+      "https://the-decoder.com/how-hackers-used-claude-for-missiles-drone-swarms-and-surveillance-while-chinese-labs-mined-it-for-training-data"
+    ],
+    "article_hashes": [
+      "761b7236f25c2d223e273684cfce405aca6479aa35c4490c163ef837a91cbb7e",
+      "371498512643a2e7ba275515cb39939bd3d65248e75501ca2c4da593c3442f9f",
+      "d8b942450df460137e833adba52752657f307445a3feebaecdf3024497910563",
+      "c187f25455eed028f5d27dc46cf22b08d3ccd5b84404ed8a7df1ddcda754b767",
+      "9f940360bb3182f60fae6b0278adae679663653447a6f026aa351e13cb33ab77"
+    ],
+    "titles": [
+      "Putting Captions to the Test: Evaluating Video Caption Quality through Multiple-Choice Question Answering",
+      "DiscoSign: Discourse-Aware Text to Sign Language Gloss Translation",
+      "SimpleDesign: A Joint Model for Protein Sequence and Structure Codesign",
+      "How Full-Stack NIM Optimizations Deliver 2.5x More Users on Nemotron 3 Ultra",
+      "How hackers used Claude for missiles, drone swarms, and surveillance, while Chinese labs mined it for training data"
+    ],
+    "smtp_accepted_at_utc": "2026-09-11T15:13:58.369704Z"
   }
 ]
