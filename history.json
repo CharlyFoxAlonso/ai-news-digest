@@ -1,30 +1,5 @@
 [
   {
-    "digest_date_local": "2026-08-14",
-    "canonical_urls": [
-      "https://the-decoder.com/gemini-3-7-flash-lands-with-coding-gains-and-undercuts-its-three-week-old-predecessors-price-by-50",
-      "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
-      "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets",
-      "https://the-decoder.com/zhipu-ai-releases-glm-5-3-claims-its-the-strongest-open-weights-coding-model",
-      "https://blogs.nvidia.com/blog/geforce-now-thursday-linux-native-app"
-    ],
-    "article_hashes": [
-      "83512a58ebe71f9345a86cf167112e8951d3d0a35813876c586a65fb9df9c584",
-      "353217afc4f706b5339de407629065a4820f98bc0f70c28c174d08c10ec6ab52",
-      "e546c9507c4bdece8e78a9938c5519585e0b65f749ccceed110f32b1026fe6bd",
-      "6aef77ac8a2d7e2aaf18be19ddd91b636a5bbff7b54022de2a7d253a30b01de1",
-      "d32c0bf04e2be3095c4643d40ed55b0940f3fccabc840095d15b52755c8a75f7"
-    ],
-    "titles": [
-      "Gemini 3.7 Flash lands with coding gains and undercuts its three-week-old predecessor's price by 50%",
-      "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
-      "Bring your spreadsheet data to life with Sheets canvas",
-      "Zhipu AI releases GLM-5.3, claims it's the strongest open-weights coding model",
-      "Class Is in Session: GeForce NOW Levels Up Linux, Chromebooks and More"
-    ],
-    "smtp_accepted_at_utc": "2026-08-14T12:29:28.847573Z"
-  },
-  {
     "digest_date_local": "2026-08-15",
     "canonical_urls": [
       "https://blogs.nvidia.com/blog/ugm-indosat-nvidia-ai-technology-center",
@@ -712,5 +687,30 @@
       "AI models' written reasoning steps correspond to distinct internal patterns, a new study finds"
     ],
     "smtp_accepted_at_utc": "2026-09-12T14:24:17.254125Z"
+  },
+  {
+    "digest_date_local": "2026-09-13",
+    "canonical_urls": [
+      "https://the-decoder.com/gpt-6-astra-pilots-a-surveillance-drone-and-runs-a-business-on-its-own",
+      "https://the-decoder.com/elevenlabs-makes-music-v2-5-available-via-app-and-api-with-free-and-pro-tier-options",
+      "https://the-decoder.com/iris-mini-and-iris-pro-are-the-strongest-open-weight-search-agents-in-their-class",
+      "https://the-decoder.com/two-year-university-study-finds-banning-ai-from-classrooms-leaves-students-worse-off",
+      "https://the-decoder.com/altman-musk-and-hassabis-back-amodeis-call-to-add-independent-oversight"
+    ],
+    "article_hashes": [
+      "015dfb1b2eb101c4a0701cba983768cec2763bbce91abbdfe5e5debb5cc51fa0",
+      "5d3700175954532bdd7accde79074ba006d19cd68b123782908b520c501e24b8",
+      "49db84655d9b7e36fe081cf66daad531cefb4b8b3a1526d15763d27178e9348d",
+      "7200c240d7090efe9e26dbe80499972bea2408fdd6fe397cf3d4573802ef23d0",
+      "13cd81626519e07447c101005019f09866439413458284448b5ecdc5000726e2"
+    ],
+    "titles": [
+      "GPT-6 Astra pilots a surveillance drone and runs a business on its own",
+      "Elevenlabs makes Music v2.5 available via app and API with free and pro tier options",
+      "Iris-mini and Iris-pro are the strongest open-weight search agents in their class",
+      "Two-year university study finds banning AI from classrooms leaves students worse off",
+      "Altman, Musk, and Hassabis back Amodei's call to add independent oversight"
+    ],
+    "smtp_accepted_at_utc": "2026-09-13T15:04:29.473111Z"
   }
 ]
