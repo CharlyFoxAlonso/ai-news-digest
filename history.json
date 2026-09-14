@@ -1,30 +1,5 @@
 [
   {
-    "digest_date_local": "2026-08-15",
-    "canonical_urls": [
-      "https://blogs.nvidia.com/blog/ugm-indosat-nvidia-ai-technology-center",
-      "https://the-decoder.com/study-contradicts-anthropic-and-openai-claims-that-autonomous-ai-research-is-within-reach",
-      "https://the-decoder.com/new-benchmark-confirms-ai-models-still-perform-poorly-at-visual-perception",
-      "https://the-decoder.com/gpt-5-6-sol-goes-14x-faster-as-openai-launches-ultrafast-mode-powered-by-cerebras",
-      "https://the-decoder.com/world-labs-turns-one-real-world-robot-task-into-thousands-of-simulated-variations-for-training"
-    ],
-    "article_hashes": [
-      "2fa073787938da8cf3c9b8141b7b0b4e8e032f976205e26c9e5ba6028af51344",
-      "01c1453e34a46e0a4e05833a7324e1116009a577931f08977657b6ccf7bf8f98",
-      "c4d82b7ab375f8edfbee2ed8f08b8e49e2ceaf94d8d700ca229bca9e084add37",
-      "cf6ac06f9131341e7f9c5fe1b15c6066c711453fe865ad7e06ae50c4d9d46cbb",
-      "ed68e1d59ed58feba29e68a533ff31a904fb4218ca6cd464597bd579f0538cc9"
-    ],
-    "titles": [
-      "Universitas Gadjah Mada, Indosat and NVIDIA Open Indonesia’s First University AI Center to Develop Local AI Talent",
-      "Study contradicts Anthropic and OpenAI claims that autonomous AI research is within reach",
-      "New benchmark confirms AI models still perform poorly at visual perception",
-      "GPT-5.6 Sol goes 14x faster as OpenAI launches Ultrafast mode powered by Cerebras",
-      "World Labs turns one real-world robot task into thousands of simulated variations for training"
-    ],
-    "smtp_accepted_at_utc": "2026-08-15T11:58:03.002765Z"
-  },
-  {
     "digest_date_local": "2026-08-16",
     "canonical_urls": [
       "https://the-decoder.com/openai-dissolved-the-team-built-to-catch-catastrophic-ai-risks-reassigning-its-work-to-other-groups",
@@ -712,5 +687,30 @@
       "Altman, Musk, and Hassabis back Amodei's call to add independent oversight"
     ],
     "smtp_accepted_at_utc": "2026-09-13T15:04:29.473111Z"
+  },
+  {
+    "digest_date_local": "2026-09-14",
+    "canonical_urls": [
+      "https://developer.nvidia.com/blog/accelerating-dropless-moe-training-in-jax-with-nvidia-transformer-engine",
+      "https://blogs.nvidia.com/blog/local-ai-perplexity-windows-pcs",
+      "https://openai.com/index/perplexity-improving-accuracy-with-astra",
+      "https://blog.google/innovation-and-ai/technology/developers-tools/devfest2026",
+      "https://openai.com/index/fyxer"
+    ],
+    "article_hashes": [
+      "75ebfc4f40c5e28ba3dfdf08c6c5bd1b6a2f89ebc64c2f334ce4631d8aad3af3",
+      "e52b0024cc5c06e8b375973d3ccf4f7373d2b3f23d79409521a300ede19c6f34",
+      "968c32634dc2a1cb83f007064d0bd309276c504696b107928b2bc3d51ba9601b",
+      "fd1baec08311b505543d5a8c71d0a693c44e2ce54fd7ece1e317669825fe6f4e",
+      "7f82d995c515e5ba429e7e06d184bac39c4f16f7fff73a80b082fdc2812fc58f"
+    ],
+    "titles": [
+      "Accelerating Dropless MoE Training in JAX with NVIDIA Transformer Engine",
+      "Perplexity Portable Computer Is Now Available on Windows, Powered by NVIDIA RTX",
+      "Perplexity trusts GPT-6 Astra with end-to-end systems",
+      "DevFest is back",
+      "How Fyxer built an AI executive assistant people trust"
+    ],
+    "smtp_accepted_at_utc": "2026-09-14T17:03:48.264247Z"
   }
 ]
