@@ -1,27 +1,5 @@
 [
   {
-    "digest_date_local": "2026-08-16",
-    "canonical_urls": [
-      "https://the-decoder.com/openai-dissolved-the-team-built-to-catch-catastrophic-ai-risks-reassigning-its-work-to-other-groups",
-      "https://the-decoder.com/anthropics-bio-weapons-filter-was-down-for-nearly-a-year-exposing-133-million-requests",
-      "https://the-decoder.com/optima-tackles-ai-benchmarkings-biggest-flaw-by-letting-users-test-models-against-their-own-data",
-      "https://the-decoder.com/investor-pressure-forces-nvidia-to-shrink-its-openai-bet-just-as-anthropics-numbers-defy-bubble-warnings"
-    ],
-    "article_hashes": [
-      "e71efcec070c6c7f436e095967a043604e820e5d2a2b6e0c914925978644e7ae",
-      "79423b6edbeb6ec741c2f3699b384e2d1777a984fd05a3e4edf43313797387c2",
-      "31a53d426720e4b80564f6cc6c7ecdb0fb11cb493464acc126d7689793c63f33",
-      "8d6eb1a31c963bbad234d1d2ad672b3c2c4ce51e5e4b488598d44b406c0c440f"
-    ],
-    "titles": [
-      "OpenAI dissolved the team built to catch catastrophic AI risks, reassigning its work to other groups",
-      "Anthropic's bio-weapons filter was down for nearly a year, exposing 133 million requests",
-      "Optima tackles AI benchmarking's biggest flaw by letting users test models against their own data",
-      "Investor pressure forces Nvidia to shrink its OpenAI bet just as Anthropic's numbers defy bubble warnings"
-    ],
-    "smtp_accepted_at_utc": "2026-08-16T11:58:58.047019Z"
-  },
-  {
     "digest_date_local": "2026-08-17",
     "canonical_urls": [
       "https://blog.google/products-and-platforms/products/gemini/google-gemini-pixel-football-club-partnerships",
@@ -712,5 +690,30 @@
       "How Fyxer built an AI executive assistant people trust"
     ],
     "smtp_accepted_at_utc": "2026-09-14T17:03:48.264247Z"
+  },
+  {
+    "digest_date_local": "2026-09-15",
+    "canonical_urls": [
+      "https://developer.nvidia.com/blog/scaling-federated-learning-across-docker-kubernetes-and-slurm-with-nvidia-flare",
+      "https://blog.google/innovation-and-ai/technology/ai/ai-economy-atlas-september-2026",
+      "https://blogs.nvidia.com/blog/childrens-hospital-open-source-ai-cardiac-care",
+      "https://blog.google/innovation-and-ai/technology/ai/dialogues-christina-koch",
+      "https://the-decoder.com/not-everyone-is-convinced-that-big-ais-proposed-development-slowdown-is-really-about-safety"
+    ],
+    "article_hashes": [
+      "0fdcb63db2859a930b46e15385027f23441fb12c5523ae338694f7771304969b",
+      "64730bcdfc3a35229b481acfce94fb07b15462de1b2e63893c551ff0e8190f0a",
+      "3092a9123492d90c4db11355233ea12cc1062c71a138dea39e6d0f7f8ead6c02",
+      "ff082bc32dcf39bfd27812edc1e6795d89a33c6620e4fac168c5a51bfe3c1f63",
+      "63129490eff2632284ba012bbafefabd5dbee8e3b5e0acc1c0ef7756070ffec5"
+    ],
+    "titles": [
+      "Scaling Federated Learning Across Docker, Kubernetes, and Slurm with NVIDIA FLARE",
+      "New insights from Google’s AI & Economy ATLAS",
+      "Heart of the Matter: How a Major Children’s Hospital Uses Open Source NVIDIA AI for Cardiac Care",
+      "Watch astronaut Christina Koch and Google’s James Manyika discuss space, technology, and discovery.",
+      "Not everyone is convinced that Big AI's proposed development slowdown is really about safety"
+    ],
+    "smtp_accepted_at_utc": "2026-09-15T15:42:46.993207Z"
   }
 ]
