@@ -1,27 +1,5 @@
 [
   {
-    "digest_date_local": "2026-08-17",
-    "canonical_urls": [
-      "https://blog.google/products-and-platforms/products/gemini/google-gemini-pixel-football-club-partnerships",
-      "https://openai.com/index/new-policy-ideas-for-the-intelligence-age",
-      "https://the-decoder.com/anthropic-watermarks-claudes-output-but-critics-question-the-tradeoffs",
-      "https://the-decoder.com/top-mathematicians-say-llms-are-strong-calculators-but-poor-creative-thinkers"
-    ],
-    "article_hashes": [
-      "3aca82d56d54fd7c01e7de7e7e84434a4975606e52a81db4d50ec34ea8b5ff18",
-      "3ff02964da6b7f4fea83906b54535d5964d43b96117d6a1ed402353b95aa89d8",
-      "70857c8a3460e68f47655838e618852a48b6cc8a5aa1eb713010b127d5cc50ad",
-      "a983ac6a3f04c07ad26dab9756aca79553c4795be37502b5d111673fc1db5e75"
-    ],
-    "titles": [
-      "Get closer to the game with Gemini and Pixel",
-      "New policy ideas for the Intelligence Age",
-      "Anthropic watermarks Claude's output, but critics question the tradeoffs",
-      "Top mathematicians say LLMs are strong calculators but poor creative thinkers"
-    ],
-    "smtp_accepted_at_utc": "2026-08-17T12:01:11.884844Z"
-  },
-  {
     "digest_date_local": "2026-08-18",
     "canonical_urls": [
       "https://openai.com/index/introducing-chatgpt-for-teens",
@@ -715,5 +693,30 @@
       "Not everyone is convinced that Big AI's proposed development slowdown is really about safety"
     ],
     "smtp_accepted_at_utc": "2026-09-15T15:42:46.993207Z"
+  },
+  {
+    "digest_date_local": "2026-09-16",
+    "canonical_urls": [
+      "https://blogs.nvidia.com/blog/vera-rubin-nvl72-mlperf-inference",
+      "https://machinelearning.apple.com/research/shared-selective-persistent-memory",
+      "https://developer.nvidia.com/blog/how-nvidia-nvlink-6-delivers-multi-layer-resiliency-for-ai-factories",
+      "https://blogs.nvidia.com/blog/uk-air-pollution-research-earth-2",
+      "https://openai.com/index/reimagining-advertising-with-ai"
+    ],
+    "article_hashes": [
+      "c60864f37894392f651bb2d9fe1eba34e22c1be3daa431d4b2da6b144c5beebf",
+      "1562b9a478adb2d95ad963875cef2be8c619ba26f57fed3a6b8119ced0730518",
+      "d6edaad23002fd8bb747389e14d986b309fe5901e90787cf6f301e0dd817fd2e",
+      "76b87e6c9b5821f48a0fd68bc6c3f06a33cbe9e13c892f77123bb41eae4a7556",
+      "6ac27c68838b29eeea8939f0e49b9f8d5c9f70da6aec6f577cdae354b1b5aa63"
+    ],
+    "titles": [
+      "NVIDIA Vera Rubin NVL72 Delivers Leading Performance in MLPerf Inference v6.1 Debut",
+      "Shared Selective Persistent Memory for Agentic LLM Systems",
+      "How NVIDIA NVLink 6 Delivers Multi-Layer Resiliency for AI Factories",
+      "University of Manchester Uses NVIDIA Earth-2 to Forecast Air Pollution Across the UK",
+      "Reimagining advertising with AI"
+    ],
+    "smtp_accepted_at_utc": "2026-09-16T15:33:45.270523Z"
   }
 ]
