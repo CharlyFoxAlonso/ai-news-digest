@@ -1,30 +1,5 @@
 [
   {
-    "digest_date_local": "2026-08-20",
-    "canonical_urls": [
-      "https://developer.nvidia.com/blog/building-federated-multimodal-ai-workflows-with-nvidia-flare",
-      "https://developer.nvidia.com/blog/developing-nvidia-holoscan-applications-with-cli-skills-and-ai-coding-agents",
-      "https://developer.nvidia.com/blog/evaluating-ai-agent-skill-performance-with-nvidia-skillevaluator",
-      "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
-      "https://developer.nvidia.com/blog/post-train-nvidia-cosmos-3-edge-for-on-device-robot-control"
-    ],
-    "article_hashes": [
-      "fe4db26d6cadac6b2476fd7a3bc08da6ea76a72d9d708cca2089b435f3ff3564",
-      "af48a937ffe7e63e70063b62d54586a36643ae482d9e22352057f466b181fb64",
-      "92423334bbd0b0563e33c4a5971a961be11d6e71a84b2226def539321d529e99",
-      "df8f12302a5b421ac18657dd3c98b85f0bbbcdb55f27a7a2a1e94cd20d3dde6b",
-      "5e8be0d1d1832f93172185e0dd2bd54f471c7ef8e853b49902c5c247b81c54da"
-    ],
-    "titles": [
-      "Building Federated Multimodal AI Workflows with NVIDIA FLARE",
-      "Developing NVIDIA Holoscan Applications with CLI, Skills, and AI Coding Agents",
-      "Evaluating AI Agent Skill Performance with NVIDIA SkillEvaluator",
-      "Offering Zero Data Retention for frontier models",
-      "Post-Train NVIDIA Cosmos 3 Edge for On-Device Robot Control"
-    ],
-    "smtp_accepted_at_utc": "2026-08-20T12:04:02.310485Z"
-  },
-  {
     "digest_date_local": "2026-08-21",
     "canonical_urls": [
       "https://developer.nvidia.com/blog/how-generative-recommenders-are-redefining-recsys-at-scale",
@@ -718,5 +693,30 @@
       "Anthropic wants you to know Claude leads a quarter of its research, but \"lead\" doesn't mean what you think"
     ],
     "smtp_accepted_at_utc": "2026-09-18T15:11:25.624917Z"
+  },
+  {
+    "digest_date_local": "2026-09-19",
+    "canonical_urls": [
+      "https://developer.nvidia.com/blog/benchmarking-llm-inference-at-scale-with-aiperf",
+      "https://the-decoder.com/qwen3-8-omni-flash-undercuts-gemini-flash-pricing-while-matching-its-multimodal-benchmarks",
+      "https://the-decoder.com/unity-launches-official-plugins-for-claude-code-and-openai-codex-to-stop-ai-agents-from-using-outdated-tutorials",
+      "https://the-decoder.com/gpt-6-astra-and-claude-fable-turn-robot-arms-into-slapstick-killer-robots-in-new-safety-benchmark",
+      "https://the-decoder.com/google-deepminds-dream-rsi-helps-ai-agents-improve-by-dreaming-about-past-attempts"
+    ],
+    "article_hashes": [
+      "a1668928fd43d0c6cf05f828b4a5c1058ce2e8afef6fe76545e44b1b42183326",
+      "1dd700d2435e571ddee0114d23ac300e0e919d9a9cac293de7d8a099fd63c57c",
+      "fd6a2c2eac6c94e132e92234ed0b8b20360bf6fb3630c6d6024b7addfb17ad64",
+      "ba4f0ba8f257ae9d384701cfb5b917f740eaf05f3e38db0b1619bbf3f78240ea",
+      "ee21c22a05b9e6a94b74bb6a944ca87fa8cf5ba94238f5d257ca631cad387047"
+    ],
+    "titles": [
+      "Benchmarking LLM Inference at Scale with AIPerf",
+      "Qwen3.8-Omni-Flash undercuts Google's Gemini Flash pricing while matching its multimodal benchmarks",
+      "Unity launches official plugins for Claude Code and OpenAI Codex to stop AI agents from using outdated tutorials",
+      "GPT-6 Astra and Claude Fable turn robot arms into slapstick killer robots in new safety benchmark",
+      "Google Deepmind's Dream-RSI helps AI agents improve by “dreaming” about past attempts"
+    ],
+    "smtp_accepted_at_utc": "2026-09-19T14:49:15.316758Z"
   }
 ]
