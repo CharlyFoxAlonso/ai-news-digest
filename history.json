@@ -1,27 +1,5 @@
 [
   {
-    "digest_date_local": "2026-08-23",
-    "canonical_urls": [
-      "https://the-decoder.com/ai-is-becoming-ais-biggest-customer-as-agentic-token-usage-jumps-14x-on-openrouter",
-      "https://the-decoder.com/memory-shortage-reportedly-drives-nvidia-ai-server-prices-up-about-15-percent",
-      "https://the-decoder.com/how-chinas-gray-market-sells-claude-tokens-at-a-fraction-of-the-price",
-      "https://the-decoder.com/study-explains-why-ai-agents-benefit-from-skills-and-when-they-fail"
-    ],
-    "article_hashes": [
-      "a61fcdeff7be347b8ce5fc9360911dbb2604003eec0f7b177049583ca17d748d",
-      "0aeada2d740c44a7648fbdcf6fde7cd2705f1204788f072a84255105d0b194ed",
-      "12ec7614b9306947bee1e076ff232d745eb776c8e325672588d80e1f09b71fd7",
-      "9603cf74f0485539936cd944982261c4bb8752d04c5aafb072d423f89c55f4a0"
-    ],
-    "titles": [
-      "AI is becoming AI's biggest customer as agentic token usage jumps 14x on OpenRouter",
-      "Memory shortage reportedly drives Nvidia AI server prices up about 15 percent",
-      "How China's gray market sells Claude tokens at a fraction of the price",
-      "Study explains why AI agents benefit from \"skills\" and when they fail"
-    ],
-    "smtp_accepted_at_utc": "2026-08-23T11:59:23.559326Z"
-  },
-  {
     "digest_date_local": "2026-08-24",
     "canonical_urls": [
       "https://the-decoder.com/ai-chatbots-regularly-link-pregnant-users-to-anti-abortion-websites-without-disclosure",
@@ -712,5 +690,30 @@
       "Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem"
     ],
     "smtp_accepted_at_utc": "2026-09-21T17:12:16.548475Z"
+  },
+  {
+    "digest_date_local": "2026-09-22",
+    "canonical_urls": [
+      "https://developer.nvidia.com/blog/accelerating-a-ros-2-node-with-an-ai-agent-and-nvidia-isaac-ros",
+      "https://blogs.nvidia.com/blog/isaac-ros-5-0-agentic-open-source-robotics",
+      "https://developer.nvidia.com/blog/simplifying-model-serving-across-multiple-gpus-with-nvidia-tensorrt-multi-device-integration-in-nvidia-dynamo-triton",
+      "https://developer.nvidia.com/blog/how-to-evaluate-ai-agents-from-tool-calls-to-task-completion",
+      "https://developer.nvidia.com/blog/whats-new-for-game-developers-dlss-5-with-3d-guided-neural-rendering-nvidia-ace-updates-and-new-rtx-kit-capabilities"
+    ],
+    "article_hashes": [
+      "7a362fd0719547651d5e3f88800a7ba2923e72baccbdf1ff9031fc35feeb0b57",
+      "33fd00ceaa5855dfc4011f4cc2a7f4c1a08e8a07efbd4bd4a203462236d1fcaa",
+      "6b434694308aa0f0480884d59606af1dc583b128a91fe47536b0c925c7a607fc",
+      "bdd29549bac9c40278a0305c29cf578bec5282463044304d2a95553112daea58",
+      "cd268d2cc427c0d1993ee0ff41db3f34b937d7a17259029856a2b692fa2b7033"
+    ],
+    "titles": [
+      "Accelerating a ROS 2 Node with an AI Agent and NVIDIA Isaac ROS",
+      "NVIDIA Isaac ROS 5.0 Advances Agentic, Open Source Robotics Development",
+      "Simplifying Model Serving Across Multiple GPUs with NVIDIA TensorRT Multi-Device Integration in NVIDIA Dynamo-Triton",
+      "How to Evaluate AI Agents From Tool Calls to Task Completion",
+      "What’s New for Game Developers: DLSS 5 with 3D-Guided Neural Rendering, NVIDIA ACE Updates, and New RTX Kit Capabilities"
+    ],
+    "smtp_accepted_at_utc": "2026-09-22T15:44:21.264597Z"
   }
 ]
