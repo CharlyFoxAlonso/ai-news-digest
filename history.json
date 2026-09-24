@@ -1,30 +1,5 @@
 [
   {
-    "digest_date_local": "2026-08-25",
-    "canonical_urls": [
-      "https://developer.nvidia.com/blog/how-nvidia-groq-3-lpx-unlocks-ultrafast-interactivity-at-long-context-on-nvidia-vera-rubin",
-      "https://developer.nvidia.com/blog/nvidia-vera-rubin-and-blackwell-set-a-new-standard-for-agentic-ai-performance-per-watt",
-      "https://developer.nvidia.com/blog/giga-scale-ai-ethernet-evolution-spectrum-x-ethernet-rewrites-rules",
-      "https://developer.nvidia.com/blog/nvidia-bluefield-4-powers-new-scale-in-network-infrastructure-for-agentic-ai-factories",
-      "https://blogs.nvidia.com/blog/vera-rubin-lpx-spectrum-x-nvlink-fusion"
-    ],
-    "article_hashes": [
-      "74b2cd5a5cd013b774df06b1541b2dd35dc2b1607d6efa92d9da7c6f5fb3273d",
-      "f42510f490b4e8271c10e963abb8cc868696c302b1fcdf900d422bf480dc227e",
-      "b1e96acd7daea4c597fe9c208198d7395351785f320edbfea7d6a5fb501110ec",
-      "5d07dc7b6b3ddbca50e6572d259631ea760a23c483bfd344b85f5a3402072c27",
-      "19af374b78b369cd57e1f50411451ccb06354f9e6cd98048fff15f273f4f72a6"
-    ],
-    "titles": [
-      "How NVIDIA Groq 3 LPX Unlocks Ultrafast Interactivity at Long Context on NVIDIA Vera Rubin",
-      "NVIDIA Vera Rubin and Blackwell Set a New Standard for Agentic AI Performance per Watt",
-      "Giga-Scale AI and the Ethernet Evolution: How Spectrum-X Ethernet Rewrites the Rules",
-      "NVIDIA BlueField-4 Powers New Scale-In Network Infrastructure for Agentic AI Factories",
-      "With Groq 3 LPX in Full Production, NVIDIA Extends Vera Rubin Inference for Agents"
-    ],
-    "smtp_accepted_at_utc": "2026-08-25T12:15:12.014112Z"
-  },
-  {
     "digest_date_local": "2026-08-26",
     "canonical_urls": [
       "https://developer.nvidia.com/blog/restore-llm-inference-capacity-in-seconds-with-shadow-engine-recovery-in-nvidia-dynamo",
@@ -718,5 +693,30 @@
       "At AI Day Singapore, NVIDIA and Partners Showcase AI Advancements Across Southeast Asia"
     ],
     "smtp_accepted_at_utc": "2026-09-23T15:34:54.211893Z"
+  },
+  {
+    "digest_date_local": "2026-09-24",
+    "canonical_urls": [
+      "https://developer.nvidia.com/blog/efficient-moe-training-for-biological-foundation-models",
+      "https://machinelearning.apple.com/research/latent-space-distillation",
+      "https://blogs.nvidia.com/blog/open-protein-dataset",
+      "https://blogs.nvidia.com/blog/geforce-now-thursday-control-resonant",
+      "https://the-decoder.com/deepmind-was-built-to-chase-agi-but-its-new-chief-just-wants-gemini-4-out-the-door"
+    ],
+    "article_hashes": [
+      "6ff053dd07249040e881d264e6a0b4f6aca83ad775eab8428d5fb0c44b63c7ba",
+      "415e037d984fa04b5aa5927376b595ed068d458f95b58ac73c15f4cc40f31be5",
+      "2df4b99e390ebb7a0b6bc32ee4667e37c02cbfcbb8d315c161c5519a9c8f11d2",
+      "d8613f1593297df2840f15adc4f3c894c3936fc138f50b13d5d26e5921512c60",
+      "4c0917fe7e964e4a52cc50af4a27b8dcf0605f3034cf54b045b8daeaae95941b"
+    ],
+    "titles": [
+      "Efficient MoE Training for Biological Foundation Models",
+      "Compressing Streaming Neural Audio Encoders via Latent-Space Distillation",
+      "How Open Science Can Help Researchers Prepare for the Next Pandemic",
+      "Contain the Chaos: ‘CONTROL Resonant’ Launches on GeForce NOW",
+      "Deepmind was built to chase AGI, but its new chief just wants Gemini 4 out the door"
+    ],
+    "smtp_accepted_at_utc": "2026-09-24T15:55:49.231847Z"
   }
 ]
