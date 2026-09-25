@@ -1,30 +1,5 @@
 [
   {
-    "digest_date_local": "2026-08-26",
-    "canonical_urls": [
-      "https://developer.nvidia.com/blog/restore-llm-inference-capacity-in-seconds-with-shadow-engine-recovery-in-nvidia-dynamo",
-      "https://developer.nvidia.com/blog/cuda-python-1-0-stable-apis-one-foundation-full-platform-access",
-      "https://huggingface.co/blog/ibm-granite/granite-4-2",
-      "https://openai.com/index/loveholidays",
-      "https://the-decoder.com/ibm-drops-open-weight-granite-4-2-family-with-built-in-agentic-capabilities-under-apache-2-0"
-    ],
-    "article_hashes": [
-      "35f284698f34b54313c05e1672aca7b2d622f2284d219605e4bd8b40898846ae",
-      "ad28b4c579e2f8d4b8ec9ce2de32112d7a4b1167aab4d7b0500b528f69feb464",
-      "d21068479952e40383665c65fe6b8de94dbcd998c34b8b8d4618ffe8cce61e93",
-      "76c95cd852987031f9d74cac0c4196a0b720408dd9b0815aa14b07f6ec6f1b45",
-      "d0652b8da82ecab08f2f90ca100cb901f5eb832c286fa9cdcb95cddae008aad5"
-    ],
-    "titles": [
-      "Restore LLM Inference Capacity in Seconds with Shadow Engine Recovery in NVIDIA Dynamo",
-      "CUDA Python 1.0: Stable APIs, One Foundation, Full Platform Access",
-      "Granite 4.2 LLMs: How They're Built",
-      "How loveholidays is making everyone a builder with Codex",
-      "IBM drops open-weight Granite 4.2 family with built-in agentic capabilities under Apache 2.0"
-    ],
-    "smtp_accepted_at_utc": "2026-08-26T12:16:26.109165Z"
-  },
-  {
     "digest_date_local": "2026-08-27",
     "canonical_urls": [
       "https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training",
@@ -718,5 +693,30 @@
       "Deepmind was built to chase AGI, but its new chief just wants Gemini 4 out the door"
     ],
     "smtp_accepted_at_utc": "2026-09-24T15:55:49.231847Z"
+  },
+  {
+    "digest_date_local": "2026-09-25",
+    "canonical_urls": [
+      "https://the-decoder.com/anthropic-signs-11-6-billion-cloud-deal-with-akamai-pushing-its-compute-spending-past-500-billion-in-under-a-year",
+      "https://the-decoder.com/white-house-tells-openai-and-anthropic-to-let-u-s-review-new-models-before-sharing-them-with-british-testers",
+      "https://the-decoder.com/metas-muse-agent-gives-every-user-a-full-cloud-computer-running-ubuntu-linux",
+      "https://the-decoder.com/googles-call-for-me-lets-gemini-phone-businesses-for-you",
+      "https://the-decoder.com/sakana-ai-hires-jurgen-schmidhuber-inventor-of-deep-learning-world-models-and-your-next-chatgpt-update"
+    ],
+    "article_hashes": [
+      "d441f7000c82db234a00f8fa62583cba66a4338231ab4d238e70f24c1252587d",
+      "4ca09869bdf4ceca0e86eec837c0e1ec2236bbeabcc6c83dc52970414a97bb48",
+      "c976fffc70b15b92557cdebb6dab132242cd0bcd55a85b4debeb501872f3fc69",
+      "9ff8c81d3154c7b120a33e6ff46ca6275e75e9439306b102355c5f911a3cd6e6",
+      "a5a63097017f7bbb1e8091f4970f674eeecd8537684c24d99e6d00eafaeb1839"
+    ],
+    "titles": [
+      "Anthropic signs $11.6 billion cloud deal with Akamai, pushing its compute spending past $500 billion in under a year",
+      "White House tells OpenAI and Anthropic to let U.S. review new models before sharing them with British testers",
+      "Meta's Muse agent gives every user a full cloud computer running Ubuntu Linux",
+      "Google's \"Call for Me\" lets Gemini phone businesses for you",
+      "Sakana AI hires Jürgen Schmidhuber, inventor of deep learning, world models, and your next ChatGPT update"
+    ],
+    "smtp_accepted_at_utc": "2026-09-25T15:56:01.175983Z"
   }
 ]
