@@ -1,30 +1,5 @@
 [
   {
-    "digest_date_local": "2026-08-27",
-    "canonical_urls": [
-      "https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training",
-      "https://blog.google/products-and-platforms/products/search/book-travel-ai-mode",
-      "https://blogs.nvidia.com/blog/vera-cpu-delivery",
-      "https://blogs.nvidia.com/blog/geforce-now-thursday-gamescom-2026",
-      "https://openai.com/index/expanding-our-presence-in-brazil"
-    ],
-    "article_hashes": [
-      "5c8d75ef9c12c05961137bb4431a14c551ac90466a167ec85821c6aa78285922",
-      "a7db6e12c1ae453b9e9d3bf924c5f3a7af148e960f556ca8c2b7d5497640930b",
-      "66d1ddc58948150bffee973a973c2b8e804c5d2acb4bedf0427443e9c0426249",
-      "0b6ec4660b970cace79cea29b279e50887397e1126aabfb8b5a99561f9d1dd7d",
-      "fe23f369e01db08d4a0477172cd7e0c5a8e1ac1fb959a7f41cba80240e425604"
-    ],
-    "titles": [
-      "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training",
-      "3 new ways to plan and book travel in Search",
-      "Delivering Vera: NVIDIA’s First CPU Built for Agents Is Shipping Now",
-      "GeForce NOW Gives Gamers More Ways to Play at Gamescom 2026",
-      "Expanding OpenAI’s presence in Brazil"
-    ],
-    "smtp_accepted_at_utc": "2026-08-27T21:19:12.748918Z"
-  },
-  {
     "digest_date_local": "2026-08-28",
     "canonical_urls": [
       "https://developer.nvidia.com/blog/deploy-an-open-model-from-checkpoint-to-inference-in-two-commands-with-nvidia-tensorrt-model-connect",
@@ -718,5 +693,30 @@
       "Sakana AI hires Jürgen Schmidhuber, inventor of deep learning, world models, and your next ChatGPT update"
     ],
     "smtp_accepted_at_utc": "2026-09-25T15:56:01.175983Z"
+  },
+  {
+    "digest_date_local": "2026-09-26",
+    "canonical_urls": [
+      "https://the-decoder.com/openai-pauses-its-most-capable-models-after-agents-exploit-loopholes-and-leak-data",
+      "https://openai.com/index/proaction",
+      "https://the-decoder.com/openais-gpt-6-astra-can-now-tell-you-exactly-where-you-screwed-up-your-ikea-shelf",
+      "https://the-decoder.com/nvidias-sol-pi-system-cuts-coding-agent-token-usage-nearly-in-half-by-optimizing-the-harness",
+      "https://the-decoder.com/another-google-deepmind-researcher-quits-says-building-superintelligent-ai-soon-is-inherently-irresponsible"
+    ],
+    "article_hashes": [
+      "6078215dca0fb3ab4c4bd2c751fe2843788a4643191bfa47a4649d0b45a793a1",
+      "9de028fbe46cac8b155a7c08a35dfcf47f00596edbfe763bda6c0737c9cb02fb",
+      "9e77124e795c0a08212dc9a0b1546e46ea3f86d77fcc3ce13b74843bf84d2688",
+      "fcd48acf9292eaa2072f0505e8553077780f03358caaeaf08a9ee259cba1fa72",
+      "e4d1cb3bbea51efc35c5318de368e5c63e6058d7ac3941a85f81579d12d43153"
+    ],
+    "titles": [
+      "OpenAI pauses its \"most capable models\" after agents exploit loopholes and leak data",
+      "Proaction boosts sales 60% and saves 75+ hours with Codex",
+      "OpenAI's GPT-6 Astra can now tell you exactly where you screwed up your IKEA shelf",
+      "Nvidia's SoL-Pi system cuts coding agent token usage nearly in half by optimizing the harness",
+      "Another Google Deepmind researcher quits, says building superintelligent AI soon is \"inherently irresponsible\""
+    ],
+    "smtp_accepted_at_utc": "2026-09-26T15:07:20.302138Z"
   }
 ]
