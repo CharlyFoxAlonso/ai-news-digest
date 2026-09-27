@@ -1,30 +1,5 @@
 [
   {
-    "digest_date_local": "2026-08-28",
-    "canonical_urls": [
-      "https://developer.nvidia.com/blog/deploy-an-open-model-from-checkpoint-to-inference-in-two-commands-with-nvidia-tensorrt-model-connect",
-      "https://machinelearning.apple.com/research/agent-seer-synthesizing-scenarios",
-      "https://machinelearning.apple.com/research/llms-not-consistently-bayesian",
-      "https://openai.com/index/supporting-next-generation-ai-startups-thailand",
-      "https://the-decoder.com/google-deepminds-ai-co-scientist-now-plans-experiments-runs-lab-equipment-and-writes-scientific-papers"
-    ],
-    "article_hashes": [
-      "a0eed0f62d0dd2408ea5e2026f1e3e575ab986c4df93979471afb2d4822c9945",
-      "49af65417091cab593ed830ed9ccd3147d47cf27510466ddf67d9946e4d6a324",
-      "f80bee2d00329ffbcaf3322749eb470806add57f93dafcdd8e6ffb692ec42b44",
-      "cb1db0d5c74b6e9eeb890e2ee46bb06c7f0b7f7e54363ac96a62606a772bbfa5",
-      "4eb3722199b593f4588b26899532066c1662ee37706259edea987bed44187485"
-    ],
-    "titles": [
-      "Deploy an Open Model from Checkpoint to Inference in Two Commands with NVIDIA TensorRT Model Connect",
-      "Agent Seer: Synthesizing Scenarios from Specification Understanding",
-      "LLMs Are Not (Consistently) Bayesian: Quantifying Internal (In)consistencies of LLMs’ Probabilistic Beliefs",
-      "Supporting Thailand’s next generation of AI startups",
-      "Google Deepmind's AI Co-Scientist now plans experiments, runs lab equipment, and writes scientific papers"
-    ],
-    "smtp_accepted_at_utc": "2026-08-28T21:31:52.131490Z"
-  },
-  {
     "digest_date_local": "2026-08-29",
     "canonical_urls": [
       "https://the-decoder.com/anthropic-wants-to-do-for-physical-hardware-what-its-model-context-protocol-did-for-software",
@@ -718,5 +693,30 @@
       "Another Google Deepmind researcher quits, says building superintelligent AI soon is \"inherently irresponsible\""
     ],
     "smtp_accepted_at_utc": "2026-09-26T15:07:20.302138Z"
+  },
+  {
+    "digest_date_local": "2026-09-27",
+    "canonical_urls": [
+      "https://the-decoder.com/tens-of-thousands-of-security-probes-show-openais-hugging-face-incident-was-just-the-beginning",
+      "https://the-decoder.com/goldman-sachs-expects-big-tech-to-spend-1-2-trillion-on-ai-infrastructure-by-2027-dwarfing-wall-street-estimates",
+      "https://the-decoder.com/ai-agents-do-more-of-the-work-in-model-development-but-humans-still-make-the-decisions",
+      "https://the-decoder.com/some-anthropic-veterans-are-reportedly-buying-remote-land-in-case-ai-goes-awry",
+      "https://the-decoder.com/openai-says-80-to-90-percent-of-its-research-already-targets-gpt-7-and-beyond"
+    ],
+    "article_hashes": [
+      "41c1e2dcfa4a023ec98d3fd91960aab8b841da07be573a460036919f3aef3837",
+      "3f61d3e70d20538e9be1da3f2ed68084c15dd2c5c37cb7089591c1d5004bc682",
+      "cbf48c7839dde61978fbee3761f5eecb3754ead6efd037dee3c19967e6d1a4a4",
+      "d83c7e51b383a57b76835491cbdd5614e610280348d3e3ede6647f3976b04df4",
+      "b88ce1f4f03c62e656bb8d29892deddf63b1cb447ce3fff74e040a9e217c9422"
+    ],
+    "titles": [
+      "Tens of thousands of security probes show OpenAI's Hugging Face incident was just the beginning",
+      "Goldman Sachs expects Big Tech to spend $1.2 trillion on AI infrastructure by 2027, dwarfing Wall Street estimates",
+      "AI agents do more of the work in model development, but humans still make the decisions",
+      "Some Anthropic veterans are reportedly buying remote land in case \"AI goes awry\"",
+      "OpenAI says 80 to 90 percent of its research already targets GPT 7 and beyond"
+    ],
+    "smtp_accepted_at_utc": "2026-09-27T15:49:13.411052Z"
   }
 ]
