@@ -1,24 +1,5 @@
 [
   {
-    "digest_date_local": "2026-08-29",
-    "canonical_urls": [
-      "https://the-decoder.com/anthropic-wants-to-do-for-physical-hardware-what-its-model-context-protocol-did-for-software",
-      "https://the-decoder.com/google-gives-ai-agents-their-own-wiki-so-they-can-learn-from-mistakes-and-successes",
-      "https://the-decoder.com/openai-cuts-off-cursor-after-spacex-acquisition-citing-musks-history-of-breaking-contracts"
-    ],
-    "article_hashes": [
-      "09b7bcdbb4f9d611c7ae9def8a1acccb2657ca9ee8d41f497e8dfee61b41013b",
-      "544f8c752c07c09e94a124b7ae41a4d6b8694bacdf036a8a57c4ad2627932d3b",
-      "6b673ce52da58f5c92a3b17cda9395c077463eaaf89a638ac3adbf10ccf05348"
-    ],
-    "titles": [
-      "Anthropic wants to do for physical hardware what its Model Context Protocol did for software",
-      "Google's WikiSkill gives AI agents a persistent memory of past mistakes to sharpen future performance",
-      "OpenAI cuts off Cursor after SpaceX acquisition, citing Musk's history of breaking contracts"
-    ],
-    "smtp_accepted_at_utc": "2026-08-29T15:45:37.495379Z"
-  },
-  {
     "digest_date_local": "2026-08-30",
     "canonical_urls": [
       "https://the-decoder.com/ai-agents-have-no-sense-of-time-and-are-not-aware-of-it",
@@ -718,5 +699,30 @@
       "OpenAI says 80 to 90 percent of its research already targets GPT 7 and beyond"
     ],
     "smtp_accepted_at_utc": "2026-09-27T15:49:13.411052Z"
+  },
+  {
+    "digest_date_local": "2026-09-28",
+    "canonical_urls": [
+      "https://developer.nvidia.com/blog/add-runtime-controls-to-ai-agents-with-nvidia-openshell",
+      "https://developer.nvidia.com/blog/nvidia-open-agent-safety-platform-a-reference-for-continuous-in-silicon-agent-monitoring",
+      "https://huggingface.co/blog/Hcompany/holo4",
+      "https://openai.com/index/lenfest-ai-collaborative-expansion",
+      "https://the-decoder.com/anthropics-claude-sonnet-5-5-nearly-matches-opus-5-5-on-benchmarks-while-costing-up-to-30-percent-less-per-task"
+    ],
+    "article_hashes": [
+      "d1721140685dd934b3f256dbec9afeeccea1072936fd193ecadaf68c5e6a5cec",
+      "3de76f3363411ee9ff7dbb1be78ad6f986e7d5072d6cc127a89c1f67a1860049",
+      "09d1d26fa19dd694ec40f7bb3bc136d48191abcd2b19156a45d7567a4b7fa32e",
+      "0adf5bb2a473897d12526e4b9a8c88391e22c0769cbbe7208af0a1f61691cd5f",
+      "42cddadfb24343716261e55ded37e4ae1411c06416900a2ef90319bc2b465dae"
+    ],
+    "titles": [
+      "Add Runtime Controls to AI Agents with NVIDIA OpenShell",
+      "NVIDIA Open Agent Safety Platform: A Reference for Continuous In-Silicon Agent Monitoring",
+      "Holo4: powering generalist computer-use agents",
+      "The Lenfest Institute grows landmark program with expanded OpenAI support",
+      "Anthropic's Claude Sonnet 5.5 nearly matches Opus 5.5 on benchmarks while costing up to 30 percent less per task"
+    ],
+    "smtp_accepted_at_utc": "2026-09-28T18:44:31.387706Z"
   }
 ]
