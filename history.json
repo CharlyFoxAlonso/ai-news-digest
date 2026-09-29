@@ -1,24 +1,5 @@
 [
   {
-    "digest_date_local": "2026-08-30",
-    "canonical_urls": [
-      "https://the-decoder.com/ai-agents-have-no-sense-of-time-and-are-not-aware-of-it",
-      "https://the-decoder.com/anthropics-claude-code-limit-change-is-a-raise-on-paper-but-a-cut-in-practice",
-      "https://the-decoder.com/sony-and-warner-sue-anthropic-over-one-of-the-largest-and-most-blatant-ongoing-thefts-of-intellectual-property-in-history"
-    ],
-    "article_hashes": [
-      "b84dd82c721486e4a58385f5233707c62f296c72000ee64123cf363bc89eb364",
-      "05cd436ba2c2dc8976e3295a4af4a29ef6e4a8b8f7ecb217074dd02dee917406",
-      "ec72b27639c454f55be6a0285a646e041c4a8d086a8ba517776ab63c01055312"
-    ],
-    "titles": [
-      "AI agents have no sense of time and are not aware of it",
-      "Anthropic's Claude Code limit change is a raise on paper but a cut in practice",
-      "Sony and Warner sue Anthropic over \"one of the largest and most blatant ongoing thefts of intellectual property in history\""
-    ],
-    "smtp_accepted_at_utc": "2026-08-30T15:28:40.673009Z"
-  },
-  {
     "digest_date_local": "2026-08-31",
     "canonical_urls": [
       "https://developer.nvidia.com/blog/run-nvidia-bionemo-nim-microservices-for-protein-structure-prediction-in-claude-science",
@@ -724,5 +705,30 @@
       "Anthropic's Claude Sonnet 5.5 nearly matches Opus 5.5 on benchmarks while costing up to 30 percent less per task"
     ],
     "smtp_accepted_at_utc": "2026-09-28T18:44:31.387706Z"
+  },
+  {
+    "digest_date_local": "2026-09-29",
+    "canonical_urls": [
+      "https://huggingface.co/blog/nvidia/kumo-tabular",
+      "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source",
+      "https://machinelearning.apple.com/research/communication-bottleneck-serialization",
+      "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
+      "https://openai.com/index/how-we-will-do-better-for-australia"
+    ],
+    "article_hashes": [
+      "dc53fce90c6f36f5c727235e1a467f2d849dcd49be3c83b393c97ef4331e392f",
+      "afa8c33f8eb7996a39419deadd5b14c638139f7bae71a907c422a5531afc3651",
+      "e1da41ea41831abed9cd482b909e2f6b1f815294a03f98e5461853f5ae5af667",
+      "2fc54b690d7b20a2e14328388fc3694e3eecf9d62246b7618620635188f7c454",
+      "50d71cd52400f551c336b9ad5bff210544c56459b813f45adc29b8abfb63cfa4"
+    ],
+    "titles": [
+      "NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction",
+      "Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
+      "The Communication Bottleneck: A Round-Trip Study of Tree-Structured Expression Serialization in Language Models",
+      "Towards safety cases for frontier AI training",
+      "How we will do better for Australia"
+    ],
+    "smtp_accepted_at_utc": "2026-09-29T17:02:08.281063Z"
   }
 ]
