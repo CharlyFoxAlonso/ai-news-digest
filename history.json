@@ -1,30 +1,5 @@
 [
   {
-    "digest_date_local": "2026-08-31",
-    "canonical_urls": [
-      "https://developer.nvidia.com/blog/run-nvidia-bionemo-nim-microservices-for-protein-structure-prediction-in-claude-science",
-      "https://developer.nvidia.com/blog/scale-av-perception-across-vehicle-platforms-with-nvidia-omniverse-nurec",
-      "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
-      "https://the-decoder.com/chatgpt-now-faces-stricter-eu-oversight-as-a-very-large-search-engine",
-      "https://the-decoder.com/openai-and-rival-ai-labs-are-buying-tens-of-thousands-of-mac-minis-to-train-computer-use-agents"
-    ],
-    "article_hashes": [
-      "14f0239837ee285381a160c3bac8bf21ac4b3f6fb904afaca1ab8590fb81f0ec",
-      "a44b79ec588c95b7e3403e473cf8218cd80286c93bfb524a86882ff6c39572b4",
-      "8a7cdd78fd48385994a8dbca98a1e32138d055e0841fbba3f4c389fe7e61c2a0",
-      "09a02918d2865df5de09082b9330aba4bf0c3813ce0bca22afda5caa8e681f4d",
-      "a7af99feae97de7fc3029ec17fe8ee13a4ba0e0be3044efabab822a1e6d92dc5"
-    ],
-    "titles": [
-      "Run NVIDIA BioNeMo NIM Microservices for Protein Structure Prediction in Claude Science",
-      "Scale AV Perception Across Vehicle Platforms with NVIDIA Omniverse NuRec",
-      "A milestone in expanding access to AI",
-      "ChatGPT now faces stricter EU oversight as a very large search engine",
-      "OpenAI and rival AI labs are buying tens of thousands of Mac minis to train computer-use agents"
-    ],
-    "smtp_accepted_at_utc": "2026-08-31T18:09:58.710132Z"
-  },
-  {
     "digest_date_local": "2026-09-01",
     "canonical_urls": [
       "https://developer.nvidia.com/blog/how-to-size-gpus-for-ai-inference-and-tco-without-overspending",
@@ -730,5 +705,30 @@
       "How we will do better for Australia"
     ],
     "smtp_accepted_at_utc": "2026-09-29T17:02:08.281063Z"
+  },
+  {
+    "digest_date_local": "2026-09-30",
+    "canonical_urls": [
+      "https://developer.nvidia.com/blog/tracing-agent-harness-behavior-with-nvidia-nemo-relay",
+      "https://blogs.nvidia.com/blog/coreweave-agentic-ai-vera-rubin",
+      "https://machinelearning.apple.com/research/effectiveness-fluency-llm-conditioning",
+      "https://openai.com/index/helping-small-businesses-put-ai-to-work",
+      "https://developer.nvidia.com/blog/lower-the-cost-of-building-and-running-visual-ai-agents-with-nvidia-vss-blueprint-3-3"
+    ],
+    "article_hashes": [
+      "ba8133a0e65d65f160a5c4f8b8d9ff08d79f63e69ae86dfb285dd667fc7dda1f",
+      "db0812d61ea7fb047ed0b06544febb8845b85f25da672d098cd9e2fdb56d6d93",
+      "d63fd7904589a452419d9086c340cd70931c69c728b4714f5acd4bf5fc4d211a",
+      "061338e668ed697490e5190ccd3e1fba28ac269698517daa2fcec5875990601f",
+      "a50201dcd38e1ac4b162037ff641378d3d80097b26ca2a43a2fc1ab628d845ae"
+    ],
+    "titles": [
+      "Tracing Agent Harness Behavior with NVIDIA NeMo Relay",
+      "From Training to Production, NVIDIA and CoreWeave Close the Loop on Agentic AI",
+      "On the Effectiveness-Fluency Trade-Off in LLM Conditioning: A Systematic Study",
+      "Helping small businesses put AI to work",
+      "Lower the Cost of Building and Running Visual AI Agents with NVIDIA VSS Blueprint 3.3"
+    ],
+    "smtp_accepted_at_utc": "2026-09-30T17:00:49.111367Z"
   }
 ]
