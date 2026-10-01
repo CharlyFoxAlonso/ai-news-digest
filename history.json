@@ -1,24 +1,5 @@
 [
   {
-    "digest_date_local": "2026-09-01",
-    "canonical_urls": [
-      "https://developer.nvidia.com/blog/how-to-size-gpus-for-ai-inference-and-tco-without-overspending",
-      "https://huggingface.co/blog/webgpu-kernels",
-      "https://the-decoder.com/runways-solaris-is-an-ai-system-that-generates-software-interfaces-in-real-time"
-    ],
-    "article_hashes": [
-      "2a4fc549ba157ed0f3337d919a8b8623052ea36f2fd824432941481afbbcc5ca",
-      "91dad0068ec24e5bcea7adc0e407700bb8999e1b3de1e0bfc9b0e6a4ed61b3fe",
-      "a98b3535911e2151830edcddbe6b7478f640e8c01269da3708327f5e1595d618"
-    ],
-    "titles": [
-      "How to Size GPUs for AI Inference and TCO Without Overspending",
-      "Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
-      "Runway's Solaris is an AI system that generates software interfaces in real time"
-    ],
-    "smtp_accepted_at_utc": "2026-09-01T15:33:43.750359Z"
-  },
-  {
     "digest_date_local": "2026-09-02",
     "canonical_urls": [
       "https://blog.google/innovation-and-ai/technology/google-ai-updates-august-2026",
@@ -730,5 +711,30 @@
       "Lower the Cost of Building and Running Visual AI Agents with NVIDIA VSS Blueprint 3.3"
     ],
     "smtp_accepted_at_utc": "2026-09-30T17:00:49.111367Z"
+  },
+  {
+    "digest_date_local": "2026-10-01",
+    "canonical_urls": [
+      "https://machinelearning.apple.com/research/harness-autonomous-ml-engineering",
+      "https://openai.com/index/albertsons-reimagining-retail",
+      "https://developer.nvidia.com/blog/fine-tuning-nvidia-nemotron-for-saudi-arabic-dialects-with-a-path-to-other-languages",
+      "https://huggingface.co/blog/allenai/olmocore3",
+      "https://machinelearning.apple.com/research/rltl-dr-self-improvement"
+    ],
+    "article_hashes": [
+      "d64d271c1ab9f5d801791ed4dbd6d140261b47e71582d9f966327cf0c6db611f",
+      "637d3dfa247fa816a4c4160f323cf7816f7979e28cc1acd637f643ec28fcb5fc",
+      "5c5d854609738814f627c97792407180e946ed4dcb201239fcca58436b684f56",
+      "f928531f963725197f57d3d7a6b9eda31eac73aae3207919a7217bf822b2451c",
+      "28b251faa5b0082ef80dcaf6fc1fc5f759eaafa6c5a1d0a2a55f5ecc4b8a7294"
+    ],
+    "titles": [
+      "How Much of a Harness Does a Strong Agent Need for Autonomous ML Engineering?",
+      "How Albertsons Companies is reimagining retail from the inside out",
+      "Fine-Tuning NVIDIA Nemotron for Saudi Arabic Dialects, with a Path to Other Languages",
+      "Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
+      "RLTL;DR: Self-Improvement by Internalizing Self-Generated Feedback"
+    ],
+    "smtp_accepted_at_utc": "2026-10-01T17:30:08.243380Z"
   }
 ]
