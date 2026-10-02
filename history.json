@@ -1,30 +1,5 @@
 [
   {
-    "digest_date_local": "2026-09-02",
-    "canonical_urls": [
-      "https://blog.google/innovation-and-ai/technology/google-ai-updates-august-2026",
-      "https://huggingface.co/blog/ibm-research/real-time-intelligence",
-      "https://openai.com/index/ai-native-company-workflows",
-      "https://developer.nvidia.com/blog/building-an-adaptive-agentic-cybersecurity-system-with-nvidia-nemotron",
-      "https://blogs.nvidia.com/blog/nvidia-crowdstrike-fal-con-2026"
-    ],
-    "article_hashes": [
-      "e6646933ca959a5fc8d118c8b793de49bb6b72b8147d5eceda7d378fce794266",
-      "8c10bd00da2e478d246d8a5ed5ef6c67574eeadd8eaf7af8addbaf53aeec5060",
-      "b0cbef382238cdd5b88df7d9e2e972c6de79dc01f5270d52514cbb50f83a1be1",
-      "95d1f43d3070d60a0f7de9b093baa8937f0389203b18702f18f3b6f4ffcd381d",
-      "e698148a3f7fc4332a7a096ccb301c9dc5192fc3ae5ff0f228d7e4db98d82412"
-    ],
-    "titles": [
-      "The latest AI news we announced in August 2026",
-      "Real-Time Intelligence with IBM Time Series Models on Confluent",
-      "How AI-native companies turn workflows into operating capability",
-      "Building an Adaptive Agentic Cybersecurity System with NVIDIA Nemotron",
-      "NVIDIA and CrowdStrike Strengthen Agentic Cybersecurity Frontier"
-    ],
-    "smtp_accepted_at_utc": "2026-09-02T15:19:42.585846Z"
-  },
-  {
     "digest_date_local": "2026-09-03",
     "canonical_urls": [
       "https://developer.nvidia.com/blog/co-designing-ai-models-using-speculative-decoding-for-faster-llm-inference",
@@ -736,5 +711,30 @@
       "RLTL;DR: Self-Improvement by Internalizing Self-Generated Feedback"
     ],
     "smtp_accepted_at_utc": "2026-10-01T17:30:08.243380Z"
+  },
+  {
+    "digest_date_local": "2026-10-02",
+    "canonical_urls": [
+      "https://blogs.nvidia.com/blog/gpus-openai-gpt-6-astra-ultrafast",
+      "https://blogs.nvidia.com/blog/local-ai-dgx-spark-64gb-sync",
+      "https://openai.com/index/practical-guide-building-gpt-6",
+      "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026",
+      "https://machinelearning.apple.com/research/language-discrimination-multilingual-learning"
+    ],
+    "article_hashes": [
+      "72966dd5c0f3c211fde5aef4e687671e75c083cda2c37139106fadeaf5568855",
+      "010abefa0fafcbd406f20f91e7ca4ac072cc5cb80f7f86f6f4a972a8a572bb65",
+      "c38af6e5cae43e23a64c1d509c6a587da67c166f4c093fc7e47ef57f26c07a7c",
+      "aacb8ca8a4a96bc0cfecf6685ab1bf86aa3d3c1f13feb6fac21b8b58211ab9da",
+      "bd7fa85e5bd0311f32d40a6179bd30f377e2b8a9ef9e065c98055aeabfcd1d5c"
+    ],
+    "titles": [
+      "How NVIDIA GPUs Help Accelerate OpenAI’s GPT-6 Astra Ultrafast",
+      "NVIDIA DGX Spark 64GB Gives Developers More Ways to Build and Scale Local AI",
+      "A model guide for the GPT-6 family",
+      "The latest AI news we announced in September 2026",
+      "Language Discrimination Improves Linguistic Learning in Multilingual Speech Models"
+    ],
+    "smtp_accepted_at_utc": "2026-10-02T16:50:18.733096Z"
   }
 ]
