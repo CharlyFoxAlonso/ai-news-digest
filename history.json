@@ -1,30 +1,5 @@
 [
   {
-    "digest_date_local": "2026-09-03",
-    "canonical_urls": [
-      "https://developer.nvidia.com/blog/co-designing-ai-models-using-speculative-decoding-for-faster-llm-inference",
-      "https://huggingface.co/blog/Hcompany/neomme",
-      "https://blogs.nvidia.com/blog/geforce-now-thursday-september-2026-games-list",
-      "https://developer.nvidia.com/blog/the-modern-cuda-toolbox-in-practice-a-step-by-step-optimization-walkthrough",
-      "https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face"
-    ],
-    "article_hashes": [
-      "b2a88b1bbb68edc1fb50b74a072fb35c3ec9d6b704dc33a9d2e7000cb1eb08f6",
-      "fffbcba03b0b217e48932bf108f9544d9d15dfe90cc71dd430d68dae9df9e2d9",
-      "364c97f2144222392d2e7c8918541fe8e6a9162d6d0cecd2c770fab28c1141ee",
-      "18edfec44847ab6e953efc9b852345135597e01bfb8206469747ee18656fdf0c",
-      "92640b734a56d56cabe470028583c440bc9f85a8199b7a48e5c5d4ab7db977ea"
-    ],
-    "titles": [
-      "Co-Designing AI Models Using Speculative Decoding for Faster LLM Inference",
-      "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
-      "‘NBA 2K27’ With NVIDIA DLSS 5 Leads 28 New Games Coming to GeForce NOW",
-      "The Modern CUDA Toolbox in Practice: A Step-by-Step Optimization Walkthrough",
-      "NVIDIA to Acquire Hugging Face"
-    ],
-    "smtp_accepted_at_utc": "2026-09-03T15:13:20.147144Z"
-  },
-  {
     "digest_date_local": "2026-09-04",
     "canonical_urls": [
       "https://developer.nvidia.com/blog/nvidia-pair-virtual-inference-router-expands-available-compute-on-your-local-network",
@@ -736,5 +711,30 @@
       "Language Discrimination Improves Linguistic Learning in Multilingual Speech Models"
     ],
     "smtp_accepted_at_utc": "2026-10-02T16:50:18.733096Z"
+  },
+  {
+    "digest_date_local": "2026-10-03",
+    "canonical_urls": [
+      "https://the-decoder.com/another-openai-safety-departure-adds-to-a-pattern-of-researchers-leaving-with-public-warnings",
+      "https://huggingface.co/blog/allenai/astabrief",
+      "https://the-decoder.com/muse-gadgets-turns-ai-hardware-into-an-open-source-diy-project",
+      "https://the-decoder.com/ai-agents-build-3d-scenes-from-photos-but-have-no-idea-if-they-got-it-right",
+      "https://the-decoder.com/claude-codes-new-mods-system-lets-developers-rewrite-the-ai-coding-tool-from-the-inside"
+    ],
+    "article_hashes": [
+      "4c5da35b23bd1f61f14ccd03af903845d4760017ba9f9cfabb576619821f2225",
+      "e81b1dea7ce0fb42c97855621c52f6a49d0893d2f06b0ac1c6c329bdc3da8830",
+      "f2fb076773896b62ae71a00cbd5faa10541490b6bbcb1da2b6b43a035fc91f44",
+      "1d23551534a2b54df22e01d8d75667a7699d42aeaa359c341c8b3b5052b546f4",
+      "7de4e1048b5ef7bbd9429758424763fafb4d51dccef04f45b2f2474c90e4d1a2"
+    ],
+    "titles": [
+      "Another OpenAI safety departure adds to a pattern of researchers leaving with public warnings",
+      "Open-sourcing AstaBrief, the fast report-generation model in Asta",
+      "\"Muse Gadgets\" turns AI hardware into an open-source DIY project",
+      "AI agents build 3D scenes from photos but have no idea if they got it right",
+      "Claude Code's new Mods system lets developers rewrite the AI coding tool from the inside"
+    ],
+    "smtp_accepted_at_utc": "2026-10-03T15:14:56.807652Z"
   }
 ]
