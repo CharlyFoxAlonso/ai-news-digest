@@ -1,30 +1,5 @@
 [
   {
-    "digest_date_local": "2026-09-04",
-    "canonical_urls": [
-      "https://developer.nvidia.com/blog/nvidia-pair-virtual-inference-router-expands-available-compute-on-your-local-network",
-      "https://blogs.nvidia.com/blog/local-ai-ifa-next-gen-agents-nv-pair-rtx-spark",
-      "https://developer.nvidia.com/blog/how-to-carry-user-identity-across-federated-kubernetes-and-ai-platforms",
-      "https://the-decoder.com/benchmarks-disagree-on-gpt-6-astra-but-its-human-beating-efficiency-on-arc-agi-3-pulls-chollets-agi-forecast-forward",
-      "https://the-decoder.com/deepseek-plans-the-largest-known-huawei-chip-cluster-with-160000-processors-in-inner-mongolia"
-    ],
-    "article_hashes": [
-      "a038bd3173badd7b0fba2e6e67e7f0a71a32284a4e9f921b24fdfa0a83c501f9",
-      "c5fea2be4f2543bc4a7e77b1b7700d97df44c4a64580f0ad016b81788370c964",
-      "d276fe4e311d0162ee8046a09d6b4ed0e37af1aaea914e55c9303e95699ce887",
-      "eb1d904bf8627c8d4e24ea676eea43ec2547c6ffb892507b2be405c7e77617d8",
-      "1905f972162406d7437548e7495833db9f32ee479b7aa6134a07c2754bae31c7"
-    ],
-    "titles": [
-      "NVIDIA PAIR Virtual Inference Router Expands Available Compute on Your Local Network",
-      "Sparks Fly: NVIDIA Accelerates Local AI at IFA 2026",
-      "How to Carry User Identity Across Federated Kubernetes and AI Platforms",
-      "Benchmarks disagree on GPT-6 Astra, but its human-beating efficiency on ARC-AGI-3 pulls Chollet’s AGI forecast forward",
-      "Deepseek plans the largest known Huawei chip cluster with 160,000 processors in Inner Mongolia"
-    ],
-    "smtp_accepted_at_utc": "2026-09-04T15:07:42.448448Z"
-  },
-  {
     "digest_date_local": "2026-09-05",
     "canonical_urls": [
       "https://developer.nvidia.com/blog/building-a-memory-driven-agent-with-nvidia-nemoclaw",
@@ -736,5 +711,30 @@
       "Claude Code's new Mods system lets developers rewrite the AI coding tool from the inside"
     ],
     "smtp_accepted_at_utc": "2026-10-03T15:14:56.807652Z"
+  },
+  {
+    "digest_date_local": "2026-10-04",
+    "canonical_urls": [
+      "https://huggingface.co/blog/microsoft/thinkingbox",
+      "https://the-decoder.com/google-researchers-find-a-way-to-keep-self-improving-ai-agents-from-memorizing-their-tests",
+      "https://the-decoder.com/nasa-and-ibms-open-source-lunar-model-turns-17-years-of-orbiter-data-into-a-foundation-for-lunar-science",
+      "https://the-decoder.com/googles-new-gemini-tiers-cut-free-users-to-its-weakest-model-and-lock-5-month-subscribers-out-of-pro",
+      "https://the-decoder.com/apparently-openai-isnt-trying-to-build-magic-intelligence-in-the-sky-anymore"
+    ],
+    "article_hashes": [
+      "bd1136d0fcfd6f1357de280adaee84cea07cc88c30626783f53af728070f9fc3",
+      "f866c6c40b5d2898079b0a96ecdeb83cd96b020189d7baacff1fc7d3eaf33fc9",
+      "1eea252fae74e441ad7365b9e04c0c4644e60d2a72ef92a93c061ef383f47df4",
+      "43aee6f436c1447f518eb3860bb7edf11fb4108fdfd41dbeb3534bb83f594675",
+      "df14f436260187b99aba0c81ab16b1b374e9a349debc922ffc367b0c1195eca8"
+    ],
+    "titles": [
+      "The Agent Said It Was Done. The Database Disagreed.",
+      "Google researchers find a way to keep self-improving AI agents from memorizing their tests",
+      "NASA and IBM's open source lunar model turns 17 years of orbiter data into a foundation for lunar science",
+      "Google's new Gemini tiers cut free users to its weakest model and lock $5/month subscribers out of Pro",
+      "Apparently, OpenAI isn't trying to build \"magic intelligence in the sky\" anymore"
+    ],
+    "smtp_accepted_at_utc": "2026-10-04T15:59:42.210607Z"
   }
 ]
