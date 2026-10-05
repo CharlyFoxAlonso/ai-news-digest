@@ -1,30 +1,5 @@
 [
   {
-    "digest_date_local": "2026-09-05",
-    "canonical_urls": [
-      "https://developer.nvidia.com/blog/building-a-memory-driven-agent-with-nvidia-nemoclaw",
-      "https://developer.nvidia.com/blog/frontier-reasoning-reaches-the-edge-how-to-deploy-and-optimize-models-on-nvidia-jetson",
-      "https://the-decoder.com/openai-rolls-out-gpt-6-astra-to-top-tier-chatgpt-plans-at-half-the-rate-of-gpt-5-6-sol",
-      "https://the-decoder.com/deepmind-put-100-ai-agents-in-a-room-and-they-sorted-into-cheaters-converts-and-whistleblowers",
-      "https://the-decoder.com/openais-gpt-6-astra-hallucinates-less-but-remains-vulnerable-to-hidden-prompt-injections"
-    ],
-    "article_hashes": [
-      "01f7e1660c3b6e8a758fa1c70bfca310b7845f55ec01a1dc6a77e0cd1b5dffd1",
-      "e89e8064c40636c2ddebf7217910bc9faa529187270ca1bcaa938cdf46b409e7",
-      "ba2d3ba570aaedf328c5294eeae8d56be921517f7e2fbb6d7d13203978992e69",
-      "de54ba32c1bdd9fe74db9558c31557d2048e4be9ce456593a2c2f2d1400d2e90",
-      "8f703de409c2736c74eb6dcefa53f9cdea492064ec514979c4476e73bf565fff"
-    ],
-    "titles": [
-      "Building a Memory-Driven Agent with NVIDIA NemoClaw",
-      "Frontier Reasoning Reaches the Edge: How to Deploy and Optimize Models on NVIDIA Jetson",
-      "OpenAI rolls out GPT-6 Astra to top-tier ChatGPT plans at half the rate of GPT-5.6 Sol",
-      "Deepmind put 100 AI agents in a room and they sorted into cheaters, converts, and whistleblowers",
-      "OpenAI's GPT-6 Astra hallucinates less but remains vulnerable to hidden prompt injections"
-    ],
-    "smtp_accepted_at_utc": "2026-09-05T14:00:48.430900Z"
-  },
-  {
     "digest_date_local": "2026-09-06",
     "canonical_urls": [
       "https://the-decoder.com/google-brings-ai-music-generation-directly-into-the-gemini-app-with-its-new-lyria-3-5-model",
@@ -736,5 +711,30 @@
       "Apparently, OpenAI isn't trying to build \"magic intelligence in the sky\" anymore"
     ],
     "smtp_accepted_at_utc": "2026-10-04T15:59:42.210607Z"
+  },
+  {
+    "digest_date_local": "2026-10-05",
+    "canonical_urls": [
+      "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
+      "https://openai.com/index/eu-text-provenance",
+      "https://machinelearning.apple.com/research/ontological-boundary-negotiation",
+      "https://blogs.nvidia.com/blog/ai-breast-cancer-startups",
+      "https://the-decoder.com/reka-ais-omni-model-rho-1-handles-text-images-video-and-robot-control-in-a-single-model"
+    ],
+    "article_hashes": [
+      "2d8e70fb45cef7470a5baf361c95df26b5ff7249933c340d169f562e1258ded9",
+      "d2b5b29b4c815525619915dcf133df4d932068a91ccef332cbfb8777febef4ef",
+      "031c3906bd6f632eb5d29a6482ef98bf21b5ad43a5a9984cdf4c228b3f1aa7cd",
+      "2e62828caccf84a69f7daa4c7719360160e7f5ddd5999fc6686119f75cac9761",
+      "c39aa4af88caf49748cdfe70fa6363d6c5e7368c313de990e2db08159fea122c"
+    ],
+    "titles": [
+      "Building advertising for the way people use AI",
+      "Our approach to EU text provenance rules",
+      "Negotiating Ontological Boundaries in User-Authored Personal Sensing Systems",
+      "From Scan to Treatment Plan, AI Helps Close Breast Cancer’s Deadliest Gaps",
+      "Reka AI's omni-model Rho-1 handles text, images, video, and robot control in a single model"
+    ],
+    "smtp_accepted_at_utc": "2026-10-05T20:44:30.519053Z"
   }
 ]
