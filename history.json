@@ -1,30 +1,5 @@
 [
   {
-    "digest_date_local": "2026-09-06",
-    "canonical_urls": [
-      "https://the-decoder.com/google-brings-ai-music-generation-directly-into-the-gemini-app-with-its-new-lyria-3-5-model",
-      "https://the-decoder.com/metas-new-real-time-audio-model-is-the-foundation-for-ai-assistants-that-never-stop-listening",
-      "https://the-decoder.com/chatbots-built-an-echo-chamber-of-one-and-now-psychiatry-has-to-decide-if-ai-psychosis-exists",
-      "https://the-decoder.com/artificial-analysis-overhauls-its-intelligence-index-after-gpt-6-astra-scoring-drew-skepticism",
-      "https://the-decoder.com/openai-developer-claims-astra-boosted-productivity-so-much-it-pulled-some-plans-forward-by-six-months"
-    ],
-    "article_hashes": [
-      "3fc5e0b182c7bf86fa53cbadf1ccd01b9695302de8016c5e6e5ac2637c5853a0",
-      "a2741d464a274ec7de0fa3ed334d911f111432993d71ea495fca2a03ea76419b",
-      "da38890e4565149a7c5a3cd2e2acab54f14043396a7a4ec7fbcf1d7c65d32213",
-      "a0f50c4cbf39123a4f2d1344126c0cc9d892fc1fdae41cf0990bbdaae84546b0",
-      "7490619321d1994fe33c0f0afa082acd6633a158e77add565374b47f450faad5"
-    ],
-    "titles": [
-      "Google brings AI music generation directly into the Gemini app with its new Lyria 3.5 model",
-      "Meta's new real-time audio model is the foundation for AI assistants that never stop listening",
-      "Chatbots built an \"echo chamber of one\" and now psychiatry has to decide if \"AI psychosis\" exists",
-      "Artificial Analysis overhauls its Intelligence Index after GPT-6 Astra scoring drew skepticism",
-      "OpenAI developer claims Astra boosted productivity so much it pulled some plans forward by six months"
-    ],
-    "smtp_accepted_at_utc": "2026-09-06T14:25:38.615696Z"
-  },
-  {
     "digest_date_local": "2026-09-07",
     "canonical_urls": [
       "https://openai.com/index/supporting-independent-journalism-in-ukraine",
@@ -736,5 +711,30 @@
       "Reka AI's omni-model Rho-1 handles text, images, video, and robot control in a single model"
     ],
     "smtp_accepted_at_utc": "2026-10-05T20:44:30.519053Z"
+  },
+  {
+    "digest_date_local": "2026-10-06",
+    "canonical_urls": [
+      "https://developer.nvidia.com/blog/aicr-v1-0-open-stable-and-verifiable-gpu-cluster-configuration",
+      "https://developer.nvidia.com/blog/control-how-your-gpu-shares-work-with-green-contexts",
+      "https://openai.com/index/atlassian-partnership",
+      "https://blogs.nvidia.com/blog/telecom-operators-open-models",
+      "https://huggingface.co/blog/tiiuae/falcon-emirati"
+    ],
+    "article_hashes": [
+      "704b90a84e93c542dd60eaae247e478cb42a23f699456cfdf031db01f8d4075e",
+      "5620120659a81e50f01df05f4db6f842cb99306828b40c50bfdce591727c6e32",
+      "2896758265cec81d95898858cf3558ac9cdd51e4e22038c8fc6ca0aa5193f521",
+      "33e718013b81e9f4cb7d9cd0d521d47760f65a9f6bd4c421075242d4bd116c1c",
+      "fe424883c3cacf664f5b2b38c48ff03e276a793b02e58aafe0d44ea5db932443"
+    ],
+    "titles": [
+      "AICR v1.0: Open, stable, and verifiable GPU cluster configuration",
+      "Control How Your GPU Shares Work with Green Contexts",
+      "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
+      "Why Telecom Operators Are Building Their AI Strategy on Open Models",
+      "Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance"
+    ],
+    "smtp_accepted_at_utc": "2026-10-06T17:25:27.296004Z"
   }
 ]
