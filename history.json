@@ -1,24 +1,5 @@
 [
   {
-    "digest_date_local": "2026-09-07",
-    "canonical_urls": [
-      "https://openai.com/index/supporting-independent-journalism-in-ukraine",
-      "https://the-decoder.com/openai-reports-ai-research-interns-and-warns-about-its-own-pace-at-the-same-time",
-      "https://the-decoder.com/how-ai-wiped-out-an-entire-industry-in-nairobi"
-    ],
-    "article_hashes": [
-      "073b13b14ae0138b1424f5cc2e744960df78c0d7dd4268101cf3c123a809ae5f",
-      "393069c5154aa7e8d6d5b5e348461a83397b60853955b1786ee85abb01b55b15",
-      "3d020aa5c7d1c0169b5f90fa6799c154e897d80a08ed7c9032a0bf8cc11bc2ee"
-    ],
-    "titles": [
-      "Supporting independent journalism in Ukraine",
-      "OpenAI reports AI \"research interns\" and warns about its own pace at the same time",
-      "How AI wiped out an entire industry in Nairobi"
-    ],
-    "smtp_accepted_at_utc": "2026-09-07T16:40:06.271191Z"
-  },
-  {
     "digest_date_local": "2026-09-08",
     "canonical_urls": [
       "https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels",
@@ -736,5 +717,30 @@
       "Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance"
     ],
     "smtp_accepted_at_utc": "2026-10-06T17:25:27.296004Z"
+  },
+  {
+    "digest_date_local": "2026-10-07",
+    "canonical_urls": [
+      "https://developer.nvidia.com/blog/validate-ai-factory-changes-with-digital-twins-and-ai-agents",
+      "https://developer.nvidia.com/blog/scaling-decision-optimization-to-100-million-variables-and-beyond-with-mpdlp-in-nvidia-cuopt",
+      "https://openai.com/index/teens-learn-and-plan",
+      "https://huggingface.co/blog/LiquidAI/open-d1",
+      "https://openai.com/index/radisson"
+    ],
+    "article_hashes": [
+      "2b3b48d8e55439fa1f3d1fed28a4027843b4498c213284311cf1d3766cb55333",
+      "3b31c130485ad58e87a40583ddc58203944677c3fe9e1c814d1180d0f426dd65",
+      "661f64ddb5f472a2675ed75a0fb09828b0ce7323472abe119ea9528dee004ac6",
+      "88e871d5a8d26738db20168d7fe4b9e05a7b8640818c7b2a626052e0332f27b0",
+      "4e324623ab7ca6fee0e142410ae1fff634372bb9b83078fd1d25f73483da7134"
+    ],
+    "titles": [
+      "Validate AI Factory Changes with Digital Twins and AI Agents",
+      "Scaling Decision Optimization to 100 Million Variables and Beyond with mPDLP in NVIDIA cuOpt",
+      "Helping teens learn, plan, and shape the future of AI",
+      "Multimodal open d1 decision models for the edge",
+      "Radisson Hotel Group brings hotel discovery into ChatGPT"
+    ],
+    "smtp_accepted_at_utc": "2026-10-07T17:58:18.059833Z"
   }
 ]
