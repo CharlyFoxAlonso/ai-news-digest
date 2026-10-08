@@ -1,30 +1,5 @@
 [
   {
-    "digest_date_local": "2026-09-08",
-    "canonical_urls": [
-      "https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels",
-      "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom",
-      "https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms",
-      "https://openai.com/index/the-work-now-within-reach",
-      "https://the-decoder.com/chatgpt-claws-back-web-traffic-share-to-55-5-percent-as-geminis-brief-comeback-fades"
-    ],
-    "article_hashes": [
-      "a97d132c2500d2b3d41707147688d058ecf245fe1eaf40ca31ad52c3174c5523",
-      "5cbcf08e288841ac31de1b5b3153da3ea3539df7d3ee35168c9c6d5f6a1c686c",
-      "4a36ea7ba6bb268a569ba1bda62fe3a651ce22624e6c80e44fc2f66bda887c59",
-      "a00fc889a2dd293b42049381f3a99cbbead2f5c6d3c52e4e209b3057ea2e2a3b",
-      "f331065f8503faf8a0d7424115182f41dab6800cbaa4c735d99ae1c55537002e"
-    ],
-    "titles": [
-      "Introducing CUDA Rust: Two Tracks for Writing GPU Kernels",
-      "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
-      "OpenAI expands initiatives to support journalism from classrooms to newsrooms",
-      "The Work Now Within Reach",
-      "ChatGPT claws back web traffic share to 55.5 percent as Gemini's brief comeback fades"
-    ],
-    "smtp_accepted_at_utc": "2026-09-08T15:21:23.717963Z"
-  },
-  {
     "digest_date_local": "2026-09-09",
     "canonical_urls": [
       "https://openai.com/index/codex-quantum-computing-experiments",
@@ -742,5 +717,30 @@
       "Radisson Hotel Group brings hotel discovery into ChatGPT"
     ],
     "smtp_accepted_at_utc": "2026-10-07T17:58:18.059833Z"
+  },
+  {
+    "digest_date_local": "2026-10-08",
+    "canonical_urls": [
+      "https://openai.com/index/oracle",
+      "https://openai.com/index/pollo-ai",
+      "https://machinelearning.apple.com/research/normalizing-trajectory-models",
+      "https://blogs.nvidia.com/blog/geforce-now-thursday-gears-of-war-e-day",
+      "https://blogs.nvidia.com/blog/local-ai-rtx-spark-microsoft-windows-event"
+    ],
+    "article_hashes": [
+      "db7b9e6fe248e3146f87743abb423de6e3dc46759771b422f1331a63b0725822",
+      "855092fba1df7e8a668bec1b409ac85f8b110a1f64384b826a3381f6d67156e4",
+      "a9f660862b14122b754b81c8b73ed12b4ae45c1ac84de6206c010c00eb55daad",
+      "3a27acd6fba5e7448ae857eba81e78b6857a634f6f3d21cd278f77e5364121b3",
+      "1815740c61d22b3c8c663f13e44921fb23a4e9d078b455bd88726cdcee104996"
+    ],
+    "titles": [
+      "How Oracle turns days of work into minutes with ChatGPT and Codex",
+      "Pollo AI turns creative ideas into campaigns with OpenAI",
+      "Normalizing Trajectory Models",
+      "Rally Up: ‘Gears of War: E-Day’ Launches on GeForce NOW",
+      "NVIDIA, Microsoft Kick Off a New Beginning for Windows PCs With RTX Spark and AI Agents"
+    ],
+    "smtp_accepted_at_utc": "2026-10-08T18:00:17.449227Z"
   }
 ]
