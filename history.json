@@ -1,30 +1,5 @@
 [
   {
-    "digest_date_local": "2026-09-09",
-    "canonical_urls": [
-      "https://openai.com/index/codex-quantum-computing-experiments",
-      "https://the-decoder.com/chatgpt-images-2-5-faster-more-precise-but-not-the-same-for-everyone",
-      "https://the-decoder.com/anthropic-scientist-puts-the-odds-of-ai-destroying-humanity-above-ten-percent-this-decade",
-      "https://the-decoder.com/suno-launches-v6-music-models-built-with-warner-bmg-and-believe",
-      "https://the-decoder.com/aws-is-using-qualcomm-for-ai-inference-while-qualcomm-uses-aws-bedrock-to-design-the-chips"
-    ],
-    "article_hashes": [
-      "503e9c2326e78f3e54698b505fc7f3dd73547fa559154576a0082b0cd2cdb79c",
-      "75113b5399b428a944f2bbcf33f5211be076bd079fff09fbd1c8ca6df0c2482f",
-      "bb960d0120454dfcf45c17863fd813e21013dc011daf44448dca4a600da99c7e",
-      "daa42de7875ac25fd6e8e6d3fb839da4ad6d3f43eff52a924f73028ced81914b",
-      "ae942eed2aac12561cee9e3b9309479aa73b13c22f5e2b0cbb58453889352c2c"
-    ],
-    "titles": [
-      "How GPT-5.6 Sol helps run quantum computing experiments",
-      "ChatGPT Images 2.5: Faster, more precise, but not the same for everyone",
-      "Anthropic scientist puts the odds of AI destroying humanity above ten percent this decade",
-      "Suno launches v6 music models built with Warner, BMG, and Believe",
-      "AWS is using Qualcomm for AI inference while Qualcomm uses AWS Bedrock to design the chips"
-    ],
-    "smtp_accepted_at_utc": "2026-09-09T15:18:35.220614Z"
-  },
-  {
     "digest_date_local": "2026-09-10",
     "canonical_urls": [
       "https://blogs.nvidia.com/blog/d-matrix-nvlink-fusion",
@@ -742,5 +717,30 @@
       "NVIDIA, Microsoft Kick Off a New Beginning for Windows PCs With RTX Spark and AI Agents"
     ],
     "smtp_accepted_at_utc": "2026-10-08T18:00:17.449227Z"
+  },
+  {
+    "digest_date_local": "2026-10-09",
+    "canonical_urls": [
+      "https://huggingface.co/blog/allenai/impactful-scheduling",
+      "https://openai.com/index/sophos",
+      "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents",
+      "https://developer.nvidia.com/blog/building-reliable-data-analytics-agents-lessons-from-the-kdd-cup",
+      "https://developer.nvidia.com/blog/5-steps-to-create-simready-assets-for-robotics-with-frontier-ai-models"
+    ],
+    "article_hashes": [
+      "e05551817b225bef5e8ca8d6225aa3fed9bb03ffd013a0306b4527b10407beb2",
+      "570fe3204556675e8dd927e7dbd15e7142796fd7ecb68cb1f56d47b91d75ac01",
+      "79428cf43613e4131c16b2f45c833d7e87f5fb9b7bf3c33fddcb7e212b8af303",
+      "983129a3016b1868b983c467566aef11a144117866aab510e6235834ebc64eaa",
+      "d5fea414d61e112a2560121b329b569abfc80bc71027b95f2d551b1e457e4c79"
+    ],
+    "titles": [
+      "Impactful scheduling for GPU clusters",
+      "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+      "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents",
+      "Building Reliable Data Analytics Agents: Lessons from the KDD Cup",
+      "5 Steps to Create SimReady Assets for Robotics with Frontier AI Models"
+    ],
+    "smtp_accepted_at_utc": "2026-10-09T17:33:29.278352Z"
   }
 ]
