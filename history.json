@@ -1,30 +1,5 @@
 [
   {
-    "digest_date_local": "2026-09-10",
-    "canonical_urls": [
-      "https://blogs.nvidia.com/blog/d-matrix-nvlink-fusion",
-      "https://developer.nvidia.com/blog/from-wafer-out-to-first-token-codifying-supply-chain-expertise-with-nemotron-and-palantir-foundry",
-      "https://developer.nvidia.com/blog/high-throughput-structure-prediction-with-bionemo-inference-runtime",
-      "https://developer.nvidia.com/blog/when-to-use-encode-prefill-decode-disaggregation-to-accelerate-multimodal-model-serving",
-      "https://developer.nvidia.com/blog/cuda-toolkit-13-4-adds-windows-on-arm-support-and-greater-control-over-shared-gpus"
-    ],
-    "article_hashes": [
-      "5d4dbf40361366649d32a8455e7ae5beff6535f4bddad79cbbeb4d3d4a3ccbaf",
-      "c4e67a9eee5aa87158a031a1a9f01accd4b9dda858591f46fd7ada161d8ac6f8",
-      "c64184c5f5adf495d82424c0a6356e195802e0e48b1c1e26ecb37a0f55ea9e92",
-      "778743892f0688c6227e267d91c69bedb5b00376c60f7e18ddd0feb060237b2b",
-      "8045128f07d20e63d484aac43bde9adc21ce721e0f9881d2e182ef55f6ccf7b3"
-    ],
-    "titles": [
-      "d-Matrix Adopts NVIDIA NVLink Fusion for Rack-Scale XPU Deployment",
-      "From Wafer-Out to First Token: Codifying Supply Chain Expertise with Nemotron and Palantir Foundry",
-      "High-Throughput Structure Prediction with BioNeMo Inference Runtime",
-      "When to Use Encode-Prefill-Decode Disaggregation to Accelerate Multimodal Model Serving",
-      "CUDA Toolkit 13.4 Adds Windows on Arm Support and Greater Control over Shared GPUs"
-    ],
-    "smtp_accepted_at_utc": "2026-09-10T15:11:58.023941Z"
-  },
-  {
     "digest_date_local": "2026-09-11",
     "canonical_urls": [
       "https://machinelearning.apple.com/research/video-caption-quality",
@@ -742,5 +717,30 @@
       "5 Steps to Create SimReady Assets for Robotics with Frontier AI Models"
     ],
     "smtp_accepted_at_utc": "2026-10-09T17:33:29.278352Z"
+  },
+  {
+    "digest_date_local": "2026-10-10",
+    "canonical_urls": [
+      "https://the-decoder.com/googles-gemini-4-carbon-model-is-reportedly-matching-anthropics-opus-5-5-coding-performance",
+      "https://the-decoder.com/openai-says-a-misaligned-model-deliberately-destroyed-its-own-environment-hoping-for-a-fresh-start-with-better-data",
+      "https://the-decoder.com/how-much-beauty-have-we-lost-mathematicians-react-with-shock-and-disgust-as-openai-bulldozes-their-field",
+      "https://the-decoder.com/anthropics-claude-can-now-orchestrate-up-to-1000-ai-agents-in-parallel-through-dynamic-workflows",
+      "https://the-decoder.com/anthropic-cuts-off-claudes-internet-access-after-the-model-autonomously-filed-a-fake-homicide-tip-with-philadelphia-police"
+    ],
+    "article_hashes": [
+      "542bfd6875d581ac90dc7b147c4fd0f437d49fca795d8ee7cccdaa8ba08822c8",
+      "2feddd78eefa18924307b1cc8ff2d3b4b0a27464a0f420170095db16babff6e3",
+      "08895c7db6a38be762b398510c0f97e75538ba6b95fe4472d5f85354ad485130",
+      "c2ec1f26f2a87a1b8dc79e14d36968673f46c3559d0238433a04ea6ee5278c5d",
+      "a1b5b1c5b7c1c4c49319da029e2c729a4046ce9b7d970056c17ddbc079b93a35"
+    ],
+    "titles": [
+      "Google's Gemini 4 \"Carbon\" model reportedly feels like Anthropic's Opus 5.5 coding performance",
+      "OpenAI says a misaligned model deliberately destroyed its own environment hoping for a fresh start with better data",
+      "\"How much beauty have we lost?\" Mathematicians react with shock and disgust as OpenAI bulldozes their field",
+      "Anthropic's Claude can now orchestrate up to 1,000 AI agents in parallel through dynamic workflows",
+      "Anthropic cuts off Claude's internet access after the model autonomously filed a fake homicide tip with Philadelphia police"
+    ],
+    "smtp_accepted_at_utc": "2026-10-10T16:23:30.704701Z"
   }
 ]
