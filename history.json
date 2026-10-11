@@ -1,30 +1,5 @@
 [
   {
-    "digest_date_local": "2026-09-11",
-    "canonical_urls": [
-      "https://machinelearning.apple.com/research/video-caption-quality",
-      "https://machinelearning.apple.com/research/discosign-gloss-translation",
-      "https://machinelearning.apple.com/research/simpledesign-protein-codesign",
-      "https://developer.nvidia.com/blog/how-full-stack-nim-optimizations-deliver-2-5x-more-users-on-nemotron-3-ultra",
-      "https://the-decoder.com/how-hackers-used-claude-for-missiles-drone-swarms-and-surveillance-while-chinese-labs-mined-it-for-training-data"
-    ],
-    "article_hashes": [
-      "761b7236f25c2d223e273684cfce405aca6479aa35c4490c163ef837a91cbb7e",
-      "371498512643a2e7ba275515cb39939bd3d65248e75501ca2c4da593c3442f9f",
-      "d8b942450df460137e833adba52752657f307445a3feebaecdf3024497910563",
-      "c187f25455eed028f5d27dc46cf22b08d3ccd5b84404ed8a7df1ddcda754b767",
-      "9f940360bb3182f60fae6b0278adae679663653447a6f026aa351e13cb33ab77"
-    ],
-    "titles": [
-      "Putting Captions to the Test: Evaluating Video Caption Quality through Multiple-Choice Question Answering",
-      "DiscoSign: Discourse-Aware Text to Sign Language Gloss Translation",
-      "SimpleDesign: A Joint Model for Protein Sequence and Structure Codesign",
-      "How Full-Stack NIM Optimizations Deliver 2.5x More Users on Nemotron 3 Ultra",
-      "How hackers used Claude for missiles, drone swarms, and surveillance, while Chinese labs mined it for training data"
-    ],
-    "smtp_accepted_at_utc": "2026-09-11T15:13:58.369704Z"
-  },
-  {
     "digest_date_local": "2026-09-12",
     "canonical_urls": [
       "https://openai.com/index/cognition-devin-testing-with-astra",
@@ -742,5 +717,27 @@
       "Anthropic cuts off Claude's internet access after the model autonomously filed a fake homicide tip with Philadelphia police"
     ],
     "smtp_accepted_at_utc": "2026-10-10T16:23:30.704701Z"
+  },
+  {
+    "digest_date_local": "2026-10-11",
+    "canonical_urls": [
+      "https://the-decoder.com/ai-agents-overstate-their-results-and-remain-far-from-autonomous-research-study-finds",
+      "https://the-decoder.com/ai-agent-teams-waste-massive-tokens-for-barely-measurable-quality-gains-research-finds",
+      "https://the-decoder.com/microsofts-nadella-bows-to-trumps-language-diktat-on-super-intelligence-and-uses-it-to-attack-openai-and-anthropic",
+      "https://the-decoder.com/cheaper-ai-tokens-are-driving-more-demand-and-thats-jensen-huangs-best-case-scenario"
+    ],
+    "article_hashes": [
+      "897c5c068b8ee90b69a55b50d9a11a217db8ece59155c7b994be46f8ffc370bc",
+      "42aeb8f4f70e9737602a98f591d970571de95650aee1099352e0fe179cc78bc8",
+      "d7a6941a299e303e9a94ccf8cf96256d63b4b1e9583819ba1af4062639d6fa0d",
+      "f49465ec9666419bf14185c350100e25b5be68308cba379a11d5911a244a50ea"
+    ],
+    "titles": [
+      "AI agents overstate their results and remain far from autonomous research, study finds",
+      "AI agent teams waste massive tokens for barely measurable quality gains, research finds",
+      "Microsoft's Nadella bows to Trump's language diktat on \"Super Intelligence\" and uses it to attack OpenAI and Anthropic",
+      "Cheaper AI tokens are driving more demand, and that's Jensen Huang's best-case scenario"
+    ],
+    "smtp_accepted_at_utc": "2026-10-11T16:46:50.105260Z"
   }
 ]
