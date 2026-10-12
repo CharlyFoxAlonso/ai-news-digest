@@ -1,30 +1,5 @@
 [
   {
-    "digest_date_local": "2026-09-12",
-    "canonical_urls": [
-      "https://openai.com/index/cognition-devin-testing-with-astra",
-      "https://the-decoder.com/nvidia-wants-to-pour-up-to-10-billion-into-anthropics-record-breaking-ipo",
-      "https://the-decoder.com/gpt-6-astra-needs-leaner-prompts-and-fewer-guardrails-openai-recommends",
-      "https://the-decoder.com/openai-agents-launched-a-2000-package-cyberattack-on-rubygems-just-to-collect-data-anyone-could-google",
-      "https://the-decoder.com/ai-models-written-reasoning-steps-correspond-to-distinct-internal-patterns-a-new-study-finds"
-    ],
-    "article_hashes": [
-      "4aeb82da9975e2f5f564fba46674441b8ef455135ac302c60f8f7eb501572ba0",
-      "0d474257260e1c7808644ad9fd879e45db441f48572bda0119abe04177dba7f2",
-      "110f4a165a5aa5cdec2b3ecab6f9974386585c742026b4a6c920404ab1fdb5fd",
-      "15109d326662e94037d5e4d94ea1428837022a1bdce0646f724b9167f893eecc",
-      "08c0e6e53971bc6b3435936467090bd17f3fc596d0154910bc017ebfda591ac4"
-    ],
-    "titles": [
-      "Cognition helps Devin test its own work with GPT‑6 Astra",
-      "Nvidia wants to pour up to $10 billion into Anthropic's record-breaking IPO",
-      "GPT-6 Astra needs leaner prompts and fewer guardrails, OpenAI recommends",
-      "OpenAI agents launched a 2,000-package cyberattack on RubyGems just to collect data anyone could Google",
-      "AI models' written reasoning steps correspond to distinct internal patterns, a new study finds"
-    ],
-    "smtp_accepted_at_utc": "2026-09-12T14:24:17.254125Z"
-  },
-  {
     "digest_date_local": "2026-09-13",
     "canonical_urls": [
       "https://the-decoder.com/gpt-6-astra-pilots-a-surveillance-drone-and-runs-a-business-on-its-own",
@@ -739,5 +714,30 @@
       "Cheaper AI tokens are driving more demand, and that's Jensen Huang's best-case scenario"
     ],
     "smtp_accepted_at_utc": "2026-10-11T16:46:50.105260Z"
+  },
+  {
+    "digest_date_local": "2026-10-12",
+    "canonical_urls": [
+      "https://developer.nvidia.com/blog/replayssm-rethinking-state-storage-for-faster-hybrid-model-decoding",
+      "https://blogs.nvidia.com/blog/ocp-global-summit-vera-rubin-scale-ai-factories",
+      "https://ir.amd.com/news-events/press-releases/detail/1301/introducing-amd-helion-agentic-ai-compute-at-rack-scale",
+      "https://the-decoder.com/white-house-reverses-course-and-restores-uk-ai-safety-institutes-access-to-frontier-models",
+      "https://the-decoder.com/anthropics-andrej-karpathy-says-the-external-world-has-seen-the-preview-of-what-ai-can-actually-do"
+    ],
+    "article_hashes": [
+      "c88f4119c47166d435fd6fb867d126c39f20c5b1d702f0346ef7eab9cad002be",
+      "9e0276cba47ca07d702d825d137e14ee4a8d66dfeb3690ac5b8de045f1ad4ca7",
+      "013238a25b04ff0a4da61ed5744d87431c578f21781609dbb80a326fa7441f55",
+      "dc5ad5b4c589bf614c9319ea8b3c10429bd3bded5ce7dce29b1548fa9bf2baad",
+      "d5d26011caeaf03d6767d910c66a4a765b3ef7a970c390f49c433965b6172af6"
+    ],
+    "titles": [
+      "ReplaySSM: Rethinking State Storage for Faster Hybrid-Model Decoding",
+      "OCP Global Summit: Amid Ecosystem Adoption, NVIDIA Opens Vera Rubin Architecture to Help Scale AI Factories Worldwide",
+      "Introducing AMD Helion, Agentic AI Compute at Rack Scale",
+      "White House reverses course and restores UK AI Safety Institute's access to frontier models",
+      "Anthropic's Andrej Karpathy says \"the external world has seen the preview\" of what AI can actually do"
+    ],
+    "smtp_accepted_at_utc": "2026-10-12T20:25:47.324550Z"
   }
 ]
