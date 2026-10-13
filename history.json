@@ -1,30 +1,5 @@
 [
   {
-    "digest_date_local": "2026-09-13",
-    "canonical_urls": [
-      "https://the-decoder.com/gpt-6-astra-pilots-a-surveillance-drone-and-runs-a-business-on-its-own",
-      "https://the-decoder.com/elevenlabs-makes-music-v2-5-available-via-app-and-api-with-free-and-pro-tier-options",
-      "https://the-decoder.com/iris-mini-and-iris-pro-are-the-strongest-open-weight-search-agents-in-their-class",
-      "https://the-decoder.com/two-year-university-study-finds-banning-ai-from-classrooms-leaves-students-worse-off",
-      "https://the-decoder.com/altman-musk-and-hassabis-back-amodeis-call-to-add-independent-oversight"
-    ],
-    "article_hashes": [
-      "015dfb1b2eb101c4a0701cba983768cec2763bbce91abbdfe5e5debb5cc51fa0",
-      "5d3700175954532bdd7accde79074ba006d19cd68b123782908b520c501e24b8",
-      "49db84655d9b7e36fe081cf66daad531cefb4b8b3a1526d15763d27178e9348d",
-      "7200c240d7090efe9e26dbe80499972bea2408fdd6fe397cf3d4573802ef23d0",
-      "13cd81626519e07447c101005019f09866439413458284448b5ecdc5000726e2"
-    ],
-    "titles": [
-      "GPT-6 Astra pilots a surveillance drone and runs a business on its own",
-      "Elevenlabs makes Music v2.5 available via app and API with free and pro tier options",
-      "Iris-mini and Iris-pro are the strongest open-weight search agents in their class",
-      "Two-year university study finds banning AI from classrooms leaves students worse off",
-      "Altman, Musk, and Hassabis back Amodei's call to add independent oversight"
-    ],
-    "smtp_accepted_at_utc": "2026-09-13T15:04:29.473111Z"
-  },
-  {
     "digest_date_local": "2026-09-14",
     "canonical_urls": [
       "https://developer.nvidia.com/blog/accelerating-dropless-moe-training-in-jax-with-nvidia-transformer-engine",
@@ -739,5 +714,30 @@
       "Anthropic's Andrej Karpathy says \"the external world has seen the preview\" of what AI can actually do"
     ],
     "smtp_accepted_at_utc": "2026-10-12T20:25:47.324550Z"
+  },
+  {
+    "digest_date_local": "2026-10-13",
+    "canonical_urls": [
+      "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon",
+      "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b",
+      "https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-software-updates",
+      "https://machinelearning.apple.com/research/mix-dont-tune",
+      "https://developer.nvidia.com/blog/nvidia-runai-is-now-open-source-as-part-of-nvidia-dsx-ai-factory-platform"
+    ],
+    "article_hashes": [
+      "ed1be8ea5f53c7373a9c44e9eac0273d1adbb7107c6453b9da7b6d9e6a52dfb0",
+      "53911f98c21c784fce1ad32ff03581a81f8dabebaf6d23b86827f6c51a0cda80",
+      "a4bbae21d3b4c9572ce6de8017e44ce70d5cd63d7946aa77bbb22ba2b44949c7",
+      "3a474d73c07650bcabb4521a937b5c9483554198dd26c3ede05e140dec801109",
+      "709864dc2d811aa2ce748dfff3d83694850fecea870b84df1aade89afde6a96c"
+    ],
+    "titles": [
+      "Gemini 4 Argon: Built to solve your hardest problems",
+      "Run fast, private agents on-device with LFM2.5-24B-A2B",
+      "All Systems Go: Global PC App Ecosystem Ready for NVIDIA RTX Spark",
+      "Mix, Don't Tune: Bilingual Pre-Training Outperforms Hyperparameter Search in Data-Constrained Settings",
+      "NVIDIA Run:ai Is Now Open Source as Part of NVIDIA DSX AI Factory Platform"
+    ],
+    "smtp_accepted_at_utc": "2026-10-13T18:31:08.567340Z"
   }
 ]
