@@ -1,30 +1,5 @@
 [
   {
-    "digest_date_local": "2026-09-14",
-    "canonical_urls": [
-      "https://developer.nvidia.com/blog/accelerating-dropless-moe-training-in-jax-with-nvidia-transformer-engine",
-      "https://blogs.nvidia.com/blog/local-ai-perplexity-windows-pcs",
-      "https://openai.com/index/perplexity-improving-accuracy-with-astra",
-      "https://blog.google/innovation-and-ai/technology/developers-tools/devfest2026",
-      "https://openai.com/index/fyxer"
-    ],
-    "article_hashes": [
-      "75ebfc4f40c5e28ba3dfdf08c6c5bd1b6a2f89ebc64c2f334ce4631d8aad3af3",
-      "e52b0024cc5c06e8b375973d3ccf4f7373d2b3f23d79409521a300ede19c6f34",
-      "968c32634dc2a1cb83f007064d0bd309276c504696b107928b2bc3d51ba9601b",
-      "fd1baec08311b505543d5a8c71d0a693c44e2ce54fd7ece1e317669825fe6f4e",
-      "7f82d995c515e5ba429e7e06d184bac39c4f16f7fff73a80b082fdc2812fc58f"
-    ],
-    "titles": [
-      "Accelerating Dropless MoE Training in JAX with NVIDIA Transformer Engine",
-      "Perplexity Portable Computer Is Now Available on Windows, Powered by NVIDIA RTX",
-      "Perplexity trusts GPT-6 Astra with end-to-end systems",
-      "DevFest is back",
-      "How Fyxer built an AI executive assistant people trust"
-    ],
-    "smtp_accepted_at_utc": "2026-09-14T17:03:48.264247Z"
-  },
-  {
     "digest_date_local": "2026-09-15",
     "canonical_urls": [
       "https://developer.nvidia.com/blog/scaling-federated-learning-across-docker-kubernetes-and-slurm-with-nvidia-flare",
@@ -739,5 +714,30 @@
       "NVIDIA Run:ai Is Now Open Source as Part of NVIDIA DSX AI Factory Platform"
     ],
     "smtp_accepted_at_utc": "2026-10-13T18:31:08.567340Z"
+  },
+  {
+    "digest_date_local": "2026-10-14",
+    "canonical_urls": [
+      "https://machinelearning.apple.com/research/tri-modal-masked-diffusion",
+      "https://developer.nvidia.com/blog/rewrite-apache-spark-udfs-gpu-acceleration-ai-agents",
+      "https://blogs.nvidia.com/blog/european-cities-agents-urban-operations",
+      "https://openai.com/index/third-moment-research",
+      "https://blogs.nvidia.com/blog/uk-ecosystem-deployment"
+    ],
+    "article_hashes": [
+      "aa65eb3ab36b5eef10afd8013f57ac938e7f406160eadcec57c2cf92b2630f43",
+      "9105929b3b08daedb2b46546bfe42b74d34b7d99a8ce6e338202f293e8cd1d7a",
+      "51408f953358d0aa86346bc79bde4ef810aec87aa95b1fa11d4d2c6afa273cf3",
+      "a8b8c31de898145e14c82e5a132c6ade438a779372caca6da84483874bea0325",
+      "07ac7e56c4dbe5bbeea48de616f7e65bc6cfe4ed920c4019d26a4fe1ccf5085e"
+    ],
+    "titles": [
+      "The Design Space of Tri-Modal Masked Diffusion Models",
+      "How to Rewrite Apache Spark UDFs for GPU Acceleration with AI Agents",
+      "European Cities Deploy NVIDIA-Powered AI Agents to Run Smarter Urban Operations",
+      "How Third Moment Research runs 10,000 agents for 36+ hours",
+      "From Enterprise to Earthshot: UK’s Ecosystem Moves From Ambition to Application With NVIDIA"
+    ],
+    "smtp_accepted_at_utc": "2026-10-14T15:58:11.351854Z"
   }
 ]
