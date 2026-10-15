@@ -1,30 +1,5 @@
 [
   {
-    "digest_date_local": "2026-09-15",
-    "canonical_urls": [
-      "https://developer.nvidia.com/blog/scaling-federated-learning-across-docker-kubernetes-and-slurm-with-nvidia-flare",
-      "https://blog.google/innovation-and-ai/technology/ai/ai-economy-atlas-september-2026",
-      "https://blogs.nvidia.com/blog/childrens-hospital-open-source-ai-cardiac-care",
-      "https://blog.google/innovation-and-ai/technology/ai/dialogues-christina-koch",
-      "https://the-decoder.com/not-everyone-is-convinced-that-big-ais-proposed-development-slowdown-is-really-about-safety"
-    ],
-    "article_hashes": [
-      "0fdcb63db2859a930b46e15385027f23441fb12c5523ae338694f7771304969b",
-      "64730bcdfc3a35229b481acfce94fb07b15462de1b2e63893c551ff0e8190f0a",
-      "3092a9123492d90c4db11355233ea12cc1062c71a138dea39e6d0f7f8ead6c02",
-      "ff082bc32dcf39bfd27812edc1e6795d89a33c6620e4fac168c5a51bfe3c1f63",
-      "63129490eff2632284ba012bbafefabd5dbee8e3b5e0acc1c0ef7756070ffec5"
-    ],
-    "titles": [
-      "Scaling Federated Learning Across Docker, Kubernetes, and Slurm with NVIDIA FLARE",
-      "New insights from Google’s AI & Economy ATLAS",
-      "Heart of the Matter: How a Major Children’s Hospital Uses Open Source NVIDIA AI for Cardiac Care",
-      "Watch astronaut Christina Koch and Google’s James Manyika discuss space, technology, and discovery.",
-      "Not everyone is convinced that Big AI's proposed development slowdown is really about safety"
-    ],
-    "smtp_accepted_at_utc": "2026-09-15T15:42:46.993207Z"
-  },
-  {
     "digest_date_local": "2026-09-16",
     "canonical_urls": [
       "https://blogs.nvidia.com/blog/vera-rubin-nvl72-mlperf-inference",
@@ -739,5 +714,30 @@
       "From Enterprise to Earthshot: UK’s Ecosystem Moves From Ambition to Application With NVIDIA"
     ],
     "smtp_accepted_at_utc": "2026-10-14T15:58:11.351854Z"
+  },
+  {
+    "digest_date_local": "2026-10-15",
+    "canonical_urls": [
+      "https://developer.nvidia.com/blog/nvidia-nemotron-3-5-super-vl-powers-specialized-agents-with-multimodal-reasoning",
+      "https://blogs.nvidia.com/blog/geforce-now-thursday-enshrouded-update",
+      "https://blogs.nvidia.com/blog/nemotron-3-5-super-vl",
+      "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
+      "https://developer.nvidia.com/blog/optimizing-agent-reliability-and-tool-calling-efficiency-for-chip-design-using-nvidia-nemo-gym"
+    ],
+    "article_hashes": [
+      "c04bb70f1b05d38a0ca564972dc37d07f1a6b9fa87c35a77ad7a5b763b98c435",
+      "a3afbad9ec0e6d6ec6fc7de853aafcafd11295a87f201debb85067c64b21a6f7",
+      "369f65bd0511e1b4da8810c83fb63da643cf0e2b76b52d1d8fce0d2cf8aa6d4a",
+      "a60f4a701f887ae8f46b94e06646a5fb82b2851c561d6cf99f41823c6f66011d",
+      "d98fc085b7493311c6d0c380cb660452318323f8e80fae1f7fc41bd5d9c937a3"
+    ],
+    "titles": [
+      "NVIDIA Nemotron 3.5 Super VL Powers Specialized Agents with Multimodal Reasoning",
+      "Dial Up the Cloud: NVIDIA DLSS 4.5 Controls Arrive on GeForce NOW",
+      "Open From Data Center to Desktop: NVIDIA Expands Nemotron Family With Highest Efficiency Super VL and Bolt Models",
+      "Teaching students to think and learn through questions",
+      "Optimizing Agent Reliability and Tool Calling Efficiency for Chip Design Using NVIDIA NeMo Gym"
+    ],
+    "smtp_accepted_at_utc": "2026-10-15T15:45:09.418972Z"
   }
 ]
