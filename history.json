@@ -1,30 +1,5 @@
 [
   {
-    "digest_date_local": "2026-09-16",
-    "canonical_urls": [
-      "https://blogs.nvidia.com/blog/vera-rubin-nvl72-mlperf-inference",
-      "https://machinelearning.apple.com/research/shared-selective-persistent-memory",
-      "https://developer.nvidia.com/blog/how-nvidia-nvlink-6-delivers-multi-layer-resiliency-for-ai-factories",
-      "https://blogs.nvidia.com/blog/uk-air-pollution-research-earth-2",
-      "https://openai.com/index/reimagining-advertising-with-ai"
-    ],
-    "article_hashes": [
-      "c60864f37894392f651bb2d9fe1eba34e22c1be3daa431d4b2da6b144c5beebf",
-      "1562b9a478adb2d95ad963875cef2be8c619ba26f57fed3a6b8119ced0730518",
-      "d6edaad23002fd8bb747389e14d986b309fe5901e90787cf6f301e0dd817fd2e",
-      "76b87e6c9b5821f48a0fd68bc6c3f06a33cbe9e13c892f77123bb41eae4a7556",
-      "6ac27c68838b29eeea8939f0e49b9f8d5c9f70da6aec6f577cdae354b1b5aa63"
-    ],
-    "titles": [
-      "NVIDIA Vera Rubin NVL72 Delivers Leading Performance in MLPerf Inference v6.1 Debut",
-      "Shared Selective Persistent Memory for Agentic LLM Systems",
-      "How NVIDIA NVLink 6 Delivers Multi-Layer Resiliency for AI Factories",
-      "University of Manchester Uses NVIDIA Earth-2 to Forecast Air Pollution Across the UK",
-      "Reimagining advertising with AI"
-    ],
-    "smtp_accepted_at_utc": "2026-09-16T15:33:45.270523Z"
-  },
-  {
     "digest_date_local": "2026-09-17",
     "canonical_urls": [
       "https://developer.nvidia.com/blog/tensorrt-edge-llm-completes-the-mlperf-edge-agentic-benchmark-6-4x-faster-on-jetson-agx-thor",
@@ -739,5 +714,30 @@
       "Optimizing Agent Reliability and Tool Calling Efficiency for Chip Design Using NVIDIA NeMo Gym"
     ],
     "smtp_accepted_at_utc": "2026-10-15T15:45:09.418972Z"
+  },
+  {
+    "digest_date_local": "2026-10-16",
+    "canonical_urls": [
+      "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
+      "https://developer.nvidia.com/blog/scale-agentic-coding-workflows-with-metas-muse-spark-open-on-nvidia-gb300-nvl72",
+      "https://huggingface.co/blog/ibm-granite/granite-switch-4-1",
+      "https://blogs.nvidia.com/blog/local-ai-rtx-spark-launch-event-invite",
+      "https://openai.com/index/introducing-the-rosalind-academic-plan"
+    ],
+    "article_hashes": [
+      "138e9b7e7d9747243aa585f555fbf6f3d58b687e3498b374de6b74802266db21",
+      "93a3c6a05f584f10feb6e119b2166c2f1e808d3c8180996d8ca237599031ea1a",
+      "d330643595776f9f542e9f48a636499dcc2c3968ee0ccb07e6ba5a41a8cbcae0",
+      "468b3077a208433fef72cd219c6e669c681b8848befa482983bb31454be80466",
+      "32165ee6af8945a5bd83e4231d3e052413905bc21e8455b93c147e03ace99490"
+    ],
+    "titles": [
+      "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
+      "Scale Agentic Coding Workflows with Meta’s Muse Spark Open on NVIDIA GB300 NVL72",
+      "Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
+      "Be There for the Beginning: Celebrate the Launch of NVIDIA RTX Spark",
+      "Bringing GPT-Rosalind to academic research labs"
+    ],
+    "smtp_accepted_at_utc": "2026-10-16T15:34:27.528707Z"
   }
 ]
