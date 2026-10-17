@@ -1,30 +1,5 @@
 [
   {
-    "digest_date_local": "2026-09-17",
-    "canonical_urls": [
-      "https://developer.nvidia.com/blog/tensorrt-edge-llm-completes-the-mlperf-edge-agentic-benchmark-6-4x-faster-on-jetson-agx-thor",
-      "https://developer.nvidia.com/blog/how-to-use-ai-agents-to-prepare-3d-scenes-for-simulation",
-      "https://developer.nvidia.com/blog/translating-cuda-tile-operations-from-python-to-rust-using-agentic-ai",
-      "https://machinelearning.apple.com/research/reversal-bench-rl-cliff",
-      "https://blogs.nvidia.com/blog/geforce-now-thursday-aniimo"
-    ],
-    "article_hashes": [
-      "995842a0246984c921f710e40935fb4b374041c948be9c019e4b21c5ce3a7e3c",
-      "e538d279a1ab4018b7b81bfcca80b83151e02578f13b68f639fa46aef4764ffc",
-      "51ee903b63bd893f4d549235c5b10e3271e17204fa7ccc2dbd15930036efddb8",
-      "50ae7c32754eac7764b85638aa46276ce04304eb7048ac83ae5a1a511c5ecf56",
-      "078b6005b3884924f8fbb68a8e9fcd1c3dd960c73038d4b5f26f21a60ebd3f7b"
-    ],
-    "titles": [
-      "TensorRT Edge-LLM Completes the MLPerf Edge Agentic Benchmark 6.4x Faster on Jetson AGX Thor",
-      "How to Use AI Agents to Prepare 3D Scenes for Simulation",
-      "Translating CUDA Tile Operations from Python to Rust Using Agentic AI",
-      "REVERSAL-BENCH: A Reversibility Axis and Reset Oracle for Measuring the Reset-Free RL Cliff",
-      "Cute Critters Come to the Cloud: ‘Aniimo’ Launches on GeForce NOW"
-    ],
-    "smtp_accepted_at_utc": "2026-09-17T15:39:49.084968Z"
-  },
-  {
     "digest_date_local": "2026-09-18",
     "canonical_urls": [
       "https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench",
@@ -739,5 +714,30 @@
       "Bringing GPT-Rosalind to academic research labs"
     ],
     "smtp_accepted_at_utc": "2026-10-16T15:34:27.528707Z"
+  },
+  {
+    "digest_date_local": "2026-10-17",
+    "canonical_urls": [
+      "https://developer.nvidia.com/blog/code-test-and-deploy-on-one-machine-with-nvidia-rtx-spark",
+      "https://openai.com/index/itau-generative-ai",
+      "https://the-decoder.com/deepseek-v4-1-flash-1017-beats-larger-rivals-in-agentic-tasks-while-once-again-massively-cutting-per-task-costs",
+      "https://the-decoder.com/ai-models-hide-mistakes-in-their-own-work-reports-but-one-sentence-in-your-prompt-can-help",
+      "https://the-decoder.com/mathematicians-say-openai-doesnt-understand-its-own-navier-stokes-proof"
+    ],
+    "article_hashes": [
+      "6bee349d6c55071f4f282a1ad5aea7409f45ab3352136735140d5f9599054380",
+      "9732b2763df5a67ab9455b8255aee23064fe436ed165bb52468ec0f54969accf",
+      "931ff0f85ef4bf70adae56f80b8119954b47f13ec85b2784f4f86b69796becfd",
+      "e13a46dd16dbc25c4ca674a734c735856f19f62df9c2e5790e60a7208157edb3",
+      "214e914e7375c187843396024cf526f34886d2f64d982d8fc8f75d161b990a40"
+    ],
+    "titles": [
+      "Code, Test, and Deploy on One Machine with NVIDIA RTX Spark",
+      "How Itaú is building generative AI for its entire customer base",
+      "Deepseek V4.1 Flash 1017 beats larger rivals in agentic tasks while once again massively cutting per-task costs",
+      "AI models hide mistakes in their own work reports, but one sentence in your prompt can help",
+      "Mathematicians say OpenAI doesn't understand its own Navier-Stokes proof"
+    ],
+    "smtp_accepted_at_utc": "2026-10-17T14:26:49.328556Z"
   }
 ]
