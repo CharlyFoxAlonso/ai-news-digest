@@ -1,30 +1,5 @@
 [
   {
-    "digest_date_local": "2026-09-18",
-    "canonical_urls": [
-      "https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench",
-      "https://machinelearning.apple.com/research/dynamically-scaled-activation-steering",
-      "https://blog.google/innovation-and-ai/technology/ai/google-flow-fashion-week",
-      "https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform",
-      "https://the-decoder.com/anthropic-wants-you-to-know-claude-leads-a-quarter-of-its-research-but-lead-doesnt-mean-what-you-think"
-    ],
-    "article_hashes": [
-      "2ad49dd9b65fe3aef9a784214d6883e36da0e0e55e33778bed2d2eed5e0619c0",
-      "ec00b4db1e4d25b12af2ba5d8d78b5fec87626f7e17b372e834e1683dae54dba",
-      "332bec2b752a921dc0773efff01ad676064470aa9e86f80b5eb30a32d60686fb",
-      "57bb3f72439b837e28ac1b35aca7b555ce4d9b9e8eaa5b3871ead9d0c35fee24",
-      "4abe4b097065972abf0fabc4308b0aafc1b6d90afc0e23251a7b86f08855aa5d"
-    ],
-    "titles": [
-      "New experts join Google’s AI & Economy team",
-      "Dynamically Scaled Activation Steering",
-      "Co-creating the future of fashion with Google",
-      "Making global data easier to explore",
-      "Anthropic wants you to know Claude leads a quarter of its research, but \"lead\" doesn't mean what you think"
-    ],
-    "smtp_accepted_at_utc": "2026-09-18T15:11:25.624917Z"
-  },
-  {
     "digest_date_local": "2026-09-19",
     "canonical_urls": [
       "https://developer.nvidia.com/blog/benchmarking-llm-inference-at-scale-with-aiperf",
@@ -739,5 +714,30 @@
       "Mathematicians say OpenAI doesn't understand its own Navier-Stokes proof"
     ],
     "smtp_accepted_at_utc": "2026-10-17T14:26:49.328556Z"
+  },
+  {
+    "digest_date_local": "2026-10-18",
+    "canonical_urls": [
+      "https://the-decoder.com/anthropic-consults-law-firms-to-set-fair-negotiation-norms-before-ai-agents-start-cutting-deals",
+      "https://blogs.nvidia.com/blog/local-ai-rtx-spark-windows-laptops-celebration",
+      "https://the-decoder.com/anthropic-has-nearly-stopped-hiring-junior-staff-because-ai-agents-now-work-six-times-as-many-hours",
+      "https://the-decoder.com/four-gemini-4-argon-agents-beat-minecraft-without-any-human-help",
+      "https://the-decoder.com/ai-agents-have-bad-taste-in-long-term-decisions-and-a-new-benchmark-proves-it"
+    ],
+    "article_hashes": [
+      "6e0a746c498ff8c2c3d7125b1ce694923b1d67955f70add2d4eb71e18c4326bc",
+      "b4411b0822cf9012a1090d971c9b07e7c34b9b89f5ce6327f6fb3096cf482acf",
+      "5365820f4dd21c16b624bdc666256458ed4b94c60e2615421366431762bd6e76",
+      "3174ec059a8695ea08ad86da5208c668c627a4ec30249eea3a4effae5800b678",
+      "8e1750f4fd35f6018c78e7f0e98995f02e539f13fd706db2ab432075e2117ae0"
+    ],
+    "titles": [
+      "Anthropic consults law firms to set fair negotiation norms before AI agents start cutting deals",
+      "RTX Spark Ignites Global Celebration as New Windows PCs Arrive",
+      "Anthropic has nearly stopped hiring junior staff because AI agents now work six times as many hours",
+      "Four Gemini 4 Argon agents beat Minecraft without any human help",
+      "AI agents have bad taste in long-term decisions and a new benchmark proves it"
+    ],
+    "smtp_accepted_at_utc": "2026-10-18T14:51:33.949972Z"
   }
 ]
