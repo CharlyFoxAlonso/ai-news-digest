@@ -1,30 +1,5 @@
 [
   {
-    "digest_date_local": "2026-09-19",
-    "canonical_urls": [
-      "https://developer.nvidia.com/blog/benchmarking-llm-inference-at-scale-with-aiperf",
-      "https://the-decoder.com/qwen3-8-omni-flash-undercuts-gemini-flash-pricing-while-matching-its-multimodal-benchmarks",
-      "https://the-decoder.com/unity-launches-official-plugins-for-claude-code-and-openai-codex-to-stop-ai-agents-from-using-outdated-tutorials",
-      "https://the-decoder.com/gpt-6-astra-and-claude-fable-turn-robot-arms-into-slapstick-killer-robots-in-new-safety-benchmark",
-      "https://the-decoder.com/google-deepminds-dream-rsi-helps-ai-agents-improve-by-dreaming-about-past-attempts"
-    ],
-    "article_hashes": [
-      "a1668928fd43d0c6cf05f828b4a5c1058ce2e8afef6fe76545e44b1b42183326",
-      "1dd700d2435e571ddee0114d23ac300e0e919d9a9cac293de7d8a099fd63c57c",
-      "fd6a2c2eac6c94e132e92234ed0b8b20360bf6fb3630c6d6024b7addfb17ad64",
-      "ba4f0ba8f257ae9d384701cfb5b917f740eaf05f3e38db0b1619bbf3f78240ea",
-      "ee21c22a05b9e6a94b74bb6a944ca87fa8cf5ba94238f5d257ca631cad387047"
-    ],
-    "titles": [
-      "Benchmarking LLM Inference at Scale with AIPerf",
-      "Qwen3.8-Omni-Flash undercuts Google's Gemini Flash pricing while matching its multimodal benchmarks",
-      "Unity launches official plugins for Claude Code and OpenAI Codex to stop AI agents from using outdated tutorials",
-      "GPT-6 Astra and Claude Fable turn robot arms into slapstick killer robots in new safety benchmark",
-      "Google Deepmind's Dream-RSI helps AI agents improve by “dreaming” about past attempts"
-    ],
-    "smtp_accepted_at_utc": "2026-09-19T14:49:15.316758Z"
-  },
-  {
     "digest_date_local": "2026-09-20",
     "canonical_urls": [
       "https://the-decoder.com/following-openai-anthropic-is-also-reportedly-postponing-its-ipo",
@@ -739,5 +714,30 @@
       "AI agents have bad taste in long-term decisions and a new benchmark proves it"
     ],
     "smtp_accepted_at_utc": "2026-10-18T14:51:33.949972Z"
+  },
+  {
+    "digest_date_local": "2026-10-19",
+    "canonical_urls": [
+      "https://developer.nvidia.com/blog/accelerating-mamba-2-with-high-performance-forward-pass-kernels-in-nvidia-cuda-tile",
+      "https://blogs.nvidia.com/blog/media-agentic-security-european-public-service-broadcasting-global-content-production",
+      "https://the-decoder.com/kling-ai-drops-version-4-0-with-stereo-audio-multilingual-lip-sync-and-a-lighter-flash-variant",
+      "https://the-decoder.com/the-neocloud-shakeout-is-coming-and-nvidia-has-the-most-to-lose",
+      "https://the-decoder.com/stripe-says-ai-agent-purchases-are-adding-up-but-it-wont-share-the-numbers"
+    ],
+    "article_hashes": [
+      "b60920b7518c9e20ef3683dd934946e740419aa0327eae172998d15a2fc04d0a",
+      "4c40a9141a6132a50de60b628e33b360cec851dd5d55ac79f09e276b4fb03220",
+      "10f7f763ebef7da085ebae1ecd041922a44f53cbd5e395e92c0a3edbf6c8221e",
+      "e9ddc5f9aa3cd04d709a669494d78c8b810f4386f5d6d92884faa38ae4d8f4b2",
+      "577b852cc6d9e2c1b34b3e1a8bf3dc173aa0a871afb37716d35b35c775bc30e4"
+    ],
+    "titles": [
+      "Accelerating Mamba-2 with High-Performance Forward Pass Kernels in NVIDIA CUDA Tile",
+      "NVIDIA Advances Agentic Security for Media, From European Public Service Broadcasting to Global Content Production",
+      "Kling AI drops version 4.0 with stereo audio, multilingual lip sync, and a lighter Flash variant",
+      "The neocloud shakeout is coming, and Nvidia has the most to lose",
+      "Stripe says AI agent purchases are adding up, but it won't share the numbers"
+    ],
+    "smtp_accepted_at_utc": "2026-10-19T17:47:05.550686Z"
   }
 ]
