@@ -1,24 +1,5 @@
 [
   {
-    "digest_date_local": "2026-09-20",
-    "canonical_urls": [
-      "https://the-decoder.com/following-openai-anthropic-is-also-reportedly-postponing-its-ipo",
-      "https://the-decoder.com/runway-wants-to-turn-ai-video-generation-into-a-live-stream-you-control-in-real-time",
-      "https://the-decoder.com/simulated-students-that-make-realistic-mistakes-help-ai-tutors-learn-faster"
-    ],
-    "article_hashes": [
-      "1337be5a0dc214af9c2e18cb7cc130b3315cf74799bb9d2622d54e4be744d1d6",
-      "710bdddea87bfa0d26c0fbc9709061be32db943bdf5e80f97b2004262749224d",
-      "da6d581f920606bdc8df0816bc14c5d24ad819b7f287756cce539b749b113299"
-    ],
-    "titles": [
-      "Following OpenAI, Anthropic is also reportedly postponing its IPO",
-      "Runway wants to turn AI video generation into a live stream you control in real time",
-      "Simulated students that make realistic mistakes help AI tutors learn faster"
-    ],
-    "smtp_accepted_at_utc": "2026-09-20T14:52:57.783774Z"
-  },
-  {
     "digest_date_local": "2026-09-21",
     "canonical_urls": [
       "https://developer.nvidia.com/blog/turn-your-latest-observations-into-timely-weather-decisions-with-nvidia-earth-2",
@@ -739,5 +720,30 @@
       "Stripe says AI agent purchases are adding up, but it won't share the numbers"
     ],
     "smtp_accepted_at_utc": "2026-10-19T17:47:05.550686Z"
+  },
+  {
+    "digest_date_local": "2026-10-20",
+    "canonical_urls": [
+      "https://blogs.nvidia.com/blog/spain-startups-barcelona-supercomputing-center",
+      "https://huggingface.co/blog/ibm-research/altk-evolve-bc",
+      "https://huggingface.co/blog/anylanguagemodel-1-0",
+      "https://huggingface.co/blog/mps-pytorch-2-15",
+      "https://huggingface.co/blog/hf-torchtpu"
+    ],
+    "article_hashes": [
+      "9854cc575096db6c57016525910e1353ef35a2aca0caefda5ff93c6b92ff4044",
+      "536f23cd94f139849c62e2753108d37e174f900ce6ec52ef90b6a207f9a80da1",
+      "41fb25a47d12d204a957e1afcc5f8bbcaa2e18e833e937826e6c4d8fb5abdfdb",
+      "c2b4b68d7e0027f0e4366133eb322fd84020df1d31b2a05734fa7c44edc22eb2",
+      "39e60f901a735303e0c0ae9b731fee2baf79f5edd599caf7944297514c7c53bb"
+    ],
+    "titles": [
+      "Spain-Based Startups Advance Regional Innovation With Barcelona Supercomputing Center",
+      "ALTK-Evolve: How learned memory tops the τ²-bench leaderboard on customer service tasks without a frontier model",
+      "AnyLanguageModel 1.0: One Year of Local Models on Apple Platforms",
+      "MPS in PyTorch 2.15",
+      "Hugging Face ❤️ TorchTPU: TPUs, Natively"
+    ],
+    "smtp_accepted_at_utc": "2026-10-20T15:50:37.863875Z"
   }
 ]
