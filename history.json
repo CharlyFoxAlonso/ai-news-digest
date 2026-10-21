@@ -1,30 +1,5 @@
 [
   {
-    "digest_date_local": "2026-09-21",
-    "canonical_urls": [
-      "https://developer.nvidia.com/blog/turn-your-latest-observations-into-timely-weather-decisions-with-nvidia-earth-2",
-      "https://blogs.nvidia.com/blog/ai-security-agent-stack",
-      "https://openai.com/index/v7",
-      "https://blogs.nvidia.com/blog/egypt-africa-ai-ecosystem",
-      "https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an"
-    ],
-    "article_hashes": [
-      "63cdcdfe6e04249b37a8dd1b0c8967affb7cf5508a01577708e45653c2ee368f",
-      "551015797b6713a98fd4f603328d639037f552dfea9b6d56a1a4c06ad6431634",
-      "d2871d486c61275aa18316221b2aa4fe0c0c7a730e7f24a395d9c1672c5c3fc3",
-      "7885f786ba9a17ee55d16aeb3e874afd9f150d7f2e16da2eda7c96db543df45b",
-      "ae2a66f3c360fd1788ea542ecd106283297aa5851d8fa012405023e8db53a75a"
-    ],
-    "titles": [
-      "Turn Your Latest Observations Into Timely Weather Decisions With NVIDIA Earth-2",
-      "AI Security Is an Engineering Problem — How to Solve It at Every Layer of the Agent Stack",
-      "How V7 gives AI agents institutional memory",
-      "From Enablement to Execution, Egypt’s AI Ecosystem Reaches Production Scale",
-      "Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem"
-    ],
-    "smtp_accepted_at_utc": "2026-09-21T17:12:16.548475Z"
-  },
-  {
     "digest_date_local": "2026-09-22",
     "canonical_urls": [
       "https://developer.nvidia.com/blog/accelerating-a-ros-2-node-with-an-ai-agent-and-nvidia-isaac-ros",
@@ -745,5 +720,30 @@
       "Hugging Face ❤️ TorchTPU: TPUs, Natively"
     ],
     "smtp_accepted_at_utc": "2026-10-20T15:50:37.863875Z"
+  },
+  {
+    "digest_date_local": "2026-10-21",
+    "canonical_urls": [
+      "https://blogs.nvidia.com/blog/cudss-generally-available-engineering-scientific-simulation",
+      "https://developer.nvidia.com/blog/how-nvidia-openshell-reference-architecture-secures-and-governs-ai-agent-workloads-at-scale",
+      "https://developer.nvidia.com/blog/inside-nvidia-sentry-secure-ai-agents-at-runtime",
+      "https://blogs.nvidia.com/blog/google-cloud-vera-rubin-infrastructure",
+      "https://huggingface.co/blog/ibm-granite/granite-speech-5"
+    ],
+    "article_hashes": [
+      "8860c6bfedf824046aa32e7c8dd6d11dc193327076b61e67d691429ca8e34e6e",
+      "844d2a2689f652be5a4597c23697c0c2a7903bfe624d7acd484087652c4e5855",
+      "c1913c4bc921d7e32c35b051f4ca5df499dfcce2d568a0b0e42ba71c4e74951a",
+      "653d201e8928688350182b453312ba723767e3b6f58ba1722e8a19c83c037a58",
+      "c2ed162a157709f5cb47598d7a4a9ff0ca7927682ea3c9a0e259f86971bb2de7"
+    ],
+    "titles": [
+      "NVIDIA cuDSS Now Generally Available to Accelerate Engineering and Scientific Simulations",
+      "How NVIDIA OpenShell Reference Architecture Secures and Governs AI Agent Workloads at Scale",
+      "Inside NVIDIA Sentry: Secure AI Agents at Runtime",
+      "Google Cloud and NVIDIA Announce General Availability of NVIDIA Vera Rubin Infrastructure",
+      "Granite Speech 5.0: Transcribe, Translate, and Attribute more Accurately and Faster"
+    ],
+    "smtp_accepted_at_utc": "2026-10-21T16:07:32.156644Z"
   }
 ]
