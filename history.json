@@ -1,30 +1,5 @@
 [
   {
-    "digest_date_local": "2026-09-22",
-    "canonical_urls": [
-      "https://developer.nvidia.com/blog/accelerating-a-ros-2-node-with-an-ai-agent-and-nvidia-isaac-ros",
-      "https://blogs.nvidia.com/blog/isaac-ros-5-0-agentic-open-source-robotics",
-      "https://developer.nvidia.com/blog/simplifying-model-serving-across-multiple-gpus-with-nvidia-tensorrt-multi-device-integration-in-nvidia-dynamo-triton",
-      "https://developer.nvidia.com/blog/how-to-evaluate-ai-agents-from-tool-calls-to-task-completion",
-      "https://developer.nvidia.com/blog/whats-new-for-game-developers-dlss-5-with-3d-guided-neural-rendering-nvidia-ace-updates-and-new-rtx-kit-capabilities"
-    ],
-    "article_hashes": [
-      "7a362fd0719547651d5e3f88800a7ba2923e72baccbdf1ff9031fc35feeb0b57",
-      "33fd00ceaa5855dfc4011f4cc2a7f4c1a08e8a07efbd4bd4a203462236d1fcaa",
-      "6b434694308aa0f0480884d59606af1dc583b128a91fe47536b0c925c7a607fc",
-      "bdd29549bac9c40278a0305c29cf578bec5282463044304d2a95553112daea58",
-      "cd268d2cc427c0d1993ee0ff41db3f34b937d7a17259029856a2b692fa2b7033"
-    ],
-    "titles": [
-      "Accelerating a ROS 2 Node with an AI Agent and NVIDIA Isaac ROS",
-      "NVIDIA Isaac ROS 5.0 Advances Agentic, Open Source Robotics Development",
-      "Simplifying Model Serving Across Multiple GPUs with NVIDIA TensorRT Multi-Device Integration in NVIDIA Dynamo-Triton",
-      "How to Evaluate AI Agents From Tool Calls to Task Completion",
-      "What’s New for Game Developers: DLSS 5 with 3D-Guided Neural Rendering, NVIDIA ACE Updates, and New RTX Kit Capabilities"
-    ],
-    "smtp_accepted_at_utc": "2026-09-22T15:44:21.264597Z"
-  },
-  {
     "digest_date_local": "2026-09-23",
     "canonical_urls": [
       "https://developer.nvidia.com/blog/enabling-private-high-performance-production-ai-inference-with-nvidia-confidential-computing",
@@ -745,5 +720,30 @@
       "Granite Speech 5.0: Transcribe, Translate, and Attribute more Accurately and Faster"
     ],
     "smtp_accepted_at_utc": "2026-10-21T16:07:32.156644Z"
+  },
+  {
+    "digest_date_local": "2026-10-22",
+    "canonical_urls": [
+      "https://developer.nvidia.com/blog/running-frontier-class-ai-models-across-8-nvidia-dgx-spark-nodes",
+      "https://blogs.nvidia.com/blog/europe-earth-2-open-models-weather-climate-prediction",
+      "https://blogs.nvidia.com/blog/european-retail-open-models-robotics",
+      "https://blogs.nvidia.com/blog/minerva-platform-infrastructure",
+      "https://blogs.nvidia.com/blog/geforce-now-thursday-call-of-duty-modern-warfare-4"
+    ],
+    "article_hashes": [
+      "a9592e53f2c7c7097c443af05d5209643f1ec917c7548d356b01cf00a664f102",
+      "89a4e6d4e0e5bb84c8c4a86440e37f61766b72364e2eaad434aa332df0b4507f",
+      "898575ccc2fcbfd5eae1b5817ece44c53bb0820140b5be93fd6a235b29610654",
+      "2c1c1d0b09d0e274e1a661fddec3b1e1a572e8e1220966a1723e083500a741dd",
+      "856d845adf1f95fea166c4435a35d3b43e70845cf1ad656986c1055d37f71fc8"
+    ],
+    "titles": [
+      "Running Frontier-Class AI Models Across 8 NVIDIA DGX Spark Nodes",
+      "Pioneers Across Europe Deploy NVIDIA Earth-2 Open Models to Power Real-World Weather and Climate Prediction",
+      "NVIDIA Transforms European Retail, From Digital Discovery to Physical Operations",
+      "NVIDIA Unveils Minerva to Bring End-to-End Observability for AI Factories",
+      "Cloud Deployment Incoming: ‘Call of Duty: Modern Warfare 4’ Arrives on GeForce NOW"
+    ],
+    "smtp_accepted_at_utc": "2026-10-22T16:03:20.983159Z"
   }
 ]
