@@ -1,30 +1,5 @@
 [
   {
-    "digest_date_local": "2026-09-23",
-    "canonical_urls": [
-      "https://developer.nvidia.com/blog/enabling-private-high-performance-production-ai-inference-with-nvidia-confidential-computing",
-      "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
-      "https://huggingface.co/blog/nvidia/nemotron-diarization",
-      "https://blogs.nvidia.com/blog/nvidia-life-sakeena-fiza",
-      "https://blogs.nvidia.com/blog/ai-day-singapore"
-    ],
-    "article_hashes": [
-      "80425f477229c597aaa42c0c2e9c1262e882ca7c854b1f6454b52874beaa9872",
-      "9328fa400dd37e6b9e773781e78a2a50934d49d24282a5ac7e2d36068da55aca",
-      "bf57ce3f2e77f3951dbe6d0357091a22d11eb8b9b867ae8b5deb7f97e88d1a97",
-      "29470b428b796cd288b13fb5382230f142a0172c2be3d6812b5027b75221aa85",
-      "79f32efd864cd4c560e6a32687cbfea2f7f2b4f6d85bff5e3582079aee89222e"
-    ],
-    "titles": [
-      "Enabling Private High-Performance Production AI Inference with NVIDIA Confidential Computing",
-      "OpenAI extends cyber access to Ukraine for civilian defense",
-      "**Know Who Spoke When: Build Real-Time, Multi-Speaker AI with NVIDIA Nemotron 3 Diarization**",
-      "Sakeena Fiza Helps NVIDIA Hardware Succeed at Scale",
-      "At AI Day Singapore, NVIDIA and Partners Showcase AI Advancements Across Southeast Asia"
-    ],
-    "smtp_accepted_at_utc": "2026-09-23T15:34:54.211893Z"
-  },
-  {
     "digest_date_local": "2026-09-24",
     "canonical_urls": [
       "https://developer.nvidia.com/blog/efficient-moe-training-for-biological-foundation-models",
@@ -745,5 +720,30 @@
       "Cloud Deployment Incoming: ‘Call of Duty: Modern Warfare 4’ Arrives on GeForce NOW"
     ],
     "smtp_accepted_at_utc": "2026-10-22T16:03:20.983159Z"
+  },
+  {
+    "digest_date_local": "2026-10-23",
+    "canonical_urls": [
+      "https://developer.nvidia.com/blog/using-ai-agents-to-teach-robots-like-microduck-to-walk-in-simulation",
+      "https://openai.com/index/openai-nask-ai-safety-security-partnership",
+      "https://huggingface.co/blog/microsoft/thinkingbox-training",
+      "https://developer.nvidia.com/blog/how-to-read-data-into-gpu-memory-in-python-with-nvidia-gpudirect-storage",
+      "https://blogs.nvidia.com/blog/kazakhstan-ai-compute-ecosystem"
+    ],
+    "article_hashes": [
+      "9794b201a214a494f02464305d1eac6cd2eef956acce0350a701d5619dca9bd8",
+      "1a543055a02f9816518cc03996b6a0ed89e5e65a847f479103d96112c902ed21",
+      "51888f116f5b083740bce79640ccacdc80055a08000c769931982fc83218805e",
+      "d52968d2b0a9b010f48c90ec41ed7769de96a323813b062b7976f24a653f7734",
+      "90e35913e5ba3eb8b4a92f72a9102af196230e962dff7b01553c19cb66fcc9b7"
+    ],
+    "titles": [
+      "Using AI Agents to Teach Robots Like Microduck to Walk in Simulation",
+      "OpenAI and Poland’s NASK partner to advance AI safety and security",
+      "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
+      "How to Read Data into GPU Memory in Python with NVIDIA GPUDirect Storage",
+      "Kazakhstan Expands Compute for Its AI Future"
+    ],
+    "smtp_accepted_at_utc": "2026-10-23T15:56:05.671158Z"
   }
 ]
