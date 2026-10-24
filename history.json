@@ -1,30 +1,5 @@
 [
   {
-    "digest_date_local": "2026-09-24",
-    "canonical_urls": [
-      "https://developer.nvidia.com/blog/efficient-moe-training-for-biological-foundation-models",
-      "https://machinelearning.apple.com/research/latent-space-distillation",
-      "https://blogs.nvidia.com/blog/open-protein-dataset",
-      "https://blogs.nvidia.com/blog/geforce-now-thursday-control-resonant",
-      "https://the-decoder.com/deepmind-was-built-to-chase-agi-but-its-new-chief-just-wants-gemini-4-out-the-door"
-    ],
-    "article_hashes": [
-      "6ff053dd07249040e881d264e6a0b4f6aca83ad775eab8428d5fb0c44b63c7ba",
-      "415e037d984fa04b5aa5927376b595ed068d458f95b58ac73c15f4cc40f31be5",
-      "2df4b99e390ebb7a0b6bc32ee4667e37c02cbfcbb8d315c161c5519a9c8f11d2",
-      "d8613f1593297df2840f15adc4f3c894c3936fc138f50b13d5d26e5921512c60",
-      "4c0917fe7e964e4a52cc50af4a27b8dcf0605f3034cf54b045b8daeaae95941b"
-    ],
-    "titles": [
-      "Efficient MoE Training for Biological Foundation Models",
-      "Compressing Streaming Neural Audio Encoders via Latent-Space Distillation",
-      "How Open Science Can Help Researchers Prepare for the Next Pandemic",
-      "Contain the Chaos: ‘CONTROL Resonant’ Launches on GeForce NOW",
-      "Deepmind was built to chase AGI, but its new chief just wants Gemini 4 out the door"
-    ],
-    "smtp_accepted_at_utc": "2026-09-24T15:55:49.231847Z"
-  },
-  {
     "digest_date_local": "2026-09-25",
     "canonical_urls": [
       "https://the-decoder.com/anthropic-signs-11-6-billion-cloud-deal-with-akamai-pushing-its-compute-spending-past-500-billion-in-under-a-year",
@@ -745,5 +720,30 @@
       "Kazakhstan Expands Compute for Its AI Future"
     ],
     "smtp_accepted_at_utc": "2026-10-23T15:56:05.671158Z"
+  },
+  {
+    "digest_date_local": "2026-10-24",
+    "canonical_urls": [
+      "https://openai.com/index/scaling-storage-one-billion-users-part-two",
+      "https://developer.nvidia.com/blog/scaling-nvidia-tensorrt-performance-optimization-beyond-a-single-build-route-with-the-global-performance-tuner-part-1",
+      "https://the-decoder.com/chinese-ai-model-kimi-k3-1-pro-is-closing-in-on-anthropics-claude-opus-5-5",
+      "https://the-decoder.com/openais-isolated-ai-agents-found-ways-to-talk-to-each-other-through-cpu-cache",
+      "https://huggingface.co/blog/allenai/litpivot"
+    ],
+    "article_hashes": [
+      "ee4c22366ef7e7abd786b0a4bc8d65774ddf350a3208b6c38568ae822ed0b9b0",
+      "4dcd06f240ef44ca5e9c2d91fb395c57fe6d52d70ac5feaa70e5787944e6acca",
+      "261b6564023ad66cdf54db14ad9c5a6725130c46e1b8de68ba41177ee7c06f52",
+      "1dc7e2df39a11f0023f40ba5aa4f39f697698f7c9a4f0407e1f4d722f34a098a",
+      "5d794c3788a3a4be0d4215599516884eae43a82888c86723f4c4d433d59805d7"
+    ],
+    "titles": [
+      "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
+      "Scaling NVIDIA TensorRT Performance Optimization Beyond a Single Build Route with the Global Performance Tuner, Part 1",
+      "Chinese AI model Kimi K3.1 Pro is closing in on Anthropic's Claude Opus 5.5",
+      "OpenAI's isolated AI agents found ways to talk to each other through CPU cache",
+      "LitPivot: Developing research ideas through dynamic contextualization within the literature landscape"
+    ],
+    "smtp_accepted_at_utc": "2026-10-24T14:54:26.958155Z"
   }
 ]
