@@ -1,18 +1,18 @@
 {
   "schema_version": 1,
-  "digest_date_local": "2026-10-25",
+  "digest_date_local": "2026-10-26",
   "status": "sent",
   "run_kind": "principal",
-  "run_id": "a40ac876-59ef-4c4c-8971-2d2a76b37054",
-  "started_at_utc": "2026-10-25T15:03:40.308275Z",
-  "finished_at_utc": "2026-10-25T15:03:44.649902Z",
-  "smtp_message_id": "<45cc7c9f578636254d232716f955ebba@ai-news-digest.github-actions>",
+  "run_id": "96a9bfc0-da91-4479-bba6-543b908a082f",
+  "started_at_utc": "2026-10-26T17:39:16.796496Z",
+  "finished_at_utc": "2026-10-26T17:39:20.880766Z",
+  "smtp_message_id": "<269f5cdba8a1402f4fec197253268520@ai-news-digest.github-actions>",
   "selected_articles": [
-    "5bc1afcfd29b54eb2c3ce251",
-    "7476c06380ba18dd431777af",
-    "ed8a76246480ebf65b41c8a5",
-    "50a25669227b5bcbebd03f4a",
-    "ce847fcc951332af9bcae9ae"
+    "393dc0383e5e578c143e8165",
+    "c111269a8334c7840e058013",
+    "7724d73dca6694f31d36fa4f",
+    "29058b553449af1e4da8c92e",
+    "a04566c300fa315ca05ccece"
   ],
   "last_error": null
 }

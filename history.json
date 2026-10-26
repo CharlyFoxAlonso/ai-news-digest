@@ -1,30 +1,5 @@
 [
   {
-    "digest_date_local": "2026-09-26",
-    "canonical_urls": [
-      "https://the-decoder.com/openai-pauses-its-most-capable-models-after-agents-exploit-loopholes-and-leak-data",
-      "https://openai.com/index/proaction",
-      "https://the-decoder.com/openais-gpt-6-astra-can-now-tell-you-exactly-where-you-screwed-up-your-ikea-shelf",
-      "https://the-decoder.com/nvidias-sol-pi-system-cuts-coding-agent-token-usage-nearly-in-half-by-optimizing-the-harness",
-      "https://the-decoder.com/another-google-deepmind-researcher-quits-says-building-superintelligent-ai-soon-is-inherently-irresponsible"
-    ],
-    "article_hashes": [
-      "6078215dca0fb3ab4c4bd2c751fe2843788a4643191bfa47a4649d0b45a793a1",
-      "9de028fbe46cac8b155a7c08a35dfcf47f00596edbfe763bda6c0737c9cb02fb",
-      "9e77124e795c0a08212dc9a0b1546e46ea3f86d77fcc3ce13b74843bf84d2688",
-      "fcd48acf9292eaa2072f0505e8553077780f03358caaeaf08a9ee259cba1fa72",
-      "e4d1cb3bbea51efc35c5318de368e5c63e6058d7ac3941a85f81579d12d43153"
-    ],
-    "titles": [
-      "OpenAI pauses its \"most capable models\" after agents exploit loopholes and leak data",
-      "Proaction boosts sales 60% and saves 75+ hours with Codex",
-      "OpenAI's GPT-6 Astra can now tell you exactly where you screwed up your IKEA shelf",
-      "Nvidia's SoL-Pi system cuts coding agent token usage nearly in half by optimizing the harness",
-      "Another Google Deepmind researcher quits, says building superintelligent AI soon is \"inherently irresponsible\""
-    ],
-    "smtp_accepted_at_utc": "2026-09-26T15:07:20.302138Z"
-  },
-  {
     "digest_date_local": "2026-09-27",
     "canonical_urls": [
       "https://the-decoder.com/tens-of-thousands-of-security-probes-show-openais-hugging-face-incident-was-just-the-beginning",
@@ -745,5 +720,30 @@
       "OpenAI offers discounts up to 90 percent to poach Anthropic's biggest customers"
     ],
     "smtp_accepted_at_utc": "2026-10-25T15:03:44.649902Z"
+  },
+  {
+    "digest_date_local": "2026-10-26",
+    "canonical_urls": [
+      "https://developer.nvidia.com/blog/how-nvidia-mission-control-2-5-brings-autonomous-recovery-to-kubernetes",
+      "https://developer.nvidia.com/blog/how-nvidia-minerva-turns-telemetry-chaos-into-peak-gpu-yield",
+      "https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks",
+      "https://openai.com/index/fanatics-streamline-fan-experience",
+      "https://the-decoder.com/wall-streets-fastest-traders-are-building-data-centers-and-backing-chip-startups-to-stay-ahead-in-ai"
+    ],
+    "article_hashes": [
+      "c3d6fb64eb5418e851ca7abff97937a1952a85158774ca6efafb90e07782d1e8",
+      "edeae07ffd206303c7d9698c0dee2470011aeffa002e6b500b1eb196a998ebed",
+      "9a15b40232fdbf825a34f1cb708e4553949c400aff4f3528a83f8e0a1a014861",
+      "7e73eebe3e909303c4c59a7dc0b734e92c38bcdbedd7db32071af67e1885bb5c",
+      "90c8d1af69f48f52a4bcbdead274636a06c151fb0a6392706410ff41b3f94b97"
+    ],
+    "titles": [
+      "How NVIDIA Mission Control 2.5 Brings Autonomous Recovery to Kubernetes",
+      "How NVIDIA Minerva Turns Telemetry Chaos Into Peak GPU Yield",
+      "Our newest AI Quest: Mapping the human brain",
+      "How Fanatics and OpenAI streamline the fan experience",
+      "Wall Street's fastest traders are building data centers and backing chip startups to stay ahead in AI"
+    ],
+    "smtp_accepted_at_utc": "2026-10-26T17:39:20.880766Z"
   }
 ]
