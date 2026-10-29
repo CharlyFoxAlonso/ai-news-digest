@@ -1,30 +1,5 @@
 [
   {
-    "digest_date_local": "2026-09-29",
-    "canonical_urls": [
-      "https://huggingface.co/blog/nvidia/kumo-tabular",
-      "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source",
-      "https://machinelearning.apple.com/research/communication-bottleneck-serialization",
-      "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
-      "https://openai.com/index/how-we-will-do-better-for-australia"
-    ],
-    "article_hashes": [
-      "dc53fce90c6f36f5c727235e1a467f2d849dcd49be3c83b393c97ef4331e392f",
-      "afa8c33f8eb7996a39419deadd5b14c638139f7bae71a907c422a5531afc3651",
-      "e1da41ea41831abed9cd482b909e2f6b1f815294a03f98e5461853f5ae5af667",
-      "2fc54b690d7b20a2e14328388fc3694e3eecf9d62246b7618620635188f7c454",
-      "50d71cd52400f551c336b9ad5bff210544c56459b813f45adc29b8abfb63cfa4"
-    ],
-    "titles": [
-      "NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction",
-      "Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
-      "The Communication Bottleneck: A Round-Trip Study of Tree-Structured Expression Serialization in Language Models",
-      "Towards safety cases for frontier AI training",
-      "How we will do better for Australia"
-    ],
-    "smtp_accepted_at_utc": "2026-09-29T17:02:08.281063Z"
-  },
-  {
     "digest_date_local": "2026-09-30",
     "canonical_urls": [
       "https://developer.nvidia.com/blog/tracing-agent-harness-behavior-with-nvidia-nemo-relay",
@@ -745,5 +720,30 @@
       "Google opens Android development to third-party AI agents and unveils new Gemini APIs"
     ],
     "smtp_accepted_at_utc": "2026-10-28T17:25:22.145358Z"
+  },
+  {
+    "digest_date_local": "2026-10-29",
+    "canonical_urls": [
+      "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
+      "https://developer.nvidia.com/blog/unlocking-tensor-core-performance-for-machine-learning-interatomic-potentials",
+      "https://openai.com/index/how-we-detect-frontier-model-misalignment",
+      "https://blogs.nvidia.com/blog/geforce-now-thursday-phantom-blade-zero",
+      "https://huggingface.co/blog/mistral-large4"
+    ],
+    "article_hashes": [
+      "e508e29ae812fe586e8d04934be66406c6967422e675f969f84a3d3abfd18b22",
+      "c37d4b7dab3a156e6535b3ec24845eaac69f6b0e7c279d61651db6d4bbd02cdc",
+      "0f01adb2acab0a67ba71c0b077a856b8d5e6ddb0aecdbfc3051cca05fba1e4d6",
+      "ea413dd27e3e4bb89632d3412623c662a59d89ab30210d48446477338b116d35",
+      "b6b30743068c26272d898fb0a6f1ecbc2f9f86806ca564a0085874621ca143e5"
+    ],
+    "titles": [
+      "Granite Switch 4.1.1 — Update models like you update software",
+      "Unlocking Tensor Core Performance for Machine Learning Interatomic Potentials",
+      "How we detect frontier model misalignment",
+      "Slice Into GFN Thursday: ‘Phantom Blade Zero’ Launches on GeForce NOW",
+      "Welcome Le Chonk: Mistral Large 4 on Hugging Face"
+    ],
+    "smtp_accepted_at_utc": "2026-10-29T17:33:32.302163Z"
   }
 ]
