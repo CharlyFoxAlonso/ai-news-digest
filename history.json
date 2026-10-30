@@ -1,30 +1,5 @@
 [
   {
-    "digest_date_local": "2026-09-30",
-    "canonical_urls": [
-      "https://developer.nvidia.com/blog/tracing-agent-harness-behavior-with-nvidia-nemo-relay",
-      "https://blogs.nvidia.com/blog/coreweave-agentic-ai-vera-rubin",
-      "https://machinelearning.apple.com/research/effectiveness-fluency-llm-conditioning",
-      "https://openai.com/index/helping-small-businesses-put-ai-to-work",
-      "https://developer.nvidia.com/blog/lower-the-cost-of-building-and-running-visual-ai-agents-with-nvidia-vss-blueprint-3-3"
-    ],
-    "article_hashes": [
-      "ba8133a0e65d65f160a5c4f8b8d9ff08d79f63e69ae86dfb285dd667fc7dda1f",
-      "db0812d61ea7fb047ed0b06544febb8845b85f25da672d098cd9e2fdb56d6d93",
-      "d63fd7904589a452419d9086c340cd70931c69c728b4714f5acd4bf5fc4d211a",
-      "061338e668ed697490e5190ccd3e1fba28ac269698517daa2fcec5875990601f",
-      "a50201dcd38e1ac4b162037ff641378d3d80097b26ca2a43a2fc1ab628d845ae"
-    ],
-    "titles": [
-      "Tracing Agent Harness Behavior with NVIDIA NeMo Relay",
-      "From Training to Production, NVIDIA and CoreWeave Close the Loop on Agentic AI",
-      "On the Effectiveness-Fluency Trade-Off in LLM Conditioning: A Systematic Study",
-      "Helping small businesses put AI to work",
-      "Lower the Cost of Building and Running Visual AI Agents with NVIDIA VSS Blueprint 3.3"
-    ],
-    "smtp_accepted_at_utc": "2026-09-30T17:00:49.111367Z"
-  },
-  {
     "digest_date_local": "2026-10-01",
     "canonical_urls": [
       "https://machinelearning.apple.com/research/harness-autonomous-ml-engineering",
@@ -745,5 +720,30 @@
       "Welcome Le Chonk: Mistral Large 4 on Hugging Face"
     ],
     "smtp_accepted_at_utc": "2026-10-29T17:33:32.302163Z"
+  },
+  {
+    "digest_date_local": "2026-10-30",
+    "canonical_urls": [
+      "https://developer.nvidia.com/blog/build-specialized-agents-on-a-stack-you-control-with-nvidia-nemoclaw",
+      "https://blogs.nvidia.com/blog/ai-joins-the-search-for-extraterrestrial-signals",
+      "https://developer.nvidia.com/blog/how-to-check-and-configure-nvidia-gpudirect-storage-for-your-platform",
+      "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
+      "https://the-decoder.com/open-weight-model-glm-5-3-built-full-firefox-exploit-chains-with-zero-human-input-in-under-48-hours"
+    ],
+    "article_hashes": [
+      "b0afceb347e7b188bf463de38c2fc1c2d2327aecec000dbde2cb657cc488a31a",
+      "91038b3a35f762ad50207c258db80a104fdb9206d041ddfa5b89e932f580c209",
+      "457063de4ee2957a09d59b7684ac338c9d031ff2d6c20db8c7174826029d69ab",
+      "a86d24c59c826150d16deb117d5d2c5c4ade94e1abd42be5bfff46adde0bd560",
+      "028ed5c5f407a06d9874e0476638adbb28ce13abe00f5fc00f140d3c9cc4998f"
+    ],
+    "titles": [
+      "Build Specialized Agents on a Stack You Control with NVIDIA NemoClaw",
+      "Things That Go Beep in the Night: Agentic AI Joins the Search for Extraterrestrial Signals",
+      "How to Check and Configure NVIDIA GPUDirect Storage for Your Platform",
+      "Community safety report and new protections for teens",
+      "Open-weight model GLM 5.3 built full Firefox exploit chains with zero human input in under 48 hours"
+    ],
+    "smtp_accepted_at_utc": "2026-10-30T17:14:42.906602Z"
   }
 ]
