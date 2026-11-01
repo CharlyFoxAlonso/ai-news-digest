@@ -1,30 +1,5 @@
 [
   {
-    "digest_date_local": "2026-10-02",
-    "canonical_urls": [
-      "https://blogs.nvidia.com/blog/gpus-openai-gpt-6-astra-ultrafast",
-      "https://blogs.nvidia.com/blog/local-ai-dgx-spark-64gb-sync",
-      "https://openai.com/index/practical-guide-building-gpt-6",
-      "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026",
-      "https://machinelearning.apple.com/research/language-discrimination-multilingual-learning"
-    ],
-    "article_hashes": [
-      "72966dd5c0f3c211fde5aef4e687671e75c083cda2c37139106fadeaf5568855",
-      "010abefa0fafcbd406f20f91e7ca4ac072cc5cb80f7f86f6f4a972a8a572bb65",
-      "c38af6e5cae43e23a64c1d509c6a587da67c166f4c093fc7e47ef57f26c07a7c",
-      "aacb8ca8a4a96bc0cfecf6685ab1bf86aa3d3c1f13feb6fac21b8b58211ab9da",
-      "bd7fa85e5bd0311f32d40a6179bd30f377e2b8a9ef9e065c98055aeabfcd1d5c"
-    ],
-    "titles": [
-      "How NVIDIA GPUs Help Accelerate OpenAI’s GPT-6 Astra Ultrafast",
-      "NVIDIA DGX Spark 64GB Gives Developers More Ways to Build and Scale Local AI",
-      "A model guide for the GPT-6 family",
-      "The latest AI news we announced in September 2026",
-      "Language Discrimination Improves Linguistic Learning in Multilingual Speech Models"
-    ],
-    "smtp_accepted_at_utc": "2026-10-02T16:50:18.733096Z"
-  },
-  {
     "digest_date_local": "2026-10-03",
     "canonical_urls": [
       "https://the-decoder.com/another-openai-safety-departure-adds-to-a-pattern-of-researchers-leaving-with-public-warnings",
@@ -745,5 +720,30 @@
       "OpenAI raises just $11 billion of its $30 billion target as big investors lose their AI appetite"
     ],
     "smtp_accepted_at_utc": "2026-10-31T16:19:37.797561Z"
+  },
+  {
+    "digest_date_local": "2026-11-01",
+    "canonical_urls": [
+      "https://the-decoder.com/empathetic-prompts-can-turn-ai-chatbots-into-seemingly-traumatized-conversational-partners",
+      "https://the-decoder.com/adobe-is-testing-how-well-ai-agents-can-use-editing-tools-like-a-photoshop-professional-would",
+      "https://the-decoder.com/openai-is-steering-chatgpt-users-toward-more-paid-usage",
+      "https://the-decoder.com/openais-upcoming-chat-and-work-merger-in-chatgpt-signals-the-end-of-all-you-can-prompt-pricing",
+      "https://the-decoder.com/google-wants-video-ai-to-understand-what-people-need-as-they-workgoogle-researchers-are-teaching-a-video-assistant-when-to-offer-help"
+    ],
+    "article_hashes": [
+      "7c70fd83fe5fb7a8f305e402109125060f7d45ee65e5dec19848c2b803205d52",
+      "65f557b29c3f5218ed3ca906de0e01a269ba16ab3500e3b7317712218dc8fc56",
+      "3652cac11e26a33bb980f6d1a23cd95fc0e3a2a47a77fedf2237e8a3e75b0ed4",
+      "de0b3bd3407998f361e87cf23a7d979be69e7eb5d71c72d099105f5a995efa19",
+      "c07b9c8a35c66cd0359d7635438fad7d0d471dacfb86c737d63efca4957a59b7"
+    ],
+    "titles": [
+      "Empathetic prompts can turn AI chatbots into seemingly traumatized conversational partners",
+      "Adobe is testing how well AI agents can use editing tools like a Photoshop professional would",
+      "OpenAI is steering ChatGPT users toward more paid usage",
+      "OpenAI's upcoming chat-and-work merger in ChatGPT signals the end of all-you-can-prompt pricing",
+      "Google wants video AI to understand what people need as they work"
+    ],
+    "smtp_accepted_at_utc": "2026-11-01T17:14:55.729129Z"
   }
 ]
