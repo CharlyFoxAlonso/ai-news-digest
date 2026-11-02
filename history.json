@@ -1,30 +1,5 @@
 [
   {
-    "digest_date_local": "2026-10-03",
-    "canonical_urls": [
-      "https://the-decoder.com/another-openai-safety-departure-adds-to-a-pattern-of-researchers-leaving-with-public-warnings",
-      "https://huggingface.co/blog/allenai/astabrief",
-      "https://the-decoder.com/muse-gadgets-turns-ai-hardware-into-an-open-source-diy-project",
-      "https://the-decoder.com/ai-agents-build-3d-scenes-from-photos-but-have-no-idea-if-they-got-it-right",
-      "https://the-decoder.com/claude-codes-new-mods-system-lets-developers-rewrite-the-ai-coding-tool-from-the-inside"
-    ],
-    "article_hashes": [
-      "4c5da35b23bd1f61f14ccd03af903845d4760017ba9f9cfabb576619821f2225",
-      "e81b1dea7ce0fb42c97855621c52f6a49d0893d2f06b0ac1c6c329bdc3da8830",
-      "f2fb076773896b62ae71a00cbd5faa10541490b6bbcb1da2b6b43a035fc91f44",
-      "1d23551534a2b54df22e01d8d75667a7699d42aeaa359c341c8b3b5052b546f4",
-      "7de4e1048b5ef7bbd9429758424763fafb4d51dccef04f45b2f2474c90e4d1a2"
-    ],
-    "titles": [
-      "Another OpenAI safety departure adds to a pattern of researchers leaving with public warnings",
-      "Open-sourcing AstaBrief, the fast report-generation model in Asta",
-      "\"Muse Gadgets\" turns AI hardware into an open-source DIY project",
-      "AI agents build 3D scenes from photos but have no idea if they got it right",
-      "Claude Code's new Mods system lets developers rewrite the AI coding tool from the inside"
-    ],
-    "smtp_accepted_at_utc": "2026-10-03T15:14:56.807652Z"
-  },
-  {
     "digest_date_local": "2026-10-04",
     "canonical_urls": [
       "https://huggingface.co/blog/microsoft/thinkingbox",
@@ -745,5 +720,30 @@
       "Google wants video AI to understand what people need as they work"
     ],
     "smtp_accepted_at_utc": "2026-11-01T17:14:55.729129Z"
+  },
+  {
+    "digest_date_local": "2026-11-02",
+    "canonical_urls": [
+      "https://developer.nvidia.com/blog/making-kubernetes-ai-ready-for-nvidia-vera-rubin-on-day-one",
+      "https://developer.nvidia.com/blog/build-world-models-for-interactive-simulation-with-nvidia-cosmos",
+      "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026",
+      "https://openai.com/index/grid-protectors-program",
+      "https://developer.nvidia.com/blog/support-new-ai-frameworks-faster-using-nvidia-workload-map"
+    ],
+    "article_hashes": [
+      "6663ba9af98ba4a1d59dbfed12280ed40009d8c74e533d776a587e0ab24a459e",
+      "a840098ac4436b9824e7b305f2fb513e561ede9e9a959f1de66d9420e8d788fa",
+      "996c88dfa31d64c0a9d691ce9aa9d84c870ff31a54172125d0220f44806491fe",
+      "5d33ed0c66ace544e65f6063efa96737fd184e0288033033361ae48877b21fc8",
+      "fb338bda1aab8560d19147c86091c3443075a4902bc12ab52dfba11a959449de"
+    ],
+    "titles": [
+      "Making Kubernetes AI-Ready for NVIDIA Vera Rubin on Day One",
+      "Build World Models for Interactive Simulation with NVIDIA Cosmos",
+      "The latest AI news we announced in October 2026",
+      "Introducing the Grid Protectors Program",
+      "Support New AI Frameworks Faster Using NVIDIA Workload Map"
+    ],
+    "smtp_accepted_at_utc": "2026-11-02T20:53:04.241132Z"
   }
 ]
