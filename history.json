@@ -1,30 +1,5 @@
 [
   {
-    "digest_date_local": "2026-10-06",
-    "canonical_urls": [
-      "https://developer.nvidia.com/blog/aicr-v1-0-open-stable-and-verifiable-gpu-cluster-configuration",
-      "https://developer.nvidia.com/blog/control-how-your-gpu-shares-work-with-green-contexts",
-      "https://openai.com/index/atlassian-partnership",
-      "https://blogs.nvidia.com/blog/telecom-operators-open-models",
-      "https://huggingface.co/blog/tiiuae/falcon-emirati"
-    ],
-    "article_hashes": [
-      "704b90a84e93c542dd60eaae247e478cb42a23f699456cfdf031db01f8d4075e",
-      "5620120659a81e50f01df05f4db6f842cb99306828b40c50bfdce591727c6e32",
-      "2896758265cec81d95898858cf3558ac9cdd51e4e22038c8fc6ca0aa5193f521",
-      "33e718013b81e9f4cb7d9cd0d521d47760f65a9f6bd4c421075242d4bd116c1c",
-      "fe424883c3cacf664f5b2b38c48ff03e276a793b02e58aafe0d44ea5db932443"
-    ],
-    "titles": [
-      "AICR v1.0: Open, stable, and verifiable GPU cluster configuration",
-      "Control How Your GPU Shares Work with Green Contexts",
-      "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
-      "Why Telecom Operators Are Building Their AI Strategy on Open Models",
-      "Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance"
-    ],
-    "smtp_accepted_at_utc": "2026-10-06T17:25:27.296004Z"
-  },
-  {
     "digest_date_local": "2026-10-07",
     "canonical_urls": [
       "https://developer.nvidia.com/blog/validate-ai-factory-changes-with-digital-twins-and-ai-agents",
@@ -745,5 +720,30 @@
       "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out"
     ],
     "smtp_accepted_at_utc": "2026-11-04T18:52:52.545175Z"
+  },
+  {
+    "digest_date_local": "2026-11-05",
+    "canonical_urls": [
+      "https://developer.nvidia.com/blog/configure-certify-and-operate-kubernetes-gpu-clusters-with-nvidia-dsx-os",
+      "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash",
+      "https://blogs.nvidia.com/blog/nvidia-life-chris-alexiuk",
+      "https://developer.nvidia.com/blog/five-ways-nvidia-co-design-maximizes-the-value-of-every-byte-in-the-ai-factory",
+      "https://blogs.nvidia.com/blog/memory-full-stack-codesign"
+    ],
+    "article_hashes": [
+      "5ef5685b9690ae6c5fed696ecd7bdfe9370750ab39113e27a0e4c4c207b55633",
+      "485654c1f98a7cdcb6064f6e64d0e23046003494af425773d67115f9624ac235",
+      "1f284cf74f35c5cb7fd54f7276b8b096f3ae978939bcba397546a82945c10582",
+      "7a4fd1de9b53747b5e4cc10efd2a4b78cf890ca3e48e9cbbbb2dea74068be5e0",
+      "064fb88520fa5af6f591c843bd577c61ee6e0e174fcff59e762fc98fd76762f5"
+    ],
+    "titles": [
+      "Configure, Certify, and Operate Kubernetes GPU Clusters with NVIDIA DSX OS",
+      "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
+      "The Wizard of Open Weights: Chris Alexiuk Makes AI Easy With Open Models",
+      "Five Ways NVIDIA Co-Design Maximizes the Value of Every Byte in the AI Factory",
+      "More Performance From Every Byte: How Full-Stack Codesign Solves AI’s Memory Challenge"
+    ],
+    "smtp_accepted_at_utc": "2026-11-05T19:01:04.500494Z"
   }
 ]
