@@ -1,30 +1,5 @@
 [
   {
-    "digest_date_local": "2026-10-07",
-    "canonical_urls": [
-      "https://developer.nvidia.com/blog/validate-ai-factory-changes-with-digital-twins-and-ai-agents",
-      "https://developer.nvidia.com/blog/scaling-decision-optimization-to-100-million-variables-and-beyond-with-mpdlp-in-nvidia-cuopt",
-      "https://openai.com/index/teens-learn-and-plan",
-      "https://huggingface.co/blog/LiquidAI/open-d1",
-      "https://openai.com/index/radisson"
-    ],
-    "article_hashes": [
-      "2b3b48d8e55439fa1f3d1fed28a4027843b4498c213284311cf1d3766cb55333",
-      "3b31c130485ad58e87a40583ddc58203944677c3fe9e1c814d1180d0f426dd65",
-      "661f64ddb5f472a2675ed75a0fb09828b0ce7323472abe119ea9528dee004ac6",
-      "88e871d5a8d26738db20168d7fe4b9e05a7b8640818c7b2a626052e0332f27b0",
-      "4e324623ab7ca6fee0e142410ae1fff634372bb9b83078fd1d25f73483da7134"
-    ],
-    "titles": [
-      "Validate AI Factory Changes with Digital Twins and AI Agents",
-      "Scaling Decision Optimization to 100 Million Variables and Beyond with mPDLP in NVIDIA cuOpt",
-      "Helping teens learn, plan, and shape the future of AI",
-      "Multimodal open d1 decision models for the edge",
-      "Radisson Hotel Group brings hotel discovery into ChatGPT"
-    ],
-    "smtp_accepted_at_utc": "2026-10-07T17:58:18.059833Z"
-  },
-  {
     "digest_date_local": "2026-10-08",
     "canonical_urls": [
       "https://openai.com/index/oracle",
@@ -745,5 +720,30 @@
       "More Performance From Every Byte: How Full-Stack Codesign Solves AI’s Memory Challenge"
     ],
     "smtp_accepted_at_utc": "2026-11-05T19:01:04.500494Z"
+  },
+  {
+    "digest_date_local": "2026-11-06",
+    "canonical_urls": [
+      "https://developer.nvidia.com/blog/accelerating-reinforcement-learning-weight-refit-with-the-reshard-collective",
+      "https://blogs.nvidia.com/blog/telco-open-source-tools-research-6g-networks",
+      "https://blogs.nvidia.com/blog/vera-cpu-highest-throughput-fastest-agents",
+      "https://openai.com/index/partnering-with-hacktron",
+      "https://huggingface.co/blog/allenai/toyblocks"
+    ],
+    "article_hashes": [
+      "581dcf5cabc7cf1758ba78bbd20e50cc8bace3c99f071e7bb3a0ade49080f981",
+      "0676c12db8f0f583e52d70063b46f3fe0d6769d69c1e43089dbe5afd6ec9198e",
+      "cb9b318f703a0f1ab64226f6e35b5889d7d249c630ee29106952fded701edbbc",
+      "a0a44ed09dc9a1089b4e099f4e0fbf8e71ea906b8e386a1df3e114e9f9678292",
+      "5a90caffb2c87d2e6e8eb5c3f6e99436fe1d4b1da4789f4c2ad70b79f5a9dd5d"
+    ],
+    "titles": [
+      "Accelerating Reinforcement Learning Weight Refit with the Reshard Collective",
+      "How NVIDIA Open Source Tools Are Helping Researchers Build Next-Generation 6G Networks",
+      "Vera Delivers the Best of Both Worlds: Highest Throughput and Fastest Agents",
+      "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
+      "ToyBlocks: A controlled world for robot learning and evaluation"
+    ],
+    "smtp_accepted_at_utc": "2026-11-06T18:30:26.264873Z"
   }
 ]
