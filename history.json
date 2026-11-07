@@ -1,30 +1,5 @@
 [
   {
-    "digest_date_local": "2026-10-08",
-    "canonical_urls": [
-      "https://openai.com/index/oracle",
-      "https://openai.com/index/pollo-ai",
-      "https://machinelearning.apple.com/research/normalizing-trajectory-models",
-      "https://blogs.nvidia.com/blog/geforce-now-thursday-gears-of-war-e-day",
-      "https://blogs.nvidia.com/blog/local-ai-rtx-spark-microsoft-windows-event"
-    ],
-    "article_hashes": [
-      "db7b9e6fe248e3146f87743abb423de6e3dc46759771b422f1331a63b0725822",
-      "855092fba1df7e8a668bec1b409ac85f8b110a1f64384b826a3381f6d67156e4",
-      "a9f660862b14122b754b81c8b73ed12b4ae45c1ac84de6206c010c00eb55daad",
-      "3a27acd6fba5e7448ae857eba81e78b6857a634f6f3d21cd278f77e5364121b3",
-      "1815740c61d22b3c8c663f13e44921fb23a4e9d078b455bd88726cdcee104996"
-    ],
-    "titles": [
-      "How Oracle turns days of work into minutes with ChatGPT and Codex",
-      "Pollo AI turns creative ideas into campaigns with OpenAI",
-      "Normalizing Trajectory Models",
-      "Rally Up: ‘Gears of War: E-Day’ Launches on GeForce NOW",
-      "NVIDIA, Microsoft Kick Off a New Beginning for Windows PCs With RTX Spark and AI Agents"
-    ],
-    "smtp_accepted_at_utc": "2026-10-08T18:00:17.449227Z"
-  },
-  {
     "digest_date_local": "2026-10-09",
     "canonical_urls": [
       "https://huggingface.co/blog/allenai/impactful-scheduling",
@@ -745,5 +720,30 @@
       "ToyBlocks: A controlled world for robot learning and evaluation"
     ],
     "smtp_accepted_at_utc": "2026-11-06T18:30:26.264873Z"
+  },
+  {
+    "digest_date_local": "2026-11-07",
+    "canonical_urls": [
+      "https://developer.nvidia.com/blog/speed-up-image-generation-with-flux-3-image-klein-on-nvidia-blackwell-gpus",
+      "https://the-decoder.com/ai-auditors-catch-most-agent-misbehavior-but-flood-reviewers-with-false-alarms-new-study-finds",
+      "https://the-decoder.com/the-gap-between-open-and-closed-ai-models-in-cyber-capabilities-keeps-shrinking",
+      "https://the-decoder.com/nine-ai-agents-tried-autonomous-research-on-open-questions-from-us-national-labs-and-none-passed-the-experts-bar",
+      "https://the-decoder.com/openai-lands-an-11-billion-funding-round-but-has-to-court-dentists-for-more-capital"
+    ],
+    "article_hashes": [
+      "4e0aa3919fe104e56d23bd7addfd83989e40da5c9ac72ff3022c9b62b228a195",
+      "84a90cf43a8e57ada4dbbc1029ce2bbbeb25bcd9f495b8968ca4b8e8bb5b6381",
+      "95a6adf3fa16115df5745bd0b1d40f658367bdb4924e9fd9cbeddee6ef36af26",
+      "7e973ee05646ee77bbea813902f7f7b8df7822a1d2cfe6bb248c286b9753a18a",
+      "9d4df9d6340e650e4955bbdf67b8ff194e09a0476886db898d88c6f042716624"
+    ],
+    "titles": [
+      "Speed Up Image Generation with FLUX 3 Image Klein on NVIDIA Blackwell GPUs",
+      "AI auditors catch most agent misbehavior but flood reviewers with false alarms, new study finds",
+      "The gap between open and closed AI models in cyber capabilities keeps shrinking",
+      "Nine AI agents tried autonomous research on open questions from US national labs and none passed the experts' bar",
+      "OpenAI lands an $11 billion funding round, but has to court dentists for more capital"
+    ],
+    "smtp_accepted_at_utc": "2026-11-07T16:59:53.584003Z"
   }
 ]
