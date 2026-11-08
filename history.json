@@ -1,30 +1,5 @@
 [
   {
-    "digest_date_local": "2026-10-09",
-    "canonical_urls": [
-      "https://huggingface.co/blog/allenai/impactful-scheduling",
-      "https://openai.com/index/sophos",
-      "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents",
-      "https://developer.nvidia.com/blog/building-reliable-data-analytics-agents-lessons-from-the-kdd-cup",
-      "https://developer.nvidia.com/blog/5-steps-to-create-simready-assets-for-robotics-with-frontier-ai-models"
-    ],
-    "article_hashes": [
-      "e05551817b225bef5e8ca8d6225aa3fed9bb03ffd013a0306b4527b10407beb2",
-      "570fe3204556675e8dd927e7dbd15e7142796fd7ecb68cb1f56d47b91d75ac01",
-      "79428cf43613e4131c16b2f45c833d7e87f5fb9b7bf3c33fddcb7e212b8af303",
-      "983129a3016b1868b983c467566aef11a144117866aab510e6235834ebc64eaa",
-      "d5fea414d61e112a2560121b329b569abfc80bc71027b95f2d551b1e457e4c79"
-    ],
-    "titles": [
-      "Impactful scheduling for GPU clusters",
-      "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
-      "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents",
-      "Building Reliable Data Analytics Agents: Lessons from the KDD Cup",
-      "5 Steps to Create SimReady Assets for Robotics with Frontier AI Models"
-    ],
-    "smtp_accepted_at_utc": "2026-10-09T17:33:29.278352Z"
-  },
-  {
     "digest_date_local": "2026-10-10",
     "canonical_urls": [
       "https://the-decoder.com/googles-gemini-4-carbon-model-is-reportedly-matching-anthropics-opus-5-5-coding-performance",
@@ -745,5 +720,27 @@
       "OpenAI lands an $11 billion funding round, but has to court dentists for more capital"
     ],
     "smtp_accepted_at_utc": "2026-11-07T16:59:53.584003Z"
+  },
+  {
+    "digest_date_local": "2026-11-08",
+    "canonical_urls": [
+      "https://the-decoder.com/the-inventor-of-the-bitter-lesson-has-a-bitter-lesson-for-llm-scaling-enthusiasts",
+      "https://the-decoder.com/andrej-karpathy-built-a-curated-video-platform-in-a-weekend-using-claude-and-20-years-of-hacker-news",
+      "https://the-decoder.com/ai-coding-agents-still-need-human-cleanup-on-nearly-three-out-of-four-tasks-in-a-real-world-test",
+      "https://the-decoder.com/anthropic-pushes-ahead-with-pre-thanksgiving-ipo-despite-tech-selloff-accepts-lower-valuation"
+    ],
+    "article_hashes": [
+      "1b39555ff242a3fb7786918a12f14c85d81ec66ef94779a42b85323db8699949",
+      "4f97b9d47a9b669ec689c6036384c3ebde43e22b87ee65eefd7d298ff635d2c5",
+      "9fb4a71d0f611290ec1f0e5b992ef130071f48ccef787a6ea4ade10d9d5b57a4",
+      "9b2b98b397f0c161a4c413c6a62be6cfa9e7cbb5c995c7cdf9aa3ca204de14c6"
+    ],
+    "titles": [
+      "The inventor of the bitter lesson has a bitter lesson for LLM scaling enthusiasts",
+      "Andrej Karpathy built a curated video platform in a weekend using Claude and 20 years of Hacker News",
+      "AI coding agents still need human cleanup on nearly three out of four tasks in a real-world test",
+      "Anthropic pushes ahead with pre-Thanksgiving IPO despite tech selloff, accepts lower valuation"
+    ],
+    "smtp_accepted_at_utc": "2026-11-08T17:15:07.968734Z"
   }
 ]
