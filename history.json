@@ -1,30 +1,5 @@
 [
   {
-    "digest_date_local": "2026-10-10",
-    "canonical_urls": [
-      "https://the-decoder.com/googles-gemini-4-carbon-model-is-reportedly-matching-anthropics-opus-5-5-coding-performance",
-      "https://the-decoder.com/openai-says-a-misaligned-model-deliberately-destroyed-its-own-environment-hoping-for-a-fresh-start-with-better-data",
-      "https://the-decoder.com/how-much-beauty-have-we-lost-mathematicians-react-with-shock-and-disgust-as-openai-bulldozes-their-field",
-      "https://the-decoder.com/anthropics-claude-can-now-orchestrate-up-to-1000-ai-agents-in-parallel-through-dynamic-workflows",
-      "https://the-decoder.com/anthropic-cuts-off-claudes-internet-access-after-the-model-autonomously-filed-a-fake-homicide-tip-with-philadelphia-police"
-    ],
-    "article_hashes": [
-      "542bfd6875d581ac90dc7b147c4fd0f437d49fca795d8ee7cccdaa8ba08822c8",
-      "2feddd78eefa18924307b1cc8ff2d3b4b0a27464a0f420170095db16babff6e3",
-      "08895c7db6a38be762b398510c0f97e75538ba6b95fe4472d5f85354ad485130",
-      "c2ec1f26f2a87a1b8dc79e14d36968673f46c3559d0238433a04ea6ee5278c5d",
-      "a1b5b1c5b7c1c4c49319da029e2c729a4046ce9b7d970056c17ddbc079b93a35"
-    ],
-    "titles": [
-      "Google's Gemini 4 \"Carbon\" model reportedly feels like Anthropic's Opus 5.5 coding performance",
-      "OpenAI says a misaligned model deliberately destroyed its own environment hoping for a fresh start with better data",
-      "\"How much beauty have we lost?\" Mathematicians react with shock and disgust as OpenAI bulldozes their field",
-      "Anthropic's Claude can now orchestrate up to 1,000 AI agents in parallel through dynamic workflows",
-      "Anthropic cuts off Claude's internet access after the model autonomously filed a fake homicide tip with Philadelphia police"
-    ],
-    "smtp_accepted_at_utc": "2026-10-10T16:23:30.704701Z"
-  },
-  {
     "digest_date_local": "2026-10-11",
     "canonical_urls": [
       "https://the-decoder.com/ai-agents-overstate-their-results-and-remain-far-from-autonomous-research-study-finds",
@@ -742,5 +717,30 @@
       "Anthropic pushes ahead with pre-Thanksgiving IPO despite tech selloff, accepts lower valuation"
     ],
     "smtp_accepted_at_utc": "2026-11-08T17:15:07.968734Z"
+  },
+  {
+    "digest_date_local": "2026-11-09",
+    "canonical_urls": [
+      "https://blogs.nvidia.com/blog/korea-sovereign-ai-collaboration",
+      "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
+      "https://blogs.nvidia.com/blog/korean-startup-investments-msit",
+      "https://developer.nvidia.com/blog/make-a-robot-arm-feel-weightless-with-nvidia-holoscan-5",
+      "https://blogs.nvidia.com/blog/korea-secure-agentic-ai"
+    ],
+    "article_hashes": [
+      "698f0868e7dfb4466fa9ba553bfd72446c3287769c2c6eeb82db13c1890f3276",
+      "caa9073cefb43725f1a58e80c726b61b1142cf3c90f98b3ffe382a94354b7081",
+      "86c270bf47b54ff7a1abd1cad344610cca6284cfddc8db763b2e14f14e1fcb8c",
+      "2379109f43cc3c2befa8b74a0aba6da4683b833faf439122743e232fb7ef3853",
+      "77625322d468416753cd2c75a15149130e9fac1180cfa7924128d741c71ab51f"
+    ],
+    "titles": [
+      "From Chips to Skills, NVIDIA and Korea Expand Sovereign AI Collaboration",
+      "ChatGPT Enterprise now available in AWS Marketplace",
+      "NVIDIA Announces New Planned Investments in Korean Startups at the MSIT-NVIDIA AI Startup Partnership Forum",
+      "Make a Robot Arm Feel Weightless with NVIDIA Holoscan 5",
+      "Korea’s AI Ecosystem Advances and Secures Agentic AI With NVIDIA"
+    ],
+    "smtp_accepted_at_utc": "2026-11-09T21:38:23.361383Z"
   }
 ]
