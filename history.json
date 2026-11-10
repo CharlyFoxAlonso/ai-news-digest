@@ -1,27 +1,5 @@
 [
   {
-    "digest_date_local": "2026-10-11",
-    "canonical_urls": [
-      "https://the-decoder.com/ai-agents-overstate-their-results-and-remain-far-from-autonomous-research-study-finds",
-      "https://the-decoder.com/ai-agent-teams-waste-massive-tokens-for-barely-measurable-quality-gains-research-finds",
-      "https://the-decoder.com/microsofts-nadella-bows-to-trumps-language-diktat-on-super-intelligence-and-uses-it-to-attack-openai-and-anthropic",
-      "https://the-decoder.com/cheaper-ai-tokens-are-driving-more-demand-and-thats-jensen-huangs-best-case-scenario"
-    ],
-    "article_hashes": [
-      "897c5c068b8ee90b69a55b50d9a11a217db8ece59155c7b994be46f8ffc370bc",
-      "42aeb8f4f70e9737602a98f591d970571de95650aee1099352e0fe179cc78bc8",
-      "d7a6941a299e303e9a94ccf8cf96256d63b4b1e9583819ba1af4062639d6fa0d",
-      "f49465ec9666419bf14185c350100e25b5be68308cba379a11d5911a244a50ea"
-    ],
-    "titles": [
-      "AI agents overstate their results and remain far from autonomous research, study finds",
-      "AI agent teams waste massive tokens for barely measurable quality gains, research finds",
-      "Microsoft's Nadella bows to Trump's language diktat on \"Super Intelligence\" and uses it to attack OpenAI and Anthropic",
-      "Cheaper AI tokens are driving more demand, and that's Jensen Huang's best-case scenario"
-    ],
-    "smtp_accepted_at_utc": "2026-10-11T16:46:50.105260Z"
-  },
-  {
     "digest_date_local": "2026-10-12",
     "canonical_urls": [
       "https://developer.nvidia.com/blog/replayssm-rethinking-state-storage-for-faster-hybrid-model-decoding",
@@ -742,5 +720,30 @@
       "Korea’s AI Ecosystem Advances and Secures Agentic AI With NVIDIA"
     ],
     "smtp_accepted_at_utc": "2026-11-09T21:38:23.361383Z"
+  },
+  {
+    "digest_date_local": "2026-11-10",
+    "canonical_urls": [
+      "https://developer.nvidia.com/blog/agent-substrate-advancing-kubernetes-for-agents-at-scale",
+      "https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration",
+      "https://developer.nvidia.com/blog/start-and-restore-gpu-workloads-in-seconds-with-nvidia-snapshot",
+      "https://developer.nvidia.com/blog/running-av-reasoning-models-within-onboard-compute-and-latency-limits",
+      "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life"
+    ],
+    "article_hashes": [
+      "a8c416e2c7748124802b5f5d2748921db20a6cfd917c4c1d0d3799d49ee54809",
+      "e192e4f92a704298f96f725cc3ae96c30d788d917e1f7b38ef8d7e63567c6b73",
+      "25d05ca668539a6649120826650c5f6332de168775bc354d2e1530fbc07daee2",
+      "031b00b4f99d2f30104c24cfc5063a2f8b1c2663e964578c84f03ef4c5b723fb",
+      "0f0020abcf733229d29f4d40e095eae692bb4a4c21852ac4cbeb6daf98f1617e"
+    ],
+    "titles": [
+      "Agent Substrate: Advancing Kubernetes for Agents at Scale",
+      "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
+      "Start and Restore GPU Workloads in Seconds with NVIDIA Snapshot",
+      "Running AV Reasoning Models Within Onboard Compute and Latency Limits",
+      "Helping caregivers use AI in everyday life"
+    ],
+    "smtp_accepted_at_utc": "2026-11-10T18:52:27.104747Z"
   }
 ]
