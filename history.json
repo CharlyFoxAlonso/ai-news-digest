@@ -1,30 +1,5 @@
 [
   {
-    "digest_date_local": "2026-10-12",
-    "canonical_urls": [
-      "https://developer.nvidia.com/blog/replayssm-rethinking-state-storage-for-faster-hybrid-model-decoding",
-      "https://blogs.nvidia.com/blog/ocp-global-summit-vera-rubin-scale-ai-factories",
-      "https://ir.amd.com/news-events/press-releases/detail/1301/introducing-amd-helion-agentic-ai-compute-at-rack-scale",
-      "https://the-decoder.com/white-house-reverses-course-and-restores-uk-ai-safety-institutes-access-to-frontier-models",
-      "https://the-decoder.com/anthropics-andrej-karpathy-says-the-external-world-has-seen-the-preview-of-what-ai-can-actually-do"
-    ],
-    "article_hashes": [
-      "c88f4119c47166d435fd6fb867d126c39f20c5b1d702f0346ef7eab9cad002be",
-      "9e0276cba47ca07d702d825d137e14ee4a8d66dfeb3690ac5b8de045f1ad4ca7",
-      "013238a25b04ff0a4da61ed5744d87431c578f21781609dbb80a326fa7441f55",
-      "dc5ad5b4c589bf614c9319ea8b3c10429bd3bded5ce7dce29b1548fa9bf2baad",
-      "d5d26011caeaf03d6767d910c66a4a765b3ef7a970c390f49c433965b6172af6"
-    ],
-    "titles": [
-      "ReplaySSM: Rethinking State Storage for Faster Hybrid-Model Decoding",
-      "OCP Global Summit: Amid Ecosystem Adoption, NVIDIA Opens Vera Rubin Architecture to Help Scale AI Factories Worldwide",
-      "Introducing AMD Helion, Agentic AI Compute at Rack Scale",
-      "White House reverses course and restores UK AI Safety Institute's access to frontier models",
-      "Anthropic's Andrej Karpathy says \"the external world has seen the preview\" of what AI can actually do"
-    ],
-    "smtp_accepted_at_utc": "2026-10-12T20:25:47.324550Z"
-  },
-  {
     "digest_date_local": "2026-10-13",
     "canonical_urls": [
       "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon",
@@ -745,5 +720,30 @@
       "Helping caregivers use AI in everyday life"
     ],
     "smtp_accepted_at_utc": "2026-11-10T18:52:27.104747Z"
+  },
+  {
+    "digest_date_local": "2026-11-11",
+    "canonical_urls": [
+      "https://developer.nvidia.com/blog/validating-gpu-platforms-with-runtime-ai-inventory-via-the-nvidia-dsx-ai-factory",
+      "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api",
+      "https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop",
+      "https://openai.com/index/chatgpt-plus-for-veterans",
+      "https://blog.google/company-news/outreach-and-initiatives/arts-culture/esther-mahlangu"
+    ],
+    "article_hashes": [
+      "4b30bf9e8a4d0303bec665cd960e60d052b02d3a091e7e52f906bbda434c2368",
+      "02bfed5e7aa817ea9dcb99d63f8534e8e78ab10e8ae50e00c6e9b6a68bd6b403",
+      "3d65ccc2f5cdce6978b37fa7c64320f9c0126555eece5a35f17a2f7ec9258a94",
+      "ac94b61a25ade5edbf713f0897cc9ad6ba8f24621b9aed0d512136947920d1f0",
+      "e09fad6dcc25f1ba697cd45e185fe8f5ec3b5d7d479a5ffc72c9feac3611ce3e"
+    ],
+    "titles": [
+      "Validating GPU Platforms with Runtime AI Inventory via the NVIDIA DSX AI Factory",
+      "Gemini Decisions API: Fast, calibrated multimodal decisions",
+      "Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.",
+      "ChatGPT Plus for veterans and servicemembers",
+      "Experience the art and legacy of Dr. Esther Mahlangu"
+    ],
+    "smtp_accepted_at_utc": "2026-11-11T18:53:01.880030Z"
   }
 ]
