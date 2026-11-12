@@ -1,30 +1,5 @@
 [
   {
-    "digest_date_local": "2026-10-13",
-    "canonical_urls": [
-      "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon",
-      "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b",
-      "https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-software-updates",
-      "https://machinelearning.apple.com/research/mix-dont-tune",
-      "https://developer.nvidia.com/blog/nvidia-runai-is-now-open-source-as-part-of-nvidia-dsx-ai-factory-platform"
-    ],
-    "article_hashes": [
-      "ed1be8ea5f53c7373a9c44e9eac0273d1adbb7107c6453b9da7b6d9e6a52dfb0",
-      "53911f98c21c784fce1ad32ff03581a81f8dabebaf6d23b86827f6c51a0cda80",
-      "a4bbae21d3b4c9572ce6de8017e44ce70d5cd63d7946aa77bbb22ba2b44949c7",
-      "3a474d73c07650bcabb4521a937b5c9483554198dd26c3ede05e140dec801109",
-      "709864dc2d811aa2ce748dfff3d83694850fecea870b84df1aade89afde6a96c"
-    ],
-    "titles": [
-      "Gemini 4 Argon: Built to solve your hardest problems",
-      "Run fast, private agents on-device with LFM2.5-24B-A2B",
-      "All Systems Go: Global PC App Ecosystem Ready for NVIDIA RTX Spark",
-      "Mix, Don't Tune: Bilingual Pre-Training Outperforms Hyperparameter Search in Data-Constrained Settings",
-      "NVIDIA Run:ai Is Now Open Source as Part of NVIDIA DSX AI Factory Platform"
-    ],
-    "smtp_accepted_at_utc": "2026-10-13T18:31:08.567340Z"
-  },
-  {
     "digest_date_local": "2026-10-14",
     "canonical_urls": [
       "https://machinelearning.apple.com/research/tri-modal-masked-diffusion",
@@ -745,5 +720,30 @@
       "Experience the art and legacy of Dr. Esther Mahlangu"
     ],
     "smtp_accepted_at_utc": "2026-11-11T18:53:01.880030Z"
+  },
+  {
+    "digest_date_local": "2026-11-12",
+    "canonical_urls": [
+      "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
+      "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade",
+      "https://blogs.nvidia.com/blog/geforce-now-thursday-warhammer-dawn-of-war-iv-coming",
+      "https://openai.com/business/customer-stories/holidays-extras-codex",
+      "https://machinelearning.apple.com/research/theoretical-limits-alignment"
+    ],
+    "article_hashes": [
+      "84ec87286cb35a64f463f0646caa372ff180d409581b33a91619e73354134567",
+      "d6d23163b98ddfa1ea7abe70bc203135c9b8d10c4c268a6dbaa304f2c460d6b1",
+      "bb315cafa402d8202158b92c80fb3b631d48dc04c903437f557bc009a7871f52",
+      "4922ca6fb0dd92994c349853518621d0422aac137e6c9a194fc01e08fc5408aa",
+      "c42330bc780a526148da04cd54d03f779fb331d39e566c30676f4fb8a6886d94"
+    ],
+    "titles": [
+      "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
+      "Google Search gets a major upgrade with Gemini 4 Hydrogen",
+      "A New Dawn in the Cloud: ‘Warhammer 40,000: Dawn of War IV’ Is Coming to GeForce NOW",
+      "Holiday Extras is rethinking what it can build with Codex",
+      "Theoretical Limits of Language Model Alignment"
+    ],
+    "smtp_accepted_at_utc": "2026-11-12T19:09:31.873250Z"
   }
 ]
