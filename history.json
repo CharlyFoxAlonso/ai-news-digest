@@ -1,30 +1,5 @@
 [
   {
-    "digest_date_local": "2026-10-14",
-    "canonical_urls": [
-      "https://machinelearning.apple.com/research/tri-modal-masked-diffusion",
-      "https://developer.nvidia.com/blog/rewrite-apache-spark-udfs-gpu-acceleration-ai-agents",
-      "https://blogs.nvidia.com/blog/european-cities-agents-urban-operations",
-      "https://openai.com/index/third-moment-research",
-      "https://blogs.nvidia.com/blog/uk-ecosystem-deployment"
-    ],
-    "article_hashes": [
-      "aa65eb3ab36b5eef10afd8013f57ac938e7f406160eadcec57c2cf92b2630f43",
-      "9105929b3b08daedb2b46546bfe42b74d34b7d99a8ce6e338202f293e8cd1d7a",
-      "51408f953358d0aa86346bc79bde4ef810aec87aa95b1fa11d4d2c6afa273cf3",
-      "a8b8c31de898145e14c82e5a132c6ade438a779372caca6da84483874bea0325",
-      "07ac7e56c4dbe5bbeea48de616f7e65bc6cfe4ed920c4019d26a4fe1ccf5085e"
-    ],
-    "titles": [
-      "The Design Space of Tri-Modal Masked Diffusion Models",
-      "How to Rewrite Apache Spark UDFs for GPU Acceleration with AI Agents",
-      "European Cities Deploy NVIDIA-Powered AI Agents to Run Smarter Urban Operations",
-      "How Third Moment Research runs 10,000 agents for 36+ hours",
-      "From Enterprise to Earthshot: UK’s Ecosystem Moves From Ambition to Application With NVIDIA"
-    ],
-    "smtp_accepted_at_utc": "2026-10-14T15:58:11.351854Z"
-  },
-  {
     "digest_date_local": "2026-10-15",
     "canonical_urls": [
       "https://developer.nvidia.com/blog/nvidia-nemotron-3-5-super-vl-powers-specialized-agents-with-multimodal-reasoning",
@@ -745,5 +720,30 @@
       "Theoretical Limits of Language Model Alignment"
     ],
     "smtp_accepted_at_utc": "2026-11-12T19:09:31.873250Z"
+  },
+  {
+    "digest_date_local": "2026-11-13",
+    "canonical_urls": [
+      "https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm",
+      "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+      "https://openai.com/index/introducing-chatgpt-wallet",
+      "https://developer.nvidia.com/blog/adapt-human-motion-for-robots-with-nvidia-soma-retargeter",
+      "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place"
+    ],
+    "article_hashes": [
+      "afe19bd014a42e97b97bbdc4c5dc105188fae4f3a1474d657aece48d02efda34",
+      "6841e619fcd7e8d9370258a227590a244c9afe604f7f173c18d14806c323db86",
+      "7d4d71d056da02862d0b2ec1b87dadd7019731481c576401840bf8ff718ee663",
+      "a50f32ed0276415adad3963b3e820b84c89f929edf022b03ca09ae1f89f018f0",
+      "cdc8eef67bc55a0d0fa5ca86f75a39576cb4cd55b8ad20129c59ea60f80062cd"
+    ],
+    "titles": [
+      "When One GPU Isn’t Enough: Serving GLM-5.3 Across Two NVIDIA DGX Stations with vLLM",
+      "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+      "Introducing ChatGPT Wallet",
+      "Adapt Human Motion for Robots with NVIDIA SOMA Retargeter",
+      "Build a Robot Pick-and-Place Simulation with SimReady Assets"
+    ],
+    "smtp_accepted_at_utc": "2026-11-13T18:47:21.468409Z"
   }
 ]
