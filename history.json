@@ -1,30 +1,5 @@
 [
   {
-    "digest_date_local": "2026-10-15",
-    "canonical_urls": [
-      "https://developer.nvidia.com/blog/nvidia-nemotron-3-5-super-vl-powers-specialized-agents-with-multimodal-reasoning",
-      "https://blogs.nvidia.com/blog/geforce-now-thursday-enshrouded-update",
-      "https://blogs.nvidia.com/blog/nemotron-3-5-super-vl",
-      "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
-      "https://developer.nvidia.com/blog/optimizing-agent-reliability-and-tool-calling-efficiency-for-chip-design-using-nvidia-nemo-gym"
-    ],
-    "article_hashes": [
-      "c04bb70f1b05d38a0ca564972dc37d07f1a6b9fa87c35a77ad7a5b763b98c435",
-      "a3afbad9ec0e6d6ec6fc7de853aafcafd11295a87f201debb85067c64b21a6f7",
-      "369f65bd0511e1b4da8810c83fb63da643cf0e2b76b52d1d8fce0d2cf8aa6d4a",
-      "a60f4a701f887ae8f46b94e06646a5fb82b2851c561d6cf99f41823c6f66011d",
-      "d98fc085b7493311c6d0c380cb660452318323f8e80fae1f7fc41bd5d9c937a3"
-    ],
-    "titles": [
-      "NVIDIA Nemotron 3.5 Super VL Powers Specialized Agents with Multimodal Reasoning",
-      "Dial Up the Cloud: NVIDIA DLSS 4.5 Controls Arrive on GeForce NOW",
-      "Open From Data Center to Desktop: NVIDIA Expands Nemotron Family With Highest Efficiency Super VL and Bolt Models",
-      "Teaching students to think and learn through questions",
-      "Optimizing Agent Reliability and Tool Calling Efficiency for Chip Design Using NVIDIA NeMo Gym"
-    ],
-    "smtp_accepted_at_utc": "2026-10-15T15:45:09.418972Z"
-  },
-  {
     "digest_date_local": "2026-10-16",
     "canonical_urls": [
       "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
@@ -745,5 +720,30 @@
       "Build a Robot Pick-and-Place Simulation with SimReady Assets"
     ],
     "smtp_accepted_at_utc": "2026-11-13T18:47:21.468409Z"
+  },
+  {
+    "digest_date_local": "2026-11-14",
+    "canonical_urls": [
+      "https://developer.nvidia.com/blog/run-native-dla-inference-in-python-on-nvidia-jetson-agx-orin-using-cudla",
+      "https://the-decoder.com/gemini-4-carbon-takes-the-matharena-crown-but-costs-15-times-more-than-gpt-6-1-sol",
+      "https://developer.nvidia.com/blog/run-gpu-powered-black-hole-interferometry-with-nvidia-cuphoton",
+      "https://the-decoder.com/runways-open-source-praxis-1-turns-video-ai-into-a-robot-controller",
+      "https://developer.nvidia.com/blog/faster-scientific-simulations-with-new-fp64-algorithms-in-nvidia-cublas"
+    ],
+    "article_hashes": [
+      "b46b6bb43e745acd7c60d611c5a21bcaa0e6cf04f7a8461fa0b53e1f8750ebb4",
+      "da064ff05244322e2a50470cb8230f0da249bf580e9d812e47eb7f58a29c8bbd",
+      "8fc5d8ced20e6bdd730b9858c029668d7f70fe36ad7091bfc5dbd570f4fe5aa8",
+      "456ace67e0015fb35982e18291cde43d75fea447a9113a6f2f1983a95fa51638",
+      "fbc50dc6203beec2f155bc3c6cc61564fe57805afc1991f1fb0c4ed076b0d9b7"
+    ],
+    "titles": [
+      "Run Native DLA Inference in Python on NVIDIA Jetson AGX Orin Using cuDLA",
+      "Gemini 4 Carbon takes the MathArena crown but costs 15 times more than GPT-6.1 Sol",
+      "Run GPU-Powered Black Hole Interferometry with NVIDIA cuPhoton",
+      "Runway's open-source Praxis-1 turns video AI into a robot controller",
+      "Faster Scientific Simulations with New FP64 Algorithms in NVIDIA cuBLAS"
+    ],
+    "smtp_accepted_at_utc": "2026-11-14T17:18:58.491652Z"
   }
 ]
