@@ -1,30 +1,5 @@
 [
   {
-    "digest_date_local": "2026-10-16",
-    "canonical_urls": [
-      "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
-      "https://developer.nvidia.com/blog/scale-agentic-coding-workflows-with-metas-muse-spark-open-on-nvidia-gb300-nvl72",
-      "https://huggingface.co/blog/ibm-granite/granite-switch-4-1",
-      "https://blogs.nvidia.com/blog/local-ai-rtx-spark-launch-event-invite",
-      "https://openai.com/index/introducing-the-rosalind-academic-plan"
-    ],
-    "article_hashes": [
-      "138e9b7e7d9747243aa585f555fbf6f3d58b687e3498b374de6b74802266db21",
-      "93a3c6a05f584f10feb6e119b2166c2f1e808d3c8180996d8ca237599031ea1a",
-      "d330643595776f9f542e9f48a636499dcc2c3968ee0ccb07e6ba5a41a8cbcae0",
-      "468b3077a208433fef72cd219c6e669c681b8848befa482983bb31454be80466",
-      "32165ee6af8945a5bd83e4231d3e052413905bc21e8455b93c147e03ace99490"
-    ],
-    "titles": [
-      "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
-      "Scale Agentic Coding Workflows with Meta’s Muse Spark Open on NVIDIA GB300 NVL72",
-      "Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
-      "Be There for the Beginning: Celebrate the Launch of NVIDIA RTX Spark",
-      "Bringing GPT-Rosalind to academic research labs"
-    ],
-    "smtp_accepted_at_utc": "2026-10-16T15:34:27.528707Z"
-  },
-  {
     "digest_date_local": "2026-10-17",
     "canonical_urls": [
       "https://developer.nvidia.com/blog/code-test-and-deploy-on-one-machine-with-nvidia-rtx-spark",
@@ -745,5 +720,30 @@
       "Faster Scientific Simulations with New FP64 Algorithms in NVIDIA cuBLAS"
     ],
     "smtp_accepted_at_utc": "2026-11-14T17:18:58.491652Z"
+  },
+  {
+    "digest_date_local": "2026-11-15",
+    "canonical_urls": [
+      "https://the-decoder.com/meituan-releases-a-1-6-trillion-parameter-agent-model-that-never-touched-an-nvidia-gpu",
+      "https://the-decoder.com/anthropics-claude-fable-5-2-doesnt-generate-images-it-paints-them",
+      "https://the-decoder.com/firm-linked-to-jensen-huangs-ex-lover-reportedly-brokered-nearly-12-billion-in-nvidia-chip-orders-for-china",
+      "https://the-decoder.com/australias-central-bank-finds-ai-hitting-young-workers-first-especially-in-software-and-customer-service",
+      "https://the-decoder.com/anthropic-ceo-amodei-admits-theres-a-huge-uncertainty-in-whats-going-to-happen-next-year-days-before-a-record-ipo"
+    ],
+    "article_hashes": [
+      "a720dacef8969fc0afab63c3b8b5d0635bc6dd7a37e828ffff59b16548fe2979",
+      "63175f90faa0b2db66a22863a5c52bbefcea5ec617a3718b18bc928f26ce63ef",
+      "b652366d4a49aac68ff75fe7df8f183d2cff69d6fb773cee0ad81c1fdc3182a3",
+      "7e59a840b84001132496f1f517b043609155adf9cb8f5630011aaaa741d3da53",
+      "17fc6ede4247840a5e90abe04f6b76a018279c56672d2589aac14a74258da963"
+    ],
+    "titles": [
+      "Meituan releases a 1.6-trillion-parameter agent model that never touched an Nvidia GPU",
+      "Anthropic's Claude Fable 5.2 doesn't generate images, it paints them",
+      "Firm linked to Jensen Huang's ex-lover reportedly brokered nearly $12 billion in Nvidia chip orders for China",
+      "Australia's central bank finds AI hitting young workers first, especially in software and customer service",
+      "Anthropic CEO Amodei admits \"there's a huge uncertainty in what's going to happen next year\" days before a record IPO"
+    ],
+    "smtp_accepted_at_utc": "2026-11-15T17:59:43.093434Z"
   }
 ]
