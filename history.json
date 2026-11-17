@@ -1,30 +1,5 @@
 [
   {
-    "digest_date_local": "2026-10-18",
-    "canonical_urls": [
-      "https://the-decoder.com/anthropic-consults-law-firms-to-set-fair-negotiation-norms-before-ai-agents-start-cutting-deals",
-      "https://blogs.nvidia.com/blog/local-ai-rtx-spark-windows-laptops-celebration",
-      "https://the-decoder.com/anthropic-has-nearly-stopped-hiring-junior-staff-because-ai-agents-now-work-six-times-as-many-hours",
-      "https://the-decoder.com/four-gemini-4-argon-agents-beat-minecraft-without-any-human-help",
-      "https://the-decoder.com/ai-agents-have-bad-taste-in-long-term-decisions-and-a-new-benchmark-proves-it"
-    ],
-    "article_hashes": [
-      "6e0a746c498ff8c2c3d7125b1ce694923b1d67955f70add2d4eb71e18c4326bc",
-      "b4411b0822cf9012a1090d971c9b07e7c34b9b89f5ce6327f6fb3096cf482acf",
-      "5365820f4dd21c16b624bdc666256458ed4b94c60e2615421366431762bd6e76",
-      "3174ec059a8695ea08ad86da5208c668c627a4ec30249eea3a4effae5800b678",
-      "8e1750f4fd35f6018c78e7f0e98995f02e539f13fd706db2ab432075e2117ae0"
-    ],
-    "titles": [
-      "Anthropic consults law firms to set fair negotiation norms before AI agents start cutting deals",
-      "RTX Spark Ignites Global Celebration as New Windows PCs Arrive",
-      "Anthropic has nearly stopped hiring junior staff because AI agents now work six times as many hours",
-      "Four Gemini 4 Argon agents beat Minecraft without any human help",
-      "AI agents have bad taste in long-term decisions and a new benchmark proves it"
-    ],
-    "smtp_accepted_at_utc": "2026-10-18T14:51:33.949972Z"
-  },
-  {
     "digest_date_local": "2026-10-19",
     "canonical_urls": [
       "https://developer.nvidia.com/blog/accelerating-mamba-2-with-high-performance-forward-pass-kernels-in-nvidia-cuda-tile",
@@ -745,5 +720,30 @@
       "NVIDIA Sweeps MLPerf Training and Endpoints as Vera Rubin Debuts With Leading Performance"
     ],
     "smtp_accepted_at_utc": "2026-11-16T21:15:23.951005Z"
+  },
+  {
+    "digest_date_local": "2026-11-17",
+    "canonical_urls": [
+      "https://developer.nvidia.com/blog/co-designing-sparse-attention-for-efficient-long-context-inference",
+      "https://openai.com/index/introducing-gpt-6-2-astra-sol",
+      "https://blogs.nvidia.com/blog/ian-buck-sc26",
+      "https://developer.nvidia.com/blog/integrating-qpus-into-supercomputing-centers-using-slurm-hres-plugins",
+      "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features"
+    ],
+    "article_hashes": [
+      "ef0668bcb4a436fa3ea78ed7ba6b6a4ae9a2e74803e6dd2cfc5799a12a10ae44",
+      "8f6af8c44a4a1bfb5de31585ff7d049da9f0b0c7303ae5eb79fd652e216c50e9",
+      "011b27afc6a841bff218ff10f7e7a10a5094a3a75295a7bb8ab437c19b3b0ee7",
+      "78dc02735e6e4c3976761a41346781cbe08d9e658351fb2ef97b449f2968d385",
+      "830da74434e8505c737e91eb0dcd32bca128e663d8b67dd821f376fcc24bd3aa"
+    ],
+    "titles": [
+      "Co-Designing Sparse Attention for Efficient Long-Context Inference",
+      "Introducing GPT-6.2 Astra and Sol",
+      "Ian Buck Kicks Off NVIDIA’s Week at SC26 as Science Enters the Age of Agents",
+      "Integrating QPUs into Supercomputing Centers Using Slurm HRES Plugins",
+      "Put Gemini to work for you"
+    ],
+    "smtp_accepted_at_utc": "2026-11-17T20:02:43.842847Z"
   }
 ]
