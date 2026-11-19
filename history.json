@@ -1,30 +1,5 @@
 [
   {
-    "digest_date_local": "2026-10-20",
-    "canonical_urls": [
-      "https://blogs.nvidia.com/blog/spain-startups-barcelona-supercomputing-center",
-      "https://huggingface.co/blog/ibm-research/altk-evolve-bc",
-      "https://huggingface.co/blog/anylanguagemodel-1-0",
-      "https://huggingface.co/blog/mps-pytorch-2-15",
-      "https://huggingface.co/blog/hf-torchtpu"
-    ],
-    "article_hashes": [
-      "9854cc575096db6c57016525910e1353ef35a2aca0caefda5ff93c6b92ff4044",
-      "536f23cd94f139849c62e2753108d37e174f900ce6ec52ef90b6a207f9a80da1",
-      "41fb25a47d12d204a957e1afcc5f8bbcaa2e18e833e937826e6c4d8fb5abdfdb",
-      "c2b4b68d7e0027f0e4366133eb322fd84020df1d31b2a05734fa7c44edc22eb2",
-      "39e60f901a735303e0c0ae9b731fee2baf79f5edd599caf7944297514c7c53bb"
-    ],
-    "titles": [
-      "Spain-Based Startups Advance Regional Innovation With Barcelona Supercomputing Center",
-      "ALTK-Evolve: How learned memory tops the τ²-bench leaderboard on customer service tasks without a frontier model",
-      "AnyLanguageModel 1.0: One Year of Local Models on Apple Platforms",
-      "MPS in PyTorch 2.15",
-      "Hugging Face ❤️ TorchTPU: TPUs, Natively"
-    ],
-    "smtp_accepted_at_utc": "2026-10-20T15:50:37.863875Z"
-  },
-  {
     "digest_date_local": "2026-10-21",
     "canonical_urls": [
       "https://blogs.nvidia.com/blog/cudss-generally-available-engineering-scientific-simulation",
@@ -745,5 +720,30 @@
       "Why your fine-tuning job takes longer than the FLOPs say"
     ],
     "smtp_accepted_at_utc": "2026-11-18T19:37:19.206556Z"
+  },
+  {
+    "digest_date_local": "2026-11-19",
+    "canonical_urls": [
+      "https://developer.nvidia.com/blog/build-tool-calling-parsers-in-rust-with-ai-agents",
+      "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents",
+      "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval",
+      "https://developer.nvidia.com/blog/enabling-real-time-ai-for-scientific-instruments-with-gpu-native-data-acquisition",
+      "https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson"
+    ],
+    "article_hashes": [
+      "2d01b6350c2d3fb2cb0f094ebea1e54ac0283d7c876b10c26b8f121dfc6b7796",
+      "79428cf43613e4131c16b2f45c833d7e87f5fb9b7bf3c33fddcb7e212b8af303",
+      "056cf0b58a3dbace68332c5ef6b35e38e3aab513ff13bc25aa1cb803bce8b627",
+      "a165ab416a9d4037a704446e296e2c4b5c0d0e9aa51458e636c9fa63f5dfaa80",
+      "63610b904de29506452ac1fba7c8cb0b4b76c98f0fb6fd62dc6626d364874233"
+    ],
+    "titles": [
+      "Build Tool-Calling Parsers in Rust with AI Agents",
+      "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents",
+      "Introducing Tool Retrieval in the Gemini API",
+      "Enabling Real-Time AI for Scientific Instruments with GPU-Native Data Acquisition",
+      "Walter Isaacson on curiosity and creativity in the AI age."
+    ],
+    "smtp_accepted_at_utc": "2026-11-19T19:38:13.811416Z"
   }
 ]
