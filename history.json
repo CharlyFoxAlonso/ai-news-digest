@@ -1,30 +1,5 @@
 [
   {
-    "digest_date_local": "2026-10-22",
-    "canonical_urls": [
-      "https://developer.nvidia.com/blog/running-frontier-class-ai-models-across-8-nvidia-dgx-spark-nodes",
-      "https://blogs.nvidia.com/blog/europe-earth-2-open-models-weather-climate-prediction",
-      "https://blogs.nvidia.com/blog/european-retail-open-models-robotics",
-      "https://blogs.nvidia.com/blog/minerva-platform-infrastructure",
-      "https://blogs.nvidia.com/blog/geforce-now-thursday-call-of-duty-modern-warfare-4"
-    ],
-    "article_hashes": [
-      "a9592e53f2c7c7097c443af05d5209643f1ec917c7548d356b01cf00a664f102",
-      "89a4e6d4e0e5bb84c8c4a86440e37f61766b72364e2eaad434aa332df0b4507f",
-      "898575ccc2fcbfd5eae1b5817ece44c53bb0820140b5be93fd6a235b29610654",
-      "2c1c1d0b09d0e274e1a661fddec3b1e1a572e8e1220966a1723e083500a741dd",
-      "856d845adf1f95fea166c4435a35d3b43e70845cf1ad656986c1055d37f71fc8"
-    ],
-    "titles": [
-      "Running Frontier-Class AI Models Across 8 NVIDIA DGX Spark Nodes",
-      "Pioneers Across Europe Deploy NVIDIA Earth-2 Open Models to Power Real-World Weather and Climate Prediction",
-      "NVIDIA Transforms European Retail, From Digital Discovery to Physical Operations",
-      "NVIDIA Unveils Minerva to Bring End-to-End Observability for AI Factories",
-      "Cloud Deployment Incoming: ‘Call of Duty: Modern Warfare 4’ Arrives on GeForce NOW"
-    ],
-    "smtp_accepted_at_utc": "2026-10-22T16:03:20.983159Z"
-  },
-  {
     "digest_date_local": "2026-10-23",
     "canonical_urls": [
       "https://developer.nvidia.com/blog/using-ai-agents-to-teach-robots-like-microduck-to-walk-in-simulation",
@@ -745,5 +720,30 @@
       "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost"
     ],
     "smtp_accepted_at_utc": "2026-11-20T19:16:05.250732Z"
+  },
+  {
+    "digest_date_local": "2026-11-21",
+    "canonical_urls": [
+      "https://the-decoder.com/bytedance-argues-most-ai-training-phases-are-unnecessary-and-backs-it-up-with-a-competitive-open-model",
+      "https://the-decoder.com/openai-shares-new-prompting-tips-for-gpt-6-2-astra-and-sol-to-fix-brief-answers-and-unnecessary-questions",
+      "https://the-decoder.com/hours-after-anthropic-claims-a-claude-proof-of-the-riemann-hypothesis-stanford-releases-an-all-human-competing-draft",
+      "https://the-decoder.com/nvidia-researchers-argue-huge-ai-context-windows-are-a-dead-end",
+      "https://the-decoder.com/us-technology-stocks-suffer-their-worst-weekly-loss-since-the-pandemic-as-ai-doubts-pile-up"
+    ],
+    "article_hashes": [
+      "9866df6d164d92d0364ce2e5b348bc46417cc025dbfd73b0bfa6e77408fcc8e2",
+      "9e9c7593a4213f217506c40cfc6f6ef8f3730a99f39869266c5f5080d09ade32",
+      "8770f2f899ce78561ca61bd84194ef36f8f8efd0464022dcf7b11ce5695f9e4e",
+      "1d5ae0e72c84bd6256b4225fb6010401bab43bc49ef22953e82e1b0fba2532d6",
+      "51abb6397aeb633766c0fb3fcf8edbd5707397edefab294a7eebfb224b428638"
+    ],
+    "titles": [
+      "Bytedance argues most AI training phases are unnecessary and backs it up with a competitive open model",
+      "OpenAI shares new prompting tips for GPT-6.2 Astra and Sol to fix brief answers and unnecessary questions",
+      "Hours after Anthropic claims a Claude proof of the Riemann hypothesis, Stanford releases an all-human competing draft",
+      "Nvidia researchers argue huge AI context windows are a dead end",
+      "US technology stocks suffer their worst weekly loss since the pandemic as AI doubts pile up"
+    ],
+    "smtp_accepted_at_utc": "2026-11-21T18:14:40.826339Z"
   }
 ]
