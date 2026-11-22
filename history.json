@@ -1,30 +1,5 @@
 [
   {
-    "digest_date_local": "2026-10-23",
-    "canonical_urls": [
-      "https://developer.nvidia.com/blog/using-ai-agents-to-teach-robots-like-microduck-to-walk-in-simulation",
-      "https://openai.com/index/openai-nask-ai-safety-security-partnership",
-      "https://huggingface.co/blog/microsoft/thinkingbox-training",
-      "https://developer.nvidia.com/blog/how-to-read-data-into-gpu-memory-in-python-with-nvidia-gpudirect-storage",
-      "https://blogs.nvidia.com/blog/kazakhstan-ai-compute-ecosystem"
-    ],
-    "article_hashes": [
-      "9794b201a214a494f02464305d1eac6cd2eef956acce0350a701d5619dca9bd8",
-      "1a543055a02f9816518cc03996b6a0ed89e5e65a847f479103d96112c902ed21",
-      "51888f116f5b083740bce79640ccacdc80055a08000c769931982fc83218805e",
-      "d52968d2b0a9b010f48c90ec41ed7769de96a323813b062b7976f24a653f7734",
-      "90e35913e5ba3eb8b4a92f72a9102af196230e962dff7b01553c19cb66fcc9b7"
-    ],
-    "titles": [
-      "Using AI Agents to Teach Robots Like Microduck to Walk in Simulation",
-      "OpenAI and Poland’s NASK partner to advance AI safety and security",
-      "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
-      "How to Read Data into GPU Memory in Python with NVIDIA GPUDirect Storage",
-      "Kazakhstan Expands Compute for Its AI Future"
-    ],
-    "smtp_accepted_at_utc": "2026-10-23T15:56:05.671158Z"
-  },
-  {
     "digest_date_local": "2026-10-24",
     "canonical_urls": [
       "https://openai.com/index/scaling-storage-one-billion-users-part-two",
@@ -745,5 +720,30 @@
       "US technology stocks suffer their worst weekly loss since the pandemic as AI doubts pile up"
     ],
     "smtp_accepted_at_utc": "2026-11-21T18:14:40.826339Z"
+  },
+  {
+    "digest_date_local": "2026-11-22",
+    "canonical_urls": [
+      "https://openai.com/index/perplexity-and-intelligence",
+      "https://the-decoder.com/gpt-6-2-astra-and-sol-get-to-the-point-faster-but-score-lower-on-transparency-than-claude",
+      "https://the-decoder.com/perplexitys-new-monitor-api-turns-web-search-from-a-one-off-query-into-a-nonstop-watchdog",
+      "https://the-decoder.com/ai-coding-agents-ace-isolated-tests-but-complete-fewer-than-one-in-ten-tasks-in-a-simulated-workplace",
+      "https://the-decoder.com/security-researchers-show-how-cheap-ai-inference-providers-steal-keys-and-snoop-on-users"
+    ],
+    "article_hashes": [
+      "1a10f1676d46fc01a909d8eab6d17033b89331ee5fd1f1e04952fc2f6f54665c",
+      "cdf192da367fc2463591952814c43810cf1b23c42f29ac8124ba319b491dae11",
+      "977e654476b3a1267cf222cb755de8a38f873c2282c1bc914f3c19ef121e88dd",
+      "355871b4c59f61e6aa35125ed8f4b77088d4647008356e0f5d836affcd4b21b4",
+      "a131c024f657a6c8b5eefe2c353c9d9984b44ad81dbbbbcdbae4e4d4908cf4b9"
+    ],
+    "titles": [
+      "Perplexity and Intelligence",
+      "GPT-6.2 Astra and Sol get to the point faster but score lower on transparency than Claude",
+      "Perplexity's new Monitor API turns web search from a one-off query into a nonstop watchdog",
+      "AI coding agents ace isolated tests but complete fewer than one in ten tasks in a simulated workplace",
+      "Security researchers show how cheap AI inference providers steal keys and snoop on users"
+    ],
+    "smtp_accepted_at_utc": "2026-11-22T18:39:24.841475Z"
   }
 ]
