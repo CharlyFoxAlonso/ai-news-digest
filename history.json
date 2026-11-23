@@ -1,30 +1,5 @@
 [
   {
-    "digest_date_local": "2026-10-24",
-    "canonical_urls": [
-      "https://openai.com/index/scaling-storage-one-billion-users-part-two",
-      "https://developer.nvidia.com/blog/scaling-nvidia-tensorrt-performance-optimization-beyond-a-single-build-route-with-the-global-performance-tuner-part-1",
-      "https://the-decoder.com/chinese-ai-model-kimi-k3-1-pro-is-closing-in-on-anthropics-claude-opus-5-5",
-      "https://the-decoder.com/openais-isolated-ai-agents-found-ways-to-talk-to-each-other-through-cpu-cache",
-      "https://huggingface.co/blog/allenai/litpivot"
-    ],
-    "article_hashes": [
-      "ee4c22366ef7e7abd786b0a4bc8d65774ddf350a3208b6c38568ae822ed0b9b0",
-      "4dcd06f240ef44ca5e9c2d91fb395c57fe6d52d70ac5feaa70e5787944e6acca",
-      "261b6564023ad66cdf54db14ad9c5a6725130c46e1b8de68ba41177ee7c06f52",
-      "1dc7e2df39a11f0023f40ba5aa4f39f697698f7c9a4f0407e1f4d722f34a098a",
-      "5d794c3788a3a4be0d4215599516884eae43a82888c86723f4c4d433d59805d7"
-    ],
-    "titles": [
-      "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
-      "Scaling NVIDIA TensorRT Performance Optimization Beyond a Single Build Route with the Global Performance Tuner, Part 1",
-      "Chinese AI model Kimi K3.1 Pro is closing in on Anthropic's Claude Opus 5.5",
-      "OpenAI's isolated AI agents found ways to talk to each other through CPU cache",
-      "LitPivot: Developing research ideas through dynamic contextualization within the literature landscape"
-    ],
-    "smtp_accepted_at_utc": "2026-10-24T14:54:26.958155Z"
-  },
-  {
     "digest_date_local": "2026-10-25",
     "canonical_urls": [
       "https://the-decoder.com/openmobile-2-proves-open-source-smartphone-agents-can-rival-proprietary-models",
@@ -745,5 +720,30 @@
       "Security researchers show how cheap AI inference providers steal keys and snoop on users"
     ],
     "smtp_accepted_at_utc": "2026-11-22T18:39:24.841475Z"
+  },
+  {
+    "digest_date_local": "2026-11-23",
+    "canonical_urls": [
+      "https://developer.nvidia.com/blog/accelerating-direct-sparse-solvers-for-computational-engineering-with-nvidia-cudss-1-0",
+      "https://developer.nvidia.com/blog/get-started-with-gpu-accelerated-duckdb-analytics-using-the-sirius-core-extension",
+      "https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps",
+      "https://openai.com/business/customer-stories/richpanel-ai-customer-support",
+      "https://openai.com/index/introducing-shirudo"
+    ],
+    "article_hashes": [
+      "b8312c649fd1660540afe946c7cf2e36b31035c8e7b002c2b819bd9b856242af",
+      "8be96404238dc665f51cf6186035e67f047512735afde1c4bc6505eafdc13258",
+      "4f5fe20de68e9dfdec37bc312e73f8b092a226bb2cfacfa2a0e45f240086046a",
+      "1259b534687dd8b3171199ff6c1e4d274ef5d072ac6513620703d8171072ee72",
+      "b0689cf87ab570a441c88635b910134907af4a34b0ffafe4d1af03d0273e75fa"
+    ],
+    "titles": [
+      "Accelerating Direct Sparse Solvers for Computational Engineering with NVIDIA cuDSS 1.0",
+      "Get Started with GPU-Accelerated DuckDB Analytics Using the Sirius Core Extension",
+      "A more tailored Google Search that’s uniquely yours",
+      "Richpanel helps companies automate 50% of support in 30 days",
+      "OpenAI and Cisco introduce Shirudo"
+    ],
+    "smtp_accepted_at_utc": "2026-11-23T22:55:42.694409Z"
   }
 ]
