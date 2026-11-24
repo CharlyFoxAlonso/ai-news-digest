@@ -1,30 +1,5 @@
 [
   {
-    "digest_date_local": "2026-10-25",
-    "canonical_urls": [
-      "https://the-decoder.com/openmobile-2-proves-open-source-smartphone-agents-can-rival-proprietary-models",
-      "https://the-decoder.com/nvidia-open-sources-flora-to-make-robot-video-labeling-125x-cheaper-than-gpt-6-astra",
-      "https://the-decoder.com/ex-google-ceo-eric-schmidt-calls-openai-and-anthropic-modern-colonial-trading-companies",
-      "https://the-decoder.com/anthropic-says-one-ai-agent-beats-many-subagents-now-that-models-can-handle-complexity-alone",
-      "https://the-decoder.com/openai-offers-discounts-up-to-90-percent-to-poach-anthropics-biggest-customers"
-    ],
-    "article_hashes": [
-      "514019d7b63420990bab75dafe4aed654330a74440252e7d6f63fa85cc0a30f0",
-      "af9112a54e84d14efff606d44e3137f28aad369b1f1ecc039bed13d13cb8cf0f",
-      "d912c23bdf4e14eb85ca728b4da32a800a7a5d311051ca5d176f0065a23b021f",
-      "de032cfb4352542bba897aaee4bf20062951acc17e2b1194df465c0d25a442f7",
-      "d273d07497a522ff1096220ab41d8b173ebbd335ddcd1553523e7b8d94336f68"
-    ],
-    "titles": [
-      "OpenMobile-2 proves open-source smartphone agents can rival proprietary models",
-      "Nvidia open-sources Flora to make robot video labeling 125x cheaper than GPT-6 Astra",
-      "Ex-Google CEO Eric Schmidt calls OpenAI and Anthropic modern colonial trading companies",
-      "Anthropic says one AI agent beats many subagents now that models can handle complexity alone",
-      "OpenAI offers discounts up to 90 percent to poach Anthropic's biggest customers"
-    ],
-    "smtp_accepted_at_utc": "2026-10-25T15:03:44.649902Z"
-  },
-  {
     "digest_date_local": "2026-10-26",
     "canonical_urls": [
       "https://developer.nvidia.com/blog/how-nvidia-mission-control-2-5-brings-autonomous-recovery-to-kubernetes",
@@ -745,5 +720,30 @@
       "OpenAI and Cisco introduce Shirudo"
     ],
     "smtp_accepted_at_utc": "2026-11-23T22:55:42.694409Z"
+  },
+  {
+    "digest_date_local": "2026-11-24",
+    "canonical_urls": [
+      "https://developer.nvidia.com/blog/how-to-run-nvidia-cosmos-3-on-local-ai-devices-using-hugging-face-diffusers",
+      "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
+      "https://developer.nvidia.com/blog/qa-how-everstone-brings-where-winds-meet-to-life-with-nvidia-dlss-5",
+      "https://blog.google/products-and-platforms/products/gemini/gemini-golden-state",
+      "https://developer.nvidia.com/blog/prepare-market-data-for-forecasting-with-nvidia-megatron-core"
+    ],
+    "article_hashes": [
+      "c0d507596078021a4d8bef70d1ed08f4e24d1be2b66b8cda3ef3baffa6dab854",
+      "ac2f786b30f6d45772c42167559dc1dfd027b2c713b30efaaeedeee5585de3fa",
+      "4a60cf75ab435f1bbee68f405c95853a4817e5c6d6c910de4cbd22eade22bc00",
+      "a7a0adf7d6c734e350c9ea11283c0fe8c513cc2bb1d3bcd56555bd53c3f8d9a6",
+      "aeea7456d8046f44c6353b819a8b23048cf90d92038563df0f7ac6feb0b53d26"
+    ],
+    "titles": [
+      "How to Run NVIDIA Cosmos 3 on Local AI Devices Using Hugging Face Diffusers",
+      "GPT-6 models demonstrate intrinsic protein-design capabilities",
+      "Q&A: How Everstone Brings Where Winds Meet to Life with NVIDIA DLSS 5",
+      "How Gemini is changing the game for Golden State's organization and fans.",
+      "Prepare Market Data for Forecasting with NVIDIA Megatron Core"
+    ],
+    "smtp_accepted_at_utc": "2026-11-24T21:32:38.232005Z"
   }
 ]
