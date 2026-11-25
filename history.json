@@ -1,30 +1,5 @@
 [
   {
-    "digest_date_local": "2026-10-26",
-    "canonical_urls": [
-      "https://developer.nvidia.com/blog/how-nvidia-mission-control-2-5-brings-autonomous-recovery-to-kubernetes",
-      "https://developer.nvidia.com/blog/how-nvidia-minerva-turns-telemetry-chaos-into-peak-gpu-yield",
-      "https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks",
-      "https://openai.com/index/fanatics-streamline-fan-experience",
-      "https://the-decoder.com/wall-streets-fastest-traders-are-building-data-centers-and-backing-chip-startups-to-stay-ahead-in-ai"
-    ],
-    "article_hashes": [
-      "c3d6fb64eb5418e851ca7abff97937a1952a85158774ca6efafb90e07782d1e8",
-      "edeae07ffd206303c7d9698c0dee2470011aeffa002e6b500b1eb196a998ebed",
-      "9a15b40232fdbf825a34f1cb708e4553949c400aff4f3528a83f8e0a1a014861",
-      "7e73eebe3e909303c4c59a7dc0b734e92c38bcdbedd7db32071af67e1885bb5c",
-      "90c8d1af69f48f52a4bcbdead274636a06c151fb0a6392706410ff41b3f94b97"
-    ],
-    "titles": [
-      "How NVIDIA Mission Control 2.5 Brings Autonomous Recovery to Kubernetes",
-      "How NVIDIA Minerva Turns Telemetry Chaos Into Peak GPU Yield",
-      "Our newest AI Quest: Mapping the human brain",
-      "How Fanatics and OpenAI streamline the fan experience",
-      "Wall Street's fastest traders are building data centers and backing chip startups to stay ahead in AI"
-    ],
-    "smtp_accepted_at_utc": "2026-10-26T17:39:20.880766Z"
-  },
-  {
     "digest_date_local": "2026-10-27",
     "canonical_urls": [
       "https://developer.nvidia.com/blog/3-ways-to-boost-moe-inference-on-nvidia-dgx-spark",
@@ -745,5 +720,30 @@
       "Prepare Market Data for Forecasting with NVIDIA Megatron Core"
     ],
     "smtp_accepted_at_utc": "2026-11-24T21:32:38.232005Z"
+  },
+  {
+    "digest_date_local": "2026-11-25",
+    "canonical_urls": [
+      "https://developer.nvidia.com/blog/how-to-optimize-nvfp4-attention-on-nvidia-rtx-blackwell-through-register-recycling",
+      "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
+      "https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga",
+      "https://huggingface.co/blog/inkling-2-mini-inference-hillclimb",
+      "https://the-decoder.com/ai-agents-now-control-part-of-deepminds-compute-for-gemini-experiments-but-recursive-self-improvement-remains-distant"
+    ],
+    "article_hashes": [
+      "f09aeb2897d181487b1d95eaae447cfb83ac53ef1df0ee09f1da0926962ead72",
+      "88bd06d7e0e9b82f43a3c7b49740216e6a1dfae7affc60d91ec0a4415c5ccb91",
+      "0077e07924e43bf73f6b214e80c2636fd705749c1e6b72af3b822ac4ce5e9fb4",
+      "df3be113c8aed13fbadf7f5fd23bf1c3fea1d6aa84ef1d6c6b80d5e4f468adf1",
+      "305e62040e8a734e17a1846ad4df4ef6e70f05bb65b90b916514e647ce502f90"
+    ],
+    "titles": [
+      "How to Optimize NVFP4 Attention on NVIDIA RTX Blackwell Through Register Recycling",
+      "Where scientists draw the line on AI agents",
+      "An Indic Voice Agent with CUGA",
+      "Hill-climbing Inkling 2 Mini inference on one RTX PRO 6000",
+      "AI agents now control part of Deepmind's compute for Gemini experiments, but recursive self-improvement remains distant"
+    ],
+    "smtp_accepted_at_utc": "2026-11-25T20:40:25.392723Z"
   }
 ]
