@@ -1,30 +1,5 @@
 [
   {
-    "digest_date_local": "2026-10-27",
-    "canonical_urls": [
-      "https://developer.nvidia.com/blog/3-ways-to-boost-moe-inference-on-nvidia-dgx-spark",
-      "https://developer.nvidia.com/blog/fine-tuning-nvidia-nemotron-to-know-local-rules-not-just-local-languages",
-      "https://openai.com/index/oracle-apps-in-chatgpt",
-      "https://huggingface.co/blog/allenai/novelty-bench",
-      "https://blogs.nvidia.com/blog/open-source-ai-tools-cbrain-dementia"
-    ],
-    "article_hashes": [
-      "b836eb939c37ffa509e8f37395950a4f0ed3b0cc1c59a3f8f89e2eca8344554d",
-      "5ed14fffd1748be81239c17e87c05a2915151bb1f27364eb91251a7093cf62df",
-      "c417f8e3d39d0b893c07541bfe85fce19056b39882f88193551609651d5af4ff",
-      "1d6c5c59e46e52b936cbc7b983785a69d62ade05b868a690011ee911fd57d509",
-      "d7e464add4da97a4e7592a6fa93a7a58c7fc1610f590ab3242468843339ea4fd"
-    ],
-    "titles": [
-      "3 Ways to Boost MoE Inference on NVIDIA DGX Spark",
-      "Fine-Tuning NVIDIA Nemotron to Know Local Rules, Not Just Local Languages",
-      "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
-      "Can we trust LLMs to judge whether a research idea is novel?",
-      "How AI Is Changing the Pace of Discovery for Millions Living With Dementia"
-    ],
-    "smtp_accepted_at_utc": "2026-10-27T16:52:19.926361Z"
-  },
-  {
     "digest_date_local": "2026-10-28",
     "canonical_urls": [
       "https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-updates-models-agents-games",
@@ -745,5 +720,30 @@
       "AI agents now control part of Deepmind's compute for Gemini experiments, but recursive self-improvement remains distant"
     ],
     "smtp_accepted_at_utc": "2026-11-25T20:40:25.392723Z"
+  },
+  {
+    "digest_date_local": "2026-11-26",
+    "canonical_urls": [
+      "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin",
+      "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
+      "https://blogs.nvidia.com/blog/geforce-now-thursday-community-war-thunder-reward",
+      "https://huggingface.co/blog/training-swarms",
+      "https://the-decoder.com/after-openai-and-anthropic-shut-the-door-on-their-data-a-chinese-ai-developer-is-turning-to-google-and-meta-instead"
+    ],
+    "article_hashes": [
+      "3d2697b636d74b834fc0e7341d4d275b2177cb68cfa6554cf0431f54189d28f2",
+      "a734da9d3a1d876054f86e6e92e632f9c2a091a208fef8a96dd4cc4467d6055b",
+      "c91b7def9228b89ac731b404e7facf948110ac56b2b84d4501edb7300fb17086",
+      "819f2bb8e324e5e7f3ab174fd75a2e35e495da76ab1ed0dc431b91e93d876cbf",
+      "0cbde04697fb93d76db2e02662af096f33c1d2ef971e6ea4d9d2dd56d54f2fcc"
+    ],
+    "titles": [
+      "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
+      "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
+      "Come for the Games, Stay for the Community With GeForce NOW",
+      "Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems",
+      "After OpenAI and Anthropic shut the door on their data, a Chinese AI developer is turning to Google and Meta instead"
+    ],
+    "smtp_accepted_at_utc": "2026-11-26T20:33:23.040791Z"
   }
 ]
