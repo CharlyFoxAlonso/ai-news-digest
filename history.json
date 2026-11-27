@@ -1,30 +1,5 @@
 [
   {
-    "digest_date_local": "2026-10-28",
-    "canonical_urls": [
-      "https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-updates-models-agents-games",
-      "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
-      "https://openai.com/index/legora-agentic-operating-system-for-legal-work",
-      "https://developer.nvidia.com/blog/memory-enforced-gpu-sharing-in-kubernetes-with-nvidia-cuda-13-4",
-      "https://the-decoder.com/google-opens-android-development-to-third-party-ai-agents-and-unveils-new-gemini-apis"
-    ],
-    "article_hashes": [
-      "7281347817fe3ba228cd868488ca8c0cc27ca6f71c01ffcfde7bc19727cc20fa",
-      "ec733f799e1aaee3d1ac15d7aac92b358c82bd195281ac7a4de4982266b1d5fd",
-      "67c6b18b0a76451db874442c24f6ea5f495cc3b47e8381a05018127b62758012",
-      "449070727cbfb984c7123a4ae25d3e3f7940fc76856e90e464839c7dcd1901e5",
-      "b9545b95e7aefbea9a3774048c094600669ab8977cc589267ae7db58bad79350"
-    ],
-    "titles": [
-      "Thin, Light and Built for Everything: NVIDIA RTX Spark Windows Laptops Gain New Models, Agent Tools and Games",
-      "NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt",
-      "Legora is building the agentic operating system for legal work",
-      "Memory-Enforced GPU Sharing in Kubernetes with NVIDIA CUDA 13.4",
-      "Google opens Android development to third-party AI agents and unveils new Gemini APIs"
-    ],
-    "smtp_accepted_at_utc": "2026-10-28T17:25:22.145358Z"
-  },
-  {
     "digest_date_local": "2026-10-29",
     "canonical_urls": [
       "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
@@ -745,5 +720,30 @@
       "After OpenAI and Anthropic shut the door on their data, a Chinese AI developer is turning to Google and Meta instead"
     ],
     "smtp_accepted_at_utc": "2026-11-26T20:33:23.040791Z"
+  },
+  {
+    "digest_date_local": "2026-11-27",
+    "canonical_urls": [
+      "https://huggingface.co/blog/video-trainium3",
+      "https://the-decoder.com/openai-is-building-athena-data-platform-to-cut-down-on-ai-agent-guesswork",
+      "https://the-decoder.com/openai-countersues-apple-over-trade-secret-theft-and-alleged-coercion-of-shared-suppliers",
+      "https://the-decoder.com/banned-nvidia-blackwell-chips-turn-up-in-a-shanghai-data-center-linked-to-alice-huang-bloomberg-reports",
+      "https://the-decoder.com/three-studies-from-meta-and-ami-labs-back-yann-lecuns-bet-on-jepa-world-models-over-large-language-models"
+    ],
+    "article_hashes": [
+      "c2bd7953104652e48b060cb836c5b0b220f5916987e34c7cb4215ee5c922c5b1",
+      "49a0b0da24d2d35980b5935c38253c0f0ef812ca6f4a35f4e3a82516397bf75d",
+      "08f091640aa6ea320e3c4e9608e069c3535bd4fe893c5f71452ab7c13c2fabba",
+      "0cda3e0008b79c9ae198ead7eabbfd8a26188c1879c157dfecc141e3a7451432",
+      "bae77cd2f2491f182bd4d76ba5a24147e0cd532e59c5e62a67aee02bd0ca9de2"
+    ],
+    "titles": [
+      "Taking Trainium3 to the Track: Generating Videos with LTX-2.5",
+      "OpenAI is building \"Athena\" data platform to cut down on AI agent guesswork",
+      "OpenAI countersues Apple over trade secret theft and alleged coercion of shared suppliers",
+      "Banned Nvidia Blackwell chips turn up in a Shanghai data center linked to Alice Huang, Bloomberg reports",
+      "Three studies from Meta and AMI Labs back Yann LeCun's bet on JEPA world models over large language models"
+    ],
+    "smtp_accepted_at_utc": "2026-11-27T20:19:57.194708Z"
   }
 ]
